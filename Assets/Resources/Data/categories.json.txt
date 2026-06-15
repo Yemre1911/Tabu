@@ -1,0 +1,34 @@
+{
+  "categories": [
+    {
+      "id": "classic",
+      "displayName": "Klasik",
+      "isDefault": true
+    },
+    {
+      "id": "football",
+      "displayName": "Futbol",
+      "isDefault": false
+    },
+    {
+      "id": "series_movies",
+      "displayName": "Dizi-Film",
+      "isDefault": false
+    },
+    {
+      "id": "music",
+      "displayName": "Müzik",
+      "isDefault": false
+    },
+       {
+      "id": "plus_18",
+      "displayName": "+18",
+      "isDefault": false
+    },
+       {
+      "id": "english",
+      "displayName": "Ingilizce",
+      "isDefault": false
+    }
+  ]
+}
