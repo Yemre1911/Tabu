@@ -25,7 +25,7 @@ namespace TabuOyunu.UI.MainMenu
 
         private void Awake()
         {
-            SetupSlider(timeSlider, 30, 240, 90);
+            SetupSlider(timeSlider, 5, 240, 90);
             SetupSlider(tabooPenaltySlider, 1, 3, 2);
             SetupSlider(passSlider, 2, 6, 3);
             SetupSlider(targetScoreSlider, 25, 100, 30);
