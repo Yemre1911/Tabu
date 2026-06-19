@@ -49,22 +49,4 @@ namespace TabuOyunu.Gameplay
         public int passCount = 3;
         public int targetScore = 50;
     }
-
-    [Serializable]
-    public sealed class WordActionRecord
-    {
-        public string word;
-        public List<string> forbiddenWords = new List<string>();
-        public WordAction action;
-        public int scoreDelta;
-    }
-
-    [Serializable]
-    public sealed class TurnRecord
-    {
-        public int roundNumber;
-        public TeamId teamId;
-        public string teamName;
-        public List<WordActionRecord> words = new List<WordActionRecord>();
-    }
 }

@@ -1,3 +1,4 @@
+using System;
 using UnityEngine;
 
 namespace TabuOyunu.Gameplay
@@ -9,28 +10,34 @@ namespace TabuOyunu.Gameplay
         public int RedScore { get; private set; }
         public int BlueScore { get; private set; }
 
-        private int targetScore;
-        private int tabuPenalty;
+        public int TargetScore { get; private set; }
+        public int TabuPenalty { get; private set; }
+
+        public event Action<TeamId, int> OnScoreChanged;
 
         public void Initialize(int targetScoreValue, int tabuPenaltyValue)
         {
             RedScore = 0;
             BlueScore = 0;
 
-            targetScore = targetScoreValue;
-            tabuPenalty = tabuPenaltyValue;
+            TargetScore = targetScoreValue;
+            TabuPenalty = tabuPenaltyValue;
+
+            OnScoreChanged?.Invoke(TeamId.Red, RedScore);
+            OnScoreChanged?.Invoke(TeamId.Blue, BlueScore);
         }
 
         public int ApplyAction(TeamId teamId, WordAction action)
         {
             int delta = GetScoreDelta(action);
-
-            if (teamId == TeamId.Red)
-                RedScore = ApplyDelta(RedScore, delta);
-            else
-                BlueScore = ApplyDelta(BlueScore, delta);
+            ApplyDeltaToTeam(teamId, delta);
 
             return delta;
+        }
+
+        public int CalculateRoundTotal(int correctCount, int tabooCount)
+        {
+            return correctCount - (tabooCount * TabuPenalty);
         }
 
         public int GetScore(TeamId teamId)
@@ -40,10 +47,10 @@ namespace TabuOyunu.Gameplay
 
         public bool HasReachedTarget(TeamId teamId)
         {
-            return GetScore(teamId) >= targetScore;
+            return GetScore(teamId) >= TargetScore;
         }
 
-        private int GetScoreDelta(WordAction action)
+        public int GetScoreDelta(WordAction action)
         {
             switch (action)
             {
@@ -51,13 +58,33 @@ namespace TabuOyunu.Gameplay
                     return 1;
 
                 case WordAction.Tabu:
-                    return -tabuPenalty;
+                    return -TabuPenalty;
 
                 case WordAction.Pass:
                     return 0;
 
                 default:
                     return 0;
+            }
+        }
+
+        private void ApplyDeltaToTeam(TeamId teamId, int delta)
+        {
+            if (delta == 0)
+            {
+                OnScoreChanged?.Invoke(teamId, GetScore(teamId));
+                return;
+            }
+
+            if (teamId == TeamId.Red)
+            {
+                RedScore = ApplyDelta(RedScore, delta);
+                OnScoreChanged?.Invoke(teamId, RedScore);
+            }
+            else
+            {
+                BlueScore = ApplyDelta(BlueScore, delta);
+                OnScoreChanged?.Invoke(teamId, BlueScore);
             }
         }
 

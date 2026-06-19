@@ -1,4 +1,4 @@
-using System.Collections;
+/*using System.Collections;
 using System.Collections.Generic;
 using System.Text;
 using TMPro;
@@ -253,6 +253,143 @@ namespace TabuOyunu.Gameplay
                 default:
                     return "-";
             }
+        }
+    }
+}*/
+
+using System.Collections;
+using TMPro;
+using UnityEngine;
+using UnityEngine.UI;
+
+namespace TabuOyunu.Gameplay
+{
+    public sealed class CurtainUIController : MonoBehaviour
+    {
+        [Header("Animator")]
+        [SerializeField] private Animator animator;
+        [SerializeField] private string onTriggerName = "on";
+        [SerializeField] private string offTriggerName = "off";
+        [SerializeField] private float animationWait = 0.35f;
+
+        [Header("Top Info")]
+        [SerializeField] private TMP_Text roundValueText;
+        [SerializeField] private TMP_Text targetScoreValueText;
+
+        [Header("Teams")]
+        [SerializeField] private TMP_Text redTeamNameText;
+        [SerializeField] private TMP_Text blueTeamNameText;
+        [SerializeField] private TMP_Text redScoreText;
+        [SerializeField] private TMP_Text blueScoreText;
+
+        [Header("Next Team")]
+        [SerializeField] private TMP_Text nextTeamNameText;
+        [SerializeField] private Image nextTeamBackground;
+        [SerializeField] private Color redTeamColor = new Color(1f, 0.25f, 0.25f);
+        [SerializeField] private Color blueTeamColor = new Color(0.35f, 0.5f, 1f);
+
+        [Header("Buttons")]
+        [SerializeField] private Button goButton;
+        [SerializeField] private Button finishButton;
+
+        private GameFlowController flowController;
+        private GameRuntimeSettings settings;
+        private TurnManager turnManager;
+        private ScoreManager scoreManager;
+
+        public void Bind(
+            GameFlowController flow,
+            GameRuntimeSettings runtimeSettings,
+            TurnManager turn,
+            ScoreManager score)
+        {
+            flowController = flow;
+            settings = runtimeSettings;
+            turnManager = turn;
+            scoreManager = score;
+
+            if (goButton != null)
+            {
+                goButton.onClick.RemoveAllListeners();
+                goButton.onClick.AddListener(flowController.OnGoPressed);
+            }
+
+            if (finishButton != null)
+            {
+                finishButton.onClick.RemoveAllListeners();
+                finishButton.onClick.AddListener(flowController.OnFinishPressed);
+            }
+        }
+
+        public void RefreshAll(bool isGameOver)
+        {
+            if (settings == null || turnManager == null || scoreManager == null)
+                return;
+
+            if (roundValueText != null)
+                roundValueText.text = turnManager.CurrentRound.ToString();
+
+            if (targetScoreValueText != null)
+                targetScoreValueText.text = settings.targetScore.ToString();
+
+            if (redTeamNameText != null)
+                redTeamNameText.text = settings.redTeamName;
+
+            if (blueTeamNameText != null)
+                blueTeamNameText.text = settings.blueTeamName;
+
+            SetScoreTexts(scoreManager.RedScore, scoreManager.BlueScore);
+
+            RefreshNextTeam(isGameOver);
+
+            if (goButton != null)
+                goButton.gameObject.SetActive(!isGameOver);
+        }
+
+        public void SetScoreTexts(int redScore, int blueScore)
+        {
+            if (redScoreText != null)
+                redScoreText.text = redScore.ToString();
+
+            if (blueScoreText != null)
+                blueScoreText.text = blueScore.ToString();
+        }
+
+        public IEnumerator PlayOnRoutine()
+        {
+            if (animator != null)
+            {
+                animator.ResetTrigger(offTriggerName);
+                animator.SetTrigger(onTriggerName);
+            }
+
+            yield return new WaitForSeconds(animationWait);
+        }
+
+        public IEnumerator PlayOffRoutine()
+        {
+            if (animator != null)
+            {
+                animator.ResetTrigger(onTriggerName);
+                animator.SetTrigger(offTriggerName);
+            }
+
+            yield return new WaitForSeconds(animationWait);
+        }
+
+        private void RefreshNextTeam(bool isGameOver)
+        {
+            TeamId team = turnManager.CurrentTeam;
+
+            if (nextTeamNameText != null)
+            {
+                nextTeamNameText.text = isGameOver
+                    ? "Oyun Bitti"
+                    : turnManager.GetCurrentTeamName(settings);
+            }
+
+            if (nextTeamBackground != null)
+                nextTeamBackground.color = team == TeamId.Red ? redTeamColor : blueTeamColor;
         }
     }
 }

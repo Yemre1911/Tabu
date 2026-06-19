@@ -18,11 +18,11 @@ namespace TabuOyunu.UI.MainMenu
         [SerializeField] private TMP_Text selectedModeText;
 
         private readonly List<GameModeDefinition> gameModes = new()
-        {
-            new GameModeDefinition("classic", "Klasik"),
-            new GameModeDefinition("fast", "Hızlı"),
-            new GameModeDefinition("hard", "Zor")
-        };
+{
+    new GameModeDefinition(GameModeIds.Classic, "Klasik"),
+    new GameModeDefinition(GameModeIds.Combo, "Kombo"),
+    new GameModeDefinition(GameModeIds.Joker, "Joker")
+};
 
         private int selectedModeIndex;
 

@@ -1,0 +1,4502 @@
+[
+  {
+    "word": "Gol",
+    "forbidden": [
+      "Kale",
+      "Top",
+      "Atmak",
+      "Skor",
+      "Ağ"
+    ]
+  },
+  {
+    "word": "Kaleci",
+    "forbidden": [
+      "Eldiven",
+      "Kale",
+      "Kurtarış",
+      "File",
+      "Ceza sahası"
+    ]
+  },
+  {
+    "word": "Forvet",
+    "forbidden": [
+      "Golcü",
+      "Hücum",
+      "Santrfor",
+      "Şut",
+      "Rakip kale"
+    ]
+  },
+  {
+    "word": "Defans",
+    "forbidden": [
+      "Savunma",
+      "Stoper",
+      "Bek",
+      "Müdahale",
+      "Rakip"
+    ]
+  },
+  {
+    "word": "Orta Saha",
+    "forbidden": [
+      "Pas",
+      "Oyun kurucu",
+      "Merkez",
+      "Top dağıtmak",
+      "Koşu"
+    ]
+  },
+  {
+    "word": "Hakem",
+    "forbidden": [
+      "Düdük",
+      "Kart",
+      "Karar",
+      "Faul",
+      "Maç yönetmek"
+    ]
+  },
+  {
+    "word": "Sarı Kart",
+    "forbidden": [
+      "Uyarı",
+      "Hakem",
+      "Faul",
+      "Ceza",
+      "Kart"
+    ]
+  },
+  {
+    "word": "Kırmızı Kart",
+    "forbidden": [
+      "Atılmak",
+      "Hakem",
+      "Ceza",
+      "Faul",
+      "Eksik kalmak"
+    ]
+  },
+  {
+    "word": "Penaltı",
+    "forbidden": [
+      "Ceza sahası",
+      "Kaleci",
+      "Nokta",
+      "Şut",
+      "Hakem"
+    ]
+  },
+  {
+    "word": "Serbest Vuruş",
+    "forbidden": [
+      "Faul",
+      "Baraj",
+      "Şut",
+      "Hakem",
+      "Top"
+    ]
+  },
+  {
+    "word": "Korner",
+    "forbidden": [
+      "Köşe",
+      "Bayrak",
+      "Orta",
+      "Top",
+      "Ceza sahası"
+    ]
+  },
+  {
+    "word": "Taç",
+    "forbidden": [
+      "Çizgi",
+      "El",
+      "Top",
+      "Dışarı",
+      "Oyuna sokmak"
+    ]
+  },
+  {
+    "word": "Ofsayt",
+    "forbidden": [
+      "Çizgi",
+      "Hakem",
+      "Forvet",
+      "Savunma",
+      "Bayrak"
+    ]
+  },
+  {
+    "word": "Faul",
+    "forbidden": [
+      "Müdahale",
+      "Hakem",
+      "Düdük",
+      "Rakip",
+      "Ceza"
+    ]
+  },
+  {
+    "word": "Şut",
+    "forbidden": [
+      "Top",
+      "Kaleye",
+      "Vurmak",
+      "Gol",
+      "Ayak"
+    ]
+  },
+  {
+    "word": "Pas",
+    "forbidden": [
+      "Top",
+      "Arkadaş",
+      "Vermek",
+      "Orta saha",
+      "Oyun"
+    ]
+  },
+  {
+    "word": "Asist",
+    "forbidden": [
+      "Gol pası",
+      "Takım arkadaşı",
+      "Pas",
+      "Skor",
+      "Hazırlamak"
+    ]
+  },
+  {
+    "word": "Dripling",
+    "forbidden": [
+      "Çalım",
+      "Top sürmek",
+      "Rakip",
+      "Ayak",
+      "Hız"
+    ]
+  },
+  {
+    "word": "Çalım",
+    "forbidden": [
+      "Rakip",
+      "Geçmek",
+      "Top",
+      "Dripling",
+      "Bilek"
+    ]
+  },
+  {
+    "word": "Kafa Vuruşu",
+    "forbidden": [
+      "Baş",
+      "Orta",
+      "Top",
+      "Gol",
+      "Zıplamak"
+    ]
+  },
+  {
+    "word": "Volé",
+    "forbidden": [
+      "Havadan",
+      "Şut",
+      "Top",
+      "Vurmak",
+      "Estetik"
+    ]
+  },
+  {
+    "word": "Röveşata",
+    "forbidden": [
+      "Ters",
+      "Havada",
+      "Şut",
+      "Gol",
+      "Sırt"
+    ]
+  },
+  {
+    "word": "Plase",
+    "forbidden": [
+      "Köşe",
+      "Şut",
+      "Ayak içi",
+      "Kaleci",
+      "Yavaş"
+    ]
+  },
+  {
+    "word": "Frikik",
+    "forbidden": [
+      "Serbest vuruş",
+      "Baraj",
+      "Top",
+      "Şut",
+      "Gol"
+    ]
+  },
+  {
+    "word": "Baraj",
+    "forbidden": [
+      "Oyuncu",
+      "Duvar",
+      "Frikik",
+      "Savunma",
+      "Hakem"
+    ]
+  },
+  {
+    "word": "Ceza Sahası",
+    "forbidden": [
+      "Penaltı",
+      "Kale",
+      "Alan",
+      "Kaleci",
+      "Çizgi"
+    ]
+  },
+  {
+    "word": "Altıpas",
+    "forbidden": [
+      "Kale önü",
+      "Kaleci",
+      "Ceza sahası",
+      "Yakın",
+      "Gol"
+    ]
+  },
+  {
+    "word": "Kale Direği",
+    "forbidden": [
+      "Direk",
+      "Top",
+      "Çarpma",
+      "Kale",
+      "Yan"
+    ]
+  },
+  {
+    "word": "Üst Direk",
+    "forbidden": [
+      "Kale",
+      "Çarpma",
+      "Top",
+      "Yukarı",
+      "Direk"
+    ]
+  },
+  {
+    "word": "File",
+    "forbidden": [
+      "Ağ",
+      "Kale",
+      "Gol",
+      "Top",
+      "Arka"
+    ]
+  },
+  {
+    "word": "Santra",
+    "forbidden": [
+      "Başlama",
+      "Orta saha",
+      "Düdük",
+      "Top",
+      "Maç"
+    ]
+  },
+  {
+    "word": "Devre Arası",
+    "forbidden": [
+      "İlk yarı",
+      "Soyunma odası",
+      "Mola",
+      "İkinci yarı",
+      "15 dakika"
+    ]
+  },
+  {
+    "word": "Uzatma",
+    "forbidden": [
+      "Ek süre",
+      "90 dakika",
+      "Hakem",
+      "Dakika",
+      "Maç sonu"
+    ]
+  },
+  {
+    "word": "Duraklama Süresi",
+    "forbidden": [
+      "Kayıp zaman",
+      "Hakem",
+      "Tabela",
+      "Uzatma",
+      "Dakika"
+    ]
+  },
+  {
+    "word": "Yedek Kulübesi",
+    "forbidden": [
+      "Oyuncu",
+      "Teknik direktör",
+      "Kenarda",
+      "Değişiklik",
+      "Oturmak"
+    ]
+  },
+  {
+    "word": "Oyuncu Değişikliği",
+    "forbidden": [
+      "Yedek",
+      "Çıkmak",
+      "Girmek",
+      "Tabela",
+      "Teknik direktör"
+    ]
+  },
+  {
+    "word": "Teknik Direktör",
+    "forbidden": [
+      "Antrenör",
+      "Taktik",
+      "Takım",
+      "Kulübe",
+      "Hoca"
+    ]
+  },
+  {
+    "word": "Antrenman",
+    "forbidden": [
+      "Çalışma",
+      "Takım",
+      "Saha",
+      "Koşu",
+      "Hazırlık"
+    ]
+  },
+  {
+    "word": "Taktik",
+    "forbidden": [
+      "Plan",
+      "Diziliş",
+      "Hoca",
+      "Oyun",
+      "Strateji"
+    ]
+  },
+  {
+    "word": "Diziliş",
+    "forbidden": [
+      "Formasyon",
+      "4-4-2",
+      "Taktik",
+      "Oyuncu",
+      "Saha"
+    ]
+  },
+  {
+    "word": "4-4-2",
+    "forbidden": [
+      "Diziliş",
+      "Formasyon",
+      "Defans",
+      "Orta saha",
+      "Forvet"
+    ]
+  },
+  {
+    "word": "4-3-3",
+    "forbidden": [
+      "Diziliş",
+      "Kanat",
+      "Forvet",
+      "Orta saha",
+      "Formasyon"
+    ]
+  },
+  {
+    "word": "3-5-2",
+    "forbidden": [
+      "Diziliş",
+      "Üçlü savunma",
+      "Kanat bek",
+      "Formasyon",
+      "Taktik"
+    ]
+  },
+  {
+    "word": "Kanat",
+    "forbidden": [
+      "Sağ",
+      "Sol",
+      "Orta",
+      "Hız",
+      "Çizgi"
+    ]
+  },
+  {
+    "word": "Bek",
+    "forbidden": [
+      "Savunma",
+      "Kanat",
+      "Sağ bek",
+      "Sol bek",
+      "Defans"
+    ]
+  },
+  {
+    "word": "Stoper",
+    "forbidden": [
+      "Defans",
+      "Savunma",
+      "Kafa",
+      "Müdahale",
+      "Merkez"
+    ]
+  },
+  {
+    "word": "Libero",
+    "forbidden": [
+      "Savunma",
+      "Stoper",
+      "Serbest",
+      "Eski",
+      "Defans arkası"
+    ]
+  },
+  {
+    "word": "Santrfor",
+    "forbidden": [
+      "Forvet",
+      "Golcü",
+      "Ceza sahası",
+      "Şut",
+      "Hücum"
+    ]
+  },
+  {
+    "word": "Kanat Forvet",
+    "forbidden": [
+      "Hız",
+      "Çizgi",
+      "Forvet",
+      "Orta",
+      "Çalım"
+    ]
+  },
+  {
+    "word": "Oyun Kurucu",
+    "forbidden": [
+      "Pas",
+      "Orta saha",
+      "Taktik",
+      "Beyin",
+      "Top dağıtmak"
+    ]
+  },
+  {
+    "word": "Ön Libero",
+    "forbidden": [
+      "Defansif orta saha",
+      "Kesici",
+      "Savunma",
+      "Pas",
+      "Merkez"
+    ]
+  },
+  {
+    "word": "Kaptan",
+    "forbidden": [
+      "Pazubent",
+      "Takım",
+      "Lider",
+      "Oyuncu",
+      "Saha"
+    ]
+  },
+  {
+    "word": "Pazubent",
+    "forbidden": [
+      "Kaptan",
+      "Kol",
+      "Takım",
+      "Lider",
+      "Band"
+    ]
+  },
+  {
+    "word": "Forma",
+    "forbidden": [
+      "Takım",
+      "Oyuncu",
+      "Numara",
+      "Renk",
+      "Giyinmek"
+    ]
+  },
+  {
+    "word": "Krampon",
+    "forbidden": [
+      "Ayakkabı",
+      "Çim",
+      "Oyuncu",
+      "Dişli",
+      "Ayak"
+    ]
+  },
+  {
+    "word": "Top",
+    "forbidden": [
+      "Futbol",
+      "Yuvarlak",
+      "Şut",
+      "Pas",
+      "Gol"
+    ]
+  },
+  {
+    "word": "Stadyum",
+    "forbidden": [
+      "Tribün",
+      "Saha",
+      "Taraftar",
+      "Maç",
+      "Koltuk"
+    ]
+  },
+  {
+    "word": "Tribün",
+    "forbidden": [
+      "Taraftar",
+      "Stadyum",
+      "Koltuk",
+      "Tezahürat",
+      "Seyirci"
+    ]
+  },
+  {
+    "word": "Taraftar",
+    "forbidden": [
+      "Destek",
+      "Tribün",
+      "Takım",
+      "Tezahürat",
+      "Maç"
+    ]
+  },
+  {
+    "word": "Tezahürat",
+    "forbidden": [
+      "Bağırmak",
+      "Taraftar",
+      "Tribün",
+      "Marş",
+      "Destek"
+    ]
+  },
+  {
+    "word": "Marş",
+    "forbidden": [
+      "Taraftar",
+      "Şarkı",
+      "Takım",
+      "Söylemek",
+      "Tribün"
+    ]
+  },
+  {
+    "word": "Derbi",
+    "forbidden": [
+      "Rakip",
+      "Büyük maç",
+      "Şehir",
+      "Taraftar",
+      "Rekabet"
+    ]
+  },
+  {
+    "word": "Rövanş",
+    "forbidden": [
+      "İkinci maç",
+      "Eleme",
+      "Karşılaşma",
+      "İntikam",
+      "Tur"
+    ]
+  },
+  {
+    "word": "Final",
+    "forbidden": [
+      "Kupa",
+      "Son maç",
+      "Şampiyon",
+      "Kazanan",
+      "Turnuva"
+    ]
+  },
+  {
+    "word": "Yarı Final",
+    "forbidden": [
+      "Final öncesi",
+      "Eleme",
+      "Dört takım",
+      "Tur",
+      "Maç"
+    ]
+  },
+  {
+    "word": "Çeyrek Final",
+    "forbidden": [
+      "Sekiz takım",
+      "Eleme",
+      "Tur",
+      "Yarı final",
+      "Kupa"
+    ]
+  },
+  {
+    "word": "Grup Aşaması",
+    "forbidden": [
+      "Puan",
+      "Takım",
+      "Turnuva",
+      "Maç",
+      "Sıralama"
+    ]
+  },
+  {
+    "word": "Puan Durumu",
+    "forbidden": [
+      "Lig",
+      "Sıralama",
+      "Galibiyet",
+      "Beraberlik",
+      "Mağlubiyet"
+    ]
+  },
+  {
+    "word": "Lig",
+    "forbidden": [
+      "Takım",
+      "Sezon",
+      "Puan",
+      "Şampiyonluk",
+      "Maç"
+    ]
+  },
+  {
+    "word": "Kupa",
+    "forbidden": [
+      "Turnuva",
+      "Final",
+      "Şampiyon",
+      "Madalya",
+      "Kazanan"
+    ]
+  },
+  {
+    "word": "Şampiyonluk",
+    "forbidden": [
+      "Birinci",
+      "Kupa",
+      "Sezon",
+      "Takım",
+      "Zafer"
+    ]
+  },
+  {
+    "word": "Küme Düşme",
+    "forbidden": [
+      "Alt lig",
+      "Son sıra",
+      "Puan",
+      "Takım",
+      "Sezon"
+    ]
+  },
+  {
+    "word": "Transfer",
+    "forbidden": [
+      "Oyuncu",
+      "Kulüp",
+      "İmza",
+      "Bonservis",
+      "Piyasa"
+    ]
+  },
+  {
+    "word": "Bonservis",
+    "forbidden": [
+      "Transfer",
+      "Para",
+      "Kulüp",
+      "Oyuncu",
+      "Sözleşme"
+    ]
+  },
+  {
+    "word": "Kiralık",
+    "forbidden": [
+      "Transfer",
+      "Geçici",
+      "Oyuncu",
+      "Kulüp",
+      "Sezon"
+    ]
+  },
+  {
+    "word": "Sözleşme",
+    "forbidden": [
+      "İmza",
+      "Oyuncu",
+      "Kulüp",
+      "Maaş",
+      "Yıl"
+    ]
+  },
+  {
+    "word": "Menajer",
+    "forbidden": [
+      "Oyuncu",
+      "Transfer",
+      "Temsilci",
+      "Anlaşma",
+      "Kulüp"
+    ]
+  },
+  {
+    "word": "Scout",
+    "forbidden": [
+      "Oyuncu izlemek",
+      "Yetenek",
+      "Transfer",
+      "Kulüp",
+      "Rapor"
+    ]
+  },
+  {
+    "word": "Altyapı",
+    "forbidden": [
+      "Genç",
+      "Oyuncu",
+      "Kulüp",
+      "Akademi",
+      "Yetiştirmek"
+    ]
+  },
+  {
+    "word": "Akademi",
+    "forbidden": [
+      "Altyapı",
+      "Genç",
+      "Futbolcu",
+      "Eğitim",
+      "Kulüp"
+    ]
+  },
+  {
+    "word": "Kadro",
+    "forbidden": [
+      "Oyuncular",
+      "Takım",
+      "Liste",
+      "İlk 11",
+      "Yedek"
+    ]
+  },
+  {
+    "word": "İlk 11",
+    "forbidden": [
+      "Başlamak",
+      "Kadro",
+      "Oyuncu",
+      "Maç",
+      "Saha"
+    ]
+  },
+  {
+    "word": "Yedek",
+    "forbidden": [
+      "Kulübe",
+      "Oyuncu",
+      "Değişiklik",
+      "Beklemek",
+      "Kadro"
+    ]
+  },
+  {
+    "word": "Sakatlık",
+    "forbidden": [
+      "Oyuncu",
+      "Ağrı",
+      "Tedavi",
+      "Maç kaçırmak",
+      "Doktor"
+    ]
+  },
+  {
+    "word": "Bandaj",
+    "forbidden": [
+      "Sakatlık",
+      "Sargı",
+      "Oyuncu",
+      "Diz",
+      "Tedavi"
+    ]
+  },
+  {
+    "word": "Sedye",
+    "forbidden": [
+      "Sakatlık",
+      "Taşımak",
+      "Sağlık",
+      "Oyuncu",
+      "Saha"
+    ]
+  },
+  {
+    "word": "VAR",
+    "forbidden": [
+      "Video",
+      "Hakem",
+      "Pozisyon",
+      "İnceleme",
+      "Ekran"
+    ]
+  },
+  {
+    "word": "Gol Çizgisi Teknolojisi",
+    "forbidden": [
+      "Top",
+      "Kale",
+      "Çizgi",
+      "Hakem",
+      "Teknoloji"
+    ]
+  },
+  {
+    "word": "Yan Hakem",
+    "forbidden": [
+      "Bayrak",
+      "Çizgi",
+      "Ofsayt",
+      "Hakem",
+      "Taç"
+    ]
+  },
+  {
+    "word": "Dördüncü Hakem",
+    "forbidden": [
+      "Tabela",
+      "Kenarda",
+      "Değişiklik",
+      "Uzatma",
+      "Hakem"
+    ]
+  },
+  {
+    "word": "Düdük",
+    "forbidden": [
+      "Hakem",
+      "Ses",
+      "Başlatmak",
+      "Faul",
+      "Bitirmek"
+    ]
+  },
+  {
+    "word": "Bayrak",
+    "forbidden": [
+      "Yan hakem",
+      "Ofsayt",
+      "Köşe",
+      "Çizgi",
+      "Taç"
+    ]
+  },
+  {
+    "word": "Skorboard",
+    "forbidden": [
+      "Tabela",
+      "Skor",
+      "Stadyum",
+      "Dakika",
+      "Sonuç"
+    ]
+  },
+  {
+    "word": "Maç Saati",
+    "forbidden": [
+      "Dakika",
+      "Süre",
+      "90",
+      "Tabela",
+      "Zaman"
+    ]
+  },
+  {
+    "word": "İlk Yarı",
+    "forbidden": [
+      "45 dakika",
+      "Devre",
+      "Başlangıç",
+      "Maç",
+      "İlk bölüm"
+    ]
+  },
+  {
+    "word": "İkinci Yarı",
+    "forbidden": [
+      "Devre arası",
+      "45 dakika",
+      "Maç",
+      "Son bölüm",
+      "Başlamak"
+    ]
+  },
+  {
+    "word": "Hat Trick",
+    "forbidden": [
+      "Üç gol",
+      "Oyuncu",
+      "Maç",
+      "Golcü",
+      "Başarı"
+    ]
+  },
+  {
+    "word": "Gol Kralı",
+    "forbidden": [
+      "En çok gol",
+      "Forvet",
+      "Sezon",
+      "Oyuncu",
+      "Lig"
+    ]
+  },
+  {
+    "word": "Asist Kralı",
+    "forbidden": [
+      "Pas",
+      "Gol",
+      "Oyuncu",
+      "Sezon",
+      "İstatistik"
+    ]
+  },
+  {
+    "word": "Temiz Sayfa",
+    "forbidden": [
+      "Gol yememek",
+      "Kaleci",
+      "Defans",
+      "Maç",
+      "Kale"
+    ]
+  },
+  {
+    "word": "Kurtarış",
+    "forbidden": [
+      "Kaleci",
+      "Şut",
+      "Top",
+      "El",
+      "Kale"
+    ]
+  },
+  {
+    "word": "Refleks",
+    "forbidden": [
+      "Kaleci",
+      "Hızlı",
+      "Tepki",
+      "Kurtarış",
+      "Şut"
+    ]
+  },
+  {
+    "word": "Degaj",
+    "forbidden": [
+      "Kaleci",
+      "Uzun top",
+      "Ayak",
+      "Başlatmak",
+      "Saha"
+    ]
+  },
+  {
+    "word": "Aut",
+    "forbidden": [
+      "Dışarı",
+      "Kale vuruşu",
+      "Top",
+      "Çizgi",
+      "Rakip"
+    ]
+  },
+  {
+    "word": "Kale Vuruşu",
+    "forbidden": [
+      "Aut",
+      "Kaleci",
+      "Top",
+      "Ceza sahası",
+      "Başlatmak"
+    ]
+  },
+  {
+    "word": "Pres",
+    "forbidden": [
+      "Baskı",
+      "Rakip",
+      "Top kapmak",
+      "Koşu",
+      "Hücum"
+    ]
+  },
+  {
+    "word": "Kontra Atak",
+    "forbidden": [
+      "Hızlı hücum",
+      "Rakip",
+      "Top kapmak",
+      "Koşu",
+      "Gol"
+    ]
+  },
+  {
+    "word": "Hücum",
+    "forbidden": [
+      "Saldırı",
+      "Gol",
+      "Forvet",
+      "Rakip kale",
+      "Atak"
+    ]
+  },
+  {
+    "word": "Savunma",
+    "forbidden": [
+      "Defans",
+      "Kale",
+      "Rakip",
+      "Müdahale",
+      "Koruma"
+    ]
+  },
+  {
+    "word": "Top Kapma",
+    "forbidden": [
+      "Müdahale",
+      "Rakip",
+      "Defans",
+      "Pres",
+      "Ayak"
+    ]
+  },
+  {
+    "word": "Müdahale",
+    "forbidden": [
+      "Defans",
+      "Rakip",
+      "Top",
+      "Faul",
+      "Kaymak"
+    ]
+  },
+  {
+    "word": "Kayarak Müdahale",
+    "forbidden": [
+      "Slide",
+      "Defans",
+      "Top",
+      "Yer",
+      "Rakip"
+    ]
+  },
+  {
+    "word": "Markaj",
+    "forbidden": [
+      "Adam tutmak",
+      "Savunma",
+      "Rakip",
+      "Takip",
+      "Defans"
+    ]
+  },
+  {
+    "word": "Alan Savunması",
+    "forbidden": [
+      "Bölge",
+      "Defans",
+      "Taktik",
+      "Rakip",
+      "Saha"
+    ]
+  },
+  {
+    "word": "Adam Adama",
+    "forbidden": [
+      "Markaj",
+      "Rakip",
+      "Savunma",
+      "Takip",
+      "Taktik"
+    ]
+  },
+  {
+    "word": "Pas Hatası",
+    "forbidden": [
+      "Top kaybı",
+      "Yanlış",
+      "Takım arkadaşı",
+      "Rakip",
+      "Oyun"
+    ]
+  },
+  {
+    "word": "Top Kaybı",
+    "forbidden": [
+      "Pas hatası",
+      "Rakip",
+      "Kapmak",
+      "Orta saha",
+      "Hata"
+    ]
+  },
+  {
+    "word": "Topa Sahip Olma",
+    "forbidden": [
+      "Yüzde",
+      "Pas",
+      "Takım",
+      "Kontrol",
+      "Oyun"
+    ]
+  },
+  {
+    "word": "Oyun Kurma",
+    "forbidden": [
+      "Pas",
+      "Orta saha",
+      "Defans",
+      "Taktik",
+      "Top"
+    ]
+  },
+  {
+    "word": "Uzun Top",
+    "forbidden": [
+      "Havadan",
+      "Pas",
+      "Defans arkası",
+      "Top",
+      "Koşu"
+    ]
+  },
+  {
+    "word": "Ara Pas",
+    "forbidden": [
+      "Savunma arkası",
+      "Pas",
+      "Forvet",
+      "Boşluk",
+      "Gol"
+    ]
+  },
+  {
+    "word": "Duvar Pası",
+    "forbidden": [
+      "Verkaç",
+      "İki oyuncu",
+      "Pas",
+      "Koşu",
+      "Top"
+    ]
+  },
+  {
+    "word": "Verkaç",
+    "forbidden": [
+      "Duvar pası",
+      "Pas",
+      "Koşu",
+      "İki kişi",
+      "Rakip"
+    ]
+  },
+  {
+    "word": "Orta",
+    "forbidden": [
+      "Kanat",
+      "Ceza sahası",
+      "Top",
+      "Kafa",
+      "Pas"
+    ]
+  },
+  {
+    "word": "Ceza Sahasına Orta",
+    "forbidden": [
+      "Kanat",
+      "Kafa",
+      "Forvet",
+      "Top",
+      "Kale önü"
+    ]
+  },
+  {
+    "word": "Yer Pası",
+    "forbidden": [
+      "Ayak",
+      "Top",
+      "Pas",
+      "Zemin",
+      "Takım arkadaşı"
+    ]
+  },
+  {
+    "word": "Havadan Pas",
+    "forbidden": [
+      "Top",
+      "Yüksek",
+      "Kafa",
+      "Uzun",
+      "Pas"
+    ]
+  },
+  {
+    "word": "Ters Kanat",
+    "forbidden": [
+      "Sağdan sola",
+      "Sol",
+      "Kanat",
+      "Pas",
+      "Boşluk"
+    ]
+  },
+  {
+    "word": "Çizgiye İnmek",
+    "forbidden": [
+      "Kanat",
+      "Orta",
+      "Hız",
+      "Rakip",
+      "Saha kenarı"
+    ]
+  },
+  {
+    "word": "İçeri Kat Etmek",
+    "forbidden": [
+      "Kanat",
+      "Merkez",
+      "Şut",
+      "Çalım",
+      "Ayağına almak"
+    ]
+  },
+  {
+    "word": "Şut Blok",
+    "forbidden": [
+      "Defans",
+      "Top",
+      "Kapatmak",
+      "Şut",
+      "Müdahale"
+    ]
+  },
+  {
+    "word": "Seken Top",
+    "forbidden": [
+      "Ribaund",
+      "Kaleci",
+      "Direk",
+      "Top",
+      "Pozisyon"
+    ]
+  },
+  {
+    "word": "Pozisyon",
+    "forbidden": [
+      "Gol şansı",
+      "Atak",
+      "Ceza sahası",
+      "Şut",
+      "Maç"
+    ]
+  },
+  {
+    "word": "Net Pozisyon",
+    "forbidden": [
+      "Gol kaçırmak",
+      "Kaleci",
+      "Şut",
+      "Boş kale",
+      "Fırsat"
+    ]
+  },
+  {
+    "word": "Boş Kale",
+    "forbidden": [
+      "Kaleci yok",
+      "Gol",
+      "Şut",
+      "Kale",
+      "Kolay"
+    ]
+  },
+  {
+    "word": "Gol Sevinci",
+    "forbidden": [
+      "Kutlama",
+      "Oyuncu",
+      "Taraftar",
+      "Gol",
+      "Koşmak"
+    ]
+  },
+  {
+    "word": "Diz Kayma Sevinci",
+    "forbidden": [
+      "Gol",
+      "Kutlama",
+      "Çim",
+      "Oyuncu",
+      "Sevinç"
+    ]
+  },
+  {
+    "word": "Tünel",
+    "forbidden": [
+      "Oyuncu girişi",
+      "Stadyum",
+      "Saha",
+      "Maç öncesi",
+      "Koridor"
+    ]
+  },
+  {
+    "word": "Soyunma Odası",
+    "forbidden": [
+      "Oyuncu",
+      "Devre arası",
+      "Forma",
+      "Takım",
+      "Hoca"
+    ]
+  },
+  {
+    "word": "Isınma",
+    "forbidden": [
+      "Maç öncesi",
+      "Koşu",
+      "Oyuncu",
+      "Saha",
+      "Hazırlık"
+    ]
+  },
+  {
+    "word": "Seremoni",
+    "forbidden": [
+      "Maç öncesi",
+      "Oyuncu",
+      "Hakem",
+      "Saha",
+      "Dizilmek"
+    ]
+  },
+  {
+    "word": "Milli Marş",
+    "forbidden": [
+      "Ülke",
+      "Seremoni",
+      "Takım",
+      "Söylemek",
+      "Maç öncesi"
+    ]
+  },
+  {
+    "word": "Milli Takım",
+    "forbidden": [
+      "Ülke",
+      "Forma",
+      "Oyuncu",
+      "Turnuva",
+      "Bayrak"
+    ]
+  },
+  {
+    "word": "Kulüp",
+    "forbidden": [
+      "Takım",
+      "Şehir",
+      "Taraftar",
+      "Lig",
+      "Oyuncu"
+    ]
+  },
+  {
+    "word": "Başkan",
+    "forbidden": [
+      "Kulüp",
+      "Yönetim",
+      "Transfer",
+      "Takım",
+      "Karar"
+    ]
+  },
+  {
+    "word": "Sportif Direktör",
+    "forbidden": [
+      "Transfer",
+      "Kulüp",
+      "Kadro",
+      "Plan",
+      "Yönetim"
+    ]
+  },
+  {
+    "word": "Sezon",
+    "forbidden": [
+      "Lig",
+      "Maç",
+      "Şampiyonluk",
+      "Puan",
+      "Yıl"
+    ]
+  },
+  {
+    "word": "Fikstür",
+    "forbidden": [
+      "Maç programı",
+      "Takvim",
+      "Lig",
+      "Rakip",
+      "Tarih"
+    ]
+  },
+  {
+    "word": "Deplasman",
+    "forbidden": [
+      "Rakip saha",
+      "Yolculuk",
+      "Maç",
+      "Tribün",
+      "Dış saha"
+    ]
+  },
+  {
+    "word": "Ev Sahibi",
+    "forbidden": [
+      "Kendi saha",
+      "Takım",
+      "Stadyum",
+      "Maç",
+      "Taraftar"
+    ]
+  },
+  {
+    "word": "İç Saha",
+    "forbidden": [
+      "Ev sahibi",
+      "Stadyum",
+      "Taraftar",
+      "Maç",
+      "Kendi"
+    ]
+  },
+  {
+    "word": "Dış Saha",
+    "forbidden": [
+      "Deplasman",
+      "Rakip",
+      "Yolculuk",
+      "Maç",
+      "Stadyum"
+    ]
+  },
+  {
+    "word": "Galibiyet",
+    "forbidden": [
+      "Kazanmak",
+      "Üç puan",
+      "Maç",
+      "Takım",
+      "Skor"
+    ]
+  },
+  {
+    "word": "Beraberlik",
+    "forbidden": [
+      "Eşit",
+      "Bir puan",
+      "Skor",
+      "Maç",
+      "Sonuç"
+    ]
+  },
+  {
+    "word": "Mağlubiyet",
+    "forbidden": [
+      "Kaybetmek",
+      "Sıfır puan",
+      "Maç",
+      "Takım",
+      "Skor"
+    ]
+  },
+  {
+    "word": "Puan",
+    "forbidden": [
+      "Lig",
+      "Galibiyet",
+      "Beraberlik",
+      "Sıralama",
+      "Tablo"
+    ]
+  },
+  {
+    "word": "Averaj",
+    "forbidden": [
+      "Gol farkı",
+      "Puan durumu",
+      "Sıralama",
+      "Attığı",
+      "Yediği"
+    ]
+  },
+  {
+    "word": "Gol Farkı",
+    "forbidden": [
+      "Averaj",
+      "Attığı gol",
+      "Yediği gol",
+      "Puan",
+      "Lig"
+    ]
+  },
+  {
+    "word": "Play-Off",
+    "forbidden": [
+      "Eleme",
+      "Tur",
+      "Takım",
+      "Final",
+      "Yükselme"
+    ]
+  },
+  {
+    "word": "Eleme",
+    "forbidden": [
+      "Tur",
+      "Kaybeden",
+      "Kupa",
+      "Maç",
+      "Final"
+    ]
+  },
+  {
+    "word": "Kura",
+    "forbidden": [
+      "Çekiliş",
+      "Rakip",
+      "Turnuva",
+      "Top",
+      "Eşleşme"
+    ]
+  },
+  {
+    "word": "Eşleşme",
+    "forbidden": [
+      "Rakip",
+      "Tur",
+      "Kura",
+      "Maç",
+      "Eleme"
+    ]
+  },
+  {
+    "word": "Kupayı Kaldırmak",
+    "forbidden": [
+      "Şampiyon",
+      "Final",
+      "Kupa",
+      "Zafer",
+      "Takım"
+    ]
+  },
+  {
+    "word": "Madalya",
+    "forbidden": [
+      "Şampiyon",
+      "Turnuva",
+      "Ödül",
+      "Oyuncu",
+      "Kupa"
+    ]
+  },
+  {
+    "word": "Fair Play",
+    "forbidden": [
+      "Centilmenlik",
+      "Kural",
+      "Saygı",
+      "Oyuncu",
+      "Hakem"
+    ]
+  },
+  {
+    "word": "Tribün Cezası",
+    "forbidden": [
+      "Taraftar",
+      "Ceza",
+      "Stadyum",
+      "Maç",
+      "Boş"
+    ]
+  },
+  {
+    "word": "Saha Kapatma",
+    "forbidden": [
+      "Ceza",
+      "Tribün",
+      "Stadyum",
+      "Taraftar",
+      "Maç"
+    ]
+  },
+  {
+    "word": "Para Cezası",
+    "forbidden": [
+      "Kulüp",
+      "Ceza",
+      "Federasyon",
+      "Disiplin",
+      "Ödeme"
+    ]
+  },
+  {
+    "word": "Federasyon",
+    "forbidden": [
+      "Futbol",
+      "Kural",
+      "Lig",
+      "Hakem",
+      "Ceza"
+    ]
+  },
+  {
+    "word": "Disiplin Kurulu",
+    "forbidden": [
+      "Ceza",
+      "Kart",
+      "Federasyon",
+      "Oyuncu",
+      "Karar"
+    ]
+  },
+  {
+    "word": "Lisans",
+    "forbidden": [
+      "Oyuncu",
+      "Federasyon",
+      "Oynamak",
+      "Kayıt",
+      "Kulüp"
+    ]
+  },
+  {
+    "word": "Tescil",
+    "forbidden": [
+      "Kayıt",
+      "Futbolcu",
+      "Kulüp",
+      "Federasyon",
+      "Lisans"
+    ]
+  },
+  {
+    "word": "Saha",
+    "forbidden": [
+      "Çim",
+      "Kale",
+      "Çizgi",
+      "Oyuncu",
+      "Maç"
+    ]
+  },
+  {
+    "word": "Çim",
+    "forbidden": [
+      "Saha",
+      "Yeşil",
+      "Zemin",
+      "Krampon",
+      "Futbol"
+    ]
+  },
+  {
+    "word": "Sentetik Saha",
+    "forbidden": [
+      "Halı saha",
+      "Zemin",
+      "Çim",
+      "Yapay",
+      "Maç"
+    ]
+  },
+  {
+    "word": "Halı Saha",
+    "forbidden": [
+      "Sentetik",
+      "Arkadaş",
+      "Maç",
+      "Küçük saha",
+      "Futbol"
+    ]
+  },
+  {
+    "word": "Kale Çizgisi",
+    "forbidden": [
+      "Kale",
+      "Top",
+      "Çizgi",
+      "Gol",
+      "Hakem"
+    ]
+  },
+  {
+    "word": "Orta Çizgi",
+    "forbidden": [
+      "Saha",
+      "Santra",
+      "Yarı",
+      "Çizgi",
+      "Orta"
+    ]
+  },
+  {
+    "word": "Köşe Bayrağı",
+    "forbidden": [
+      "Korner",
+      "Bayrak",
+      "Köşe",
+      "Saha",
+      "Çizgi"
+    ]
+  },
+  {
+    "word": "Yedek Hakem",
+    "forbidden": [
+      "Dördüncü",
+      "Tabela",
+      "Kenarda",
+      "Hakem",
+      "Değişiklik"
+    ]
+  },
+  {
+    "word": "Teknik Alan",
+    "forbidden": [
+      "Hoca",
+      "Kulübe",
+      "Çizgi",
+      "Kenarda",
+      "Talimat"
+    ]
+  },
+  {
+    "word": "Talimat",
+    "forbidden": [
+      "Hoca",
+      "Oyuncu",
+      "Taktik",
+      "Kenardan",
+      "Bağırmak"
+    ]
+  },
+  {
+    "word": "Maç Analizi",
+    "forbidden": [
+      "İstatistik",
+      "Taktik",
+      "Pozisyon",
+      "Video",
+      "Performans"
+    ]
+  },
+  {
+    "word": "İstatistik",
+    "forbidden": [
+      "Sayı",
+      "Gol",
+      "Pas",
+      "Şut",
+      "Veri"
+    ]
+  },
+  {
+    "word": "xG",
+    "forbidden": [
+      "Beklenen gol",
+      "İstatistik",
+      "Pozisyon",
+      "Şut",
+      "Analiz"
+    ]
+  },
+  {
+    "word": "Pas Yüzdesi",
+    "forbidden": [
+      "İstatistik",
+      "Pas",
+      "Başarı",
+      "Takım",
+      "Oran"
+    ]
+  },
+  {
+    "word": "Şut İsabeti",
+    "forbidden": [
+      "Kaleyi bulmak",
+      "İstatistik",
+      "Şut",
+      "Gol",
+      "Oran"
+    ]
+  },
+  {
+    "word": "Koşu Mesafesi",
+    "forbidden": [
+      "Kilometre",
+      "Oyuncu",
+      "İstatistik",
+      "Performans",
+      "Saha"
+    ]
+  },
+  {
+    "word": "Sprint",
+    "forbidden": [
+      "Hız",
+      "Koşu",
+      "Oyuncu",
+      "Kanat",
+      "Depar"
+    ]
+  },
+  {
+    "word": "Depar",
+    "forbidden": [
+      "Sprint",
+      "Hız",
+      "Koşmak",
+      "Boşluk",
+      "Oyuncu"
+    ]
+  },
+  {
+    "word": "Kondisyon",
+    "forbidden": [
+      "Fizik",
+      "Koşu",
+      "Dayanıklılık",
+      "Antrenman",
+      "Oyuncu"
+    ]
+  },
+  {
+    "word": "Performans",
+    "forbidden": [
+      "Oyuncu",
+      "Maç",
+      "İstatistik",
+      "Form",
+      "Başarı"
+    ]
+  },
+  {
+    "word": "Form",
+    "forbidden": [
+      "Performans",
+      "Oyuncu",
+      "İyi",
+      "Kötü",
+      "Sezon"
+    ]
+  },
+  {
+    "word": "Moral",
+    "forbidden": [
+      "Takım",
+      "Oyuncu",
+      "Motivasyon",
+      "Galibiyet",
+      "Kayıp"
+    ]
+  },
+  {
+    "word": "Motivasyon",
+    "forbidden": [
+      "İstek",
+      "Takım",
+      "Hoca",
+      "Maç",
+      "Moral"
+    ]
+  },
+  {
+    "word": "Konsantrasyon",
+    "forbidden": [
+      "Dikkat",
+      "Oyuncu",
+      "Maç",
+      "Hata",
+      "Odak"
+    ]
+  },
+  {
+    "word": "Hata",
+    "forbidden": [
+      "Yanlış",
+      "Oyuncu",
+      "Gol",
+      "Top kaybı",
+      "Defans"
+    ]
+  },
+  {
+    "word": "Bireysel Hata",
+    "forbidden": [
+      "Oyuncu",
+      "Yanlış",
+      "Gol yemek",
+      "Defans",
+      "Kaleci"
+    ]
+  },
+  {
+    "word": "Kendi Kalesine Gol",
+    "forbidden": [
+      "Oyuncu",
+      "Yanlış kale",
+      "Gol",
+      "Hata",
+      "Top"
+    ]
+  },
+  {
+    "word": "Ofansif",
+    "forbidden": [
+      "Hücum",
+      "Atak",
+      "Gol",
+      "Forvet",
+      "Taktik"
+    ]
+  },
+  {
+    "word": "Defansif",
+    "forbidden": [
+      "Savunma",
+      "Geri",
+      "Taktik",
+      "Defans",
+      "Korumak"
+    ]
+  },
+  {
+    "word": "Duran Top",
+    "forbidden": [
+      "Korner",
+      "Frikik",
+      "Serbest vuruş",
+      "Orta",
+      "Gol"
+    ]
+  },
+  {
+    "word": "Açık Oyun",
+    "forbidden": [
+      "Duran top değil",
+      "Pas",
+      "Atak",
+      "Oyun",
+      "Hücum"
+    ]
+  },
+  {
+    "word": "Geçiş Oyunu",
+    "forbidden": [
+      "Kontra",
+      "Savunma",
+      "Hücum",
+      "Top kapma",
+      "Taktik"
+    ]
+  },
+  {
+    "word": "Top Çevirme",
+    "forbidden": [
+      "Pas",
+      "Zaman",
+      "Takım",
+      "Kontrol",
+      "Oyun"
+    ]
+  },
+  {
+    "word": "Zaman Geçirme",
+    "forbidden": [
+      "Yavaş",
+      "Dakika",
+      "Kaleci",
+      "Skor",
+      "Maç sonu"
+    ]
+  },
+  {
+    "word": "Baskı Kurmak",
+    "forbidden": [
+      "Pres",
+      "Rakip saha",
+      "Atak",
+      "Top",
+      "Hücum"
+    ]
+  },
+  {
+    "word": "Geri Pas",
+    "forbidden": [
+      "Kaleci",
+      "Defans",
+      "Top",
+      "Pas",
+      "Geri"
+    ]
+  },
+  {
+    "word": "Kaleciye Pas",
+    "forbidden": [
+      "Geri pas",
+      "Ayak",
+      "Kaleci",
+      "Defans",
+      "Top"
+    ]
+  },
+  {
+    "word": "Elle Oynama",
+    "forbidden": [
+      "El",
+      "Hakem",
+      "Faul",
+      "Penaltı",
+      "Top"
+    ]
+  },
+  {
+    "word": "Çift Sarı",
+    "forbidden": [
+      "Kırmızı kart",
+      "İkinci",
+      "Hakem",
+      "Oyuncu",
+      "Atılmak"
+    ]
+  },
+  {
+    "word": "Direkt Kırmızı",
+    "forbidden": [
+      "Atılmak",
+      "Kart",
+      "Hakem",
+      "Sert faul",
+      "Ceza"
+    ]
+  },
+  {
+    "word": "Sert Faul",
+    "forbidden": [
+      "Müdahale",
+      "Kart",
+      "Hakem",
+      "Rakip",
+      "Sakatlık"
+    ]
+  },
+  {
+    "word": "Taktik Faul",
+    "forbidden": [
+      "Kontra",
+      "Durdurmak",
+      "Sarı kart",
+      "Rakip",
+      "Hakem"
+    ]
+  },
+  {
+    "word": "Avantaj",
+    "forbidden": [
+      "Hakem",
+      "Devam",
+      "Faul",
+      "Oyun",
+      "Düdük"
+    ]
+  },
+  {
+    "word": "İtiraz",
+    "forbidden": [
+      "Hakem",
+      "Oyuncu",
+      "Karar",
+      "Kart",
+      "Tepki"
+    ]
+  },
+  {
+    "word": "Simülasyon",
+    "forbidden": [
+      "Aldatma",
+      "Kendini atmak",
+      "Hakem",
+      "Faul",
+      "Sarı kart"
+    ]
+  },
+  {
+    "word": "Kendini Atmak",
+    "forbidden": [
+      "Simülasyon",
+      "Faul",
+      "Oyuncu",
+      "Hakem",
+      "Ceza sahası"
+    ]
+  },
+  {
+    "word": "Çizgiden Çıkarma",
+    "forbidden": [
+      "Defans",
+      "Gol",
+      "Kale çizgisi",
+      "Top",
+      "Kurtarmak"
+    ]
+  },
+  {
+    "word": "Son Adam",
+    "forbidden": [
+      "Defans",
+      "Kırmızı kart",
+      "Forvet",
+      "Pozisyon",
+      "Faul"
+    ]
+  },
+  {
+    "word": "Bire Bir",
+    "forbidden": [
+      "Kaleci",
+      "Forvet",
+      "Pozisyon",
+      "Şut",
+      "Gol"
+    ]
+  },
+  {
+    "word": "Karşı Karşıya",
+    "forbidden": [
+      "Kaleci",
+      "Forvet",
+      "Bire bir",
+      "Şut",
+      "Pozisyon"
+    ]
+  },
+  {
+    "word": "Aşırtma",
+    "forbidden": [
+      "Kaleci",
+      "Top",
+      "Üstünden",
+      "Şut",
+      "Gol"
+    ]
+  },
+  {
+    "word": "Topuk Pası",
+    "forbidden": [
+      "Topuk",
+      "Pas",
+      "Ayak",
+      "Şık",
+      "Takım arkadaşı"
+    ]
+  },
+  {
+    "word": "Topuk Golü",
+    "forbidden": [
+      "Topuk",
+      "Gol",
+      "Şut",
+      "Ayak",
+      "Estetik"
+    ]
+  },
+  {
+    "word": "Makasa Almak",
+    "forbidden": [
+      "İki kişi",
+      "Rakip",
+      "Pres",
+      "Savunma",
+      "Top"
+    ]
+  },
+  {
+    "word": "Çift Forvet",
+    "forbidden": [
+      "İki golcü",
+      "Santrfor",
+      "Diziliş",
+      "Hücum",
+      "Taktik"
+    ]
+  },
+  {
+    "word": "Sahte Dokuz",
+    "forbidden": [
+      "Forvet",
+      "Geri gelmek",
+      "Taktik",
+      "Pas",
+      "Santrfor"
+    ]
+  },
+  {
+    "word": "On Numara",
+    "forbidden": [
+      "Oyun kurucu",
+      "Orta saha",
+      "Forma",
+      "Pas",
+      "Yaratıcı"
+    ]
+  },
+  {
+    "word": "Sekiz Numara",
+    "forbidden": [
+      "Orta saha",
+      "Koşu",
+      "Pas",
+      "Box to box",
+      "Merkez"
+    ]
+  },
+  {
+    "word": "Altı Numara",
+    "forbidden": [
+      "Ön libero",
+      "Defansif",
+      "Orta saha",
+      "Kesici",
+      "Merkez"
+    ]
+  },
+  {
+    "word": "Box to Box",
+    "forbidden": [
+      "Orta saha",
+      "Koşu",
+      "Savunma",
+      "Hücum",
+      "Sekiz numara"
+    ]
+  },
+  {
+    "word": "Kanat Bek",
+    "forbidden": [
+      "Üçlü savunma",
+      "Kanat",
+      "Bek",
+      "Orta",
+      "Koşu"
+    ]
+  },
+  {
+    "word": "Ters Ayaklı Kanat",
+    "forbidden": [
+      "Şut",
+      "İçeri kat etmek",
+      "Kanat",
+      "Solak",
+      "Sağ"
+    ]
+  },
+  {
+    "word": "Solak",
+    "forbidden": [
+      "Sol ayak",
+      "Oyuncu",
+      "Şut",
+      "Pas",
+      "Ayak"
+    ]
+  },
+  {
+    "word": "Sağ Ayak",
+    "forbidden": [
+      "Ayak",
+      "Şut",
+      "Pas",
+      "Oyuncu",
+      "Krampon"
+    ]
+  },
+  {
+    "word": "İki Ayaklı",
+    "forbidden": [
+      "Sağ",
+      "Sol",
+      "Oyuncu",
+      "Şut",
+      "Pas"
+    ]
+  },
+  {
+    "word": "Kaptanlık",
+    "forbidden": [
+      "Pazubent",
+      "Liderlik",
+      "Takım",
+      "Oyuncu",
+      "Sorumluluk"
+    ]
+  },
+  {
+    "word": "Jübile",
+    "forbidden": [
+      "Veda",
+      "Oyuncu",
+      "Son maç",
+      "Kariyer",
+      "Tören"
+    ]
+  },
+  {
+    "word": "Emeklilik",
+    "forbidden": [
+      "Futbolu bırakmak",
+      "Oyuncu",
+      "Kariyer",
+      "Yaş",
+      "Jübile"
+    ]
+  },
+  {
+    "word": "Kariyer",
+    "forbidden": [
+      "Oyuncu",
+      "Kulüp",
+      "Sezon",
+      "Başarı",
+      "Transfer"
+    ]
+  },
+  {
+    "word": "Genç Yetenek",
+    "forbidden": [
+      "Altyapı",
+      "Oyuncu",
+      "Potansiyel",
+      "Scout",
+      "Transfer"
+    ]
+  },
+  {
+    "word": "Yıldız Oyuncu",
+    "forbidden": [
+      "Ünlü",
+      "Takım",
+      "Gol",
+      "Forma",
+      "Taraftar"
+    ]
+  },
+  {
+    "word": "Efsane",
+    "forbidden": [
+      "Kulüp",
+      "Tarih",
+      "Oyuncu",
+      "Başarı",
+      "Taraftar"
+    ]
+  },
+  {
+    "word": "Kadro Dışı",
+    "forbidden": [
+      "Oyuncu",
+      "Hoca",
+      "Ceza",
+      "Takım",
+      "Antrenman"
+    ]
+  },
+  {
+    "word": "İdman",
+    "forbidden": [
+      "Antrenman",
+      "Çalışma",
+      "Saha",
+      "Oyuncu",
+      "Hoca"
+    ]
+  },
+  {
+    "word": "Kamp",
+    "forbidden": [
+      "Hazırlık",
+      "Takım",
+      "Sezon",
+      "Antrenman",
+      "Otel"
+    ]
+  },
+  {
+    "word": "Hazırlık Maçı",
+    "forbidden": [
+      "Dostluk",
+      "Sezon öncesi",
+      "Takım",
+      "Kamp",
+      "Deneme"
+    ]
+  },
+  {
+    "word": "Dostluk Maçı",
+    "forbidden": [
+      "Hazırlık",
+      "Resmi değil",
+      "Takım",
+      "Maç",
+      "Turnuva"
+    ]
+  },
+  {
+    "word": "Resmi Maç",
+    "forbidden": [
+      "Lig",
+      "Kupa",
+      "Puan",
+      "Hakem",
+      "Takım"
+    ]
+  },
+  {
+    "word": "Hakan Şükür",
+    "forbidden": [
+      "Kral",
+      "Galatasaray",
+      "Milli takım",
+      "9 numara",
+      "Gol"
+    ]
+  },
+  {
+    "word": "Arda Turan",
+    "forbidden": [
+      "Atletico",
+      "Barcelona",
+      "Galatasaray",
+      "Kaptan",
+      "Sinir"
+    ]
+  },
+  {
+    "word": "Nihat Kahveci",
+    "forbidden": [
+      "Aslan",
+      "Sarı kırmızı",
+      "Milli takım",
+      "Süper Lig",
+      "Forma"
+    ]
+  },
+  {
+    "word": "Rüştü Reçber",
+    "forbidden": [
+      "Kaleci",
+      "Bandana",
+      "Barcelona",
+      "2002",
+      "Eldiven"
+    ]
+  },
+  {
+    "word": "Emre Belözoğlu",
+    "forbidden": [
+      "Aslan",
+      "Sarı kırmızı",
+      "Milli takım",
+      "Süper Lig",
+      "Forma"
+    ]
+  },
+  {
+    "word": "Tugay Kerimoğlu",
+    "forbidden": [
+      "Aslan",
+      "Sarı kırmızı",
+      "Milli takım",
+      "Süper Lig",
+      "Forma"
+    ]
+  },
+  {
+    "word": "Tuncay Şanlı",
+    "forbidden": [
+      "Aslan",
+      "Sarı kırmızı",
+      "Milli takım",
+      "Süper Lig",
+      "Forma"
+    ]
+  },
+  {
+    "word": "Sergen Yalçın",
+    "forbidden": [
+      "Beşiktaş",
+      "Sol ayak",
+      "10 numara",
+      "Yetenek",
+      "Hoca"
+    ]
+  },
+  {
+    "word": "Okan Buruk",
+    "forbidden": [
+      "Aslan",
+      "Sarı kırmızı",
+      "Milli takım",
+      "Süper Lig",
+      "Forma"
+    ]
+  },
+  {
+    "word": "Bülent Korkmaz",
+    "forbidden": [
+      "Aslan",
+      "Sarı kırmızı",
+      "Milli takım",
+      "Süper Lig",
+      "Forma"
+    ]
+  },
+  {
+    "word": "Alpay Özalan",
+    "forbidden": [
+      "Aslan",
+      "Sarı kırmızı",
+      "Milli takım",
+      "Süper Lig",
+      "Forma"
+    ]
+  },
+  {
+    "word": "Hamit Altıntop",
+    "forbidden": [
+      "Aslan",
+      "Sarı kırmızı",
+      "Milli takım",
+      "Süper Lig",
+      "Forma"
+    ]
+  },
+  {
+    "word": "Halil Altıntop",
+    "forbidden": [
+      "Aslan",
+      "Sarı kırmızı",
+      "Milli takım",
+      "Süper Lig",
+      "Forma"
+    ]
+  },
+  {
+    "word": "Gökdeniz Karadeniz",
+    "forbidden": [
+      "Bordo mavi",
+      "Trabzon",
+      "Milli takım",
+      "Süper Lig",
+      "Forma"
+    ]
+  },
+  {
+    "word": "Fatih Tekke",
+    "forbidden": [
+      "Bordo mavi",
+      "Trabzon",
+      "Milli takım",
+      "Süper Lig",
+      "Forma"
+    ]
+  },
+  {
+    "word": "Burak Yılmaz",
+    "forbidden": [
+      "Kral",
+      "Lille",
+      "Forvet",
+      "Gol",
+      "Penaltı"
+    ]
+  },
+  {
+    "word": "Selçuk İnan",
+    "forbidden": [
+      "Aslan",
+      "Sarı kırmızı",
+      "Milli takım",
+      "Süper Lig",
+      "Forma"
+    ]
+  },
+  {
+    "word": "Volkan Demirel",
+    "forbidden": [
+      "Fenerbahçe",
+      "Kaleci",
+      "Eldiven",
+      "Kaptan",
+      "Hırçın"
+    ]
+  },
+  {
+    "word": "Nuri Şahin",
+    "forbidden": [
+      "Aslan",
+      "Sarı kırmızı",
+      "Milli takım",
+      "Süper Lig",
+      "Forma"
+    ]
+  },
+  {
+    "word": "Mehmet Topal",
+    "forbidden": [
+      "Aslan",
+      "Sarı kırmızı",
+      "Milli takım",
+      "Süper Lig",
+      "Forma"
+    ]
+  },
+  {
+    "word": "Gökhan Gönül",
+    "forbidden": [
+      "Kadıköy",
+      "Sarı lacivert",
+      "Milli takım",
+      "Süper Lig",
+      "Forma"
+    ]
+  },
+  {
+    "word": "Caner Erkin",
+    "forbidden": [
+      "Kadıköy",
+      "Sarı lacivert",
+      "Milli takım",
+      "Süper Lig",
+      "Forma"
+    ]
+  },
+  {
+    "word": "Semih Şentürk",
+    "forbidden": [
+      "Nöbetçi golcü",
+      "Fenerbahçe",
+      "Son dakika",
+      "Forvet",
+      "Gol"
+    ]
+  },
+  {
+    "word": "Tümer Metin",
+    "forbidden": [
+      "Aslan",
+      "Sarı kırmızı",
+      "Milli takım",
+      "Süper Lig",
+      "Forma"
+    ]
+  },
+  {
+    "word": "Yusuf Şimşek",
+    "forbidden": [
+      "Aslan",
+      "Sarı kırmızı",
+      "Milli takım",
+      "Süper Lig",
+      "Forma"
+    ]
+  },
+  {
+    "word": "İlhan Mansız",
+    "forbidden": [
+      "Aslan",
+      "Sarı kırmızı",
+      "Milli takım",
+      "Süper Lig",
+      "Forma"
+    ]
+  },
+  {
+    "word": "Hasan Şaş",
+    "forbidden": [
+      "Aslan",
+      "Sarı kırmızı",
+      "Milli takım",
+      "Süper Lig",
+      "Forma"
+    ]
+  },
+  {
+    "word": "Ümit Davala",
+    "forbidden": [
+      "Aslan",
+      "Sarı kırmızı",
+      "Milli takım",
+      "Süper Lig",
+      "Forma"
+    ]
+  },
+  {
+    "word": "Hakan Ünsal",
+    "forbidden": [
+      "Aslan",
+      "Sarı kırmızı",
+      "Milli takım",
+      "Süper Lig",
+      "Forma"
+    ]
+  },
+  {
+    "word": "Ergün Penbe",
+    "forbidden": [
+      "Aslan",
+      "Sarı kırmızı",
+      "Milli takım",
+      "Süper Lig",
+      "Forma"
+    ]
+  },
+  {
+    "word": "Ümit Karan",
+    "forbidden": [
+      "Aslan",
+      "Sarı kırmızı",
+      "Milli takım",
+      "Süper Lig",
+      "Forma"
+    ]
+  },
+  {
+    "word": "Necati Ateş",
+    "forbidden": [
+      "Aslan",
+      "Sarı kırmızı",
+      "Milli takım",
+      "Süper Lig",
+      "Forma"
+    ]
+  },
+  {
+    "word": "Serhat Akın",
+    "forbidden": [
+      "Kadıköy",
+      "Sarı lacivert",
+      "Milli takım",
+      "Süper Lig",
+      "Forma"
+    ]
+  },
+  {
+    "word": "Alex de Souza",
+    "forbidden": [
+      "Fenerbahçe",
+      "10 numara",
+      "Brezilya",
+      "Kaptan",
+      "Sol ayak"
+    ]
+  },
+  {
+    "word": "Moussa Sow",
+    "forbidden": [
+      "Aslan",
+      "Sarı kırmızı",
+      "Milli takım",
+      "Süper Lig",
+      "Forma"
+    ]
+  },
+  {
+    "word": "Dirk Kuyt",
+    "forbidden": [
+      "Kadıköy",
+      "Sarı lacivert",
+      "Milli takım",
+      "Süper Lig",
+      "Forma"
+    ]
+  },
+  {
+    "word": "Pierre van Hooijdonk",
+    "forbidden": [
+      "Kadıköy",
+      "Sarı lacivert",
+      "Milli takım",
+      "Süper Lig",
+      "Forma"
+    ]
+  },
+  {
+    "word": "Roberto Carlos",
+    "forbidden": [
+      "Aslan",
+      "Sarı kırmızı",
+      "Milli takım",
+      "Süper Lig",
+      "Forma"
+    ]
+  },
+  {
+    "word": "Ricardo Quaresma",
+    "forbidden": [
+      "Q7",
+      "Trivela",
+      "Beşiktaş",
+      "Portekiz",
+      "Kanat"
+    ]
+  },
+  {
+    "word": "Mario Gomez",
+    "forbidden": [
+      "Kartal",
+      "Siyah beyaz",
+      "Milli takım",
+      "Süper Lig",
+      "Forma"
+    ]
+  },
+  {
+    "word": "Demba Ba",
+    "forbidden": [
+      "Kartal",
+      "Siyah beyaz",
+      "Milli takım",
+      "Süper Lig",
+      "Forma"
+    ]
+  },
+  {
+    "word": "Simao Sabrosa",
+    "forbidden": [
+      "Aslan",
+      "Sarı kırmızı",
+      "Milli takım",
+      "Süper Lig",
+      "Forma"
+    ]
+  },
+  {
+    "word": "Guti",
+    "forbidden": [
+      "Kartal",
+      "Siyah beyaz",
+      "Milli takım",
+      "Süper Lig",
+      "Forma"
+    ]
+  },
+  {
+    "word": "Pepe",
+    "forbidden": [
+      "Kartal",
+      "Siyah beyaz",
+      "Milli takım",
+      "Süper Lig",
+      "Forma"
+    ]
+  },
+  {
+    "word": "Didier Drogba",
+    "forbidden": [
+      "Chelsea",
+      "Galatasaray",
+      "Fildişi",
+      "Kafa",
+      "Forvet"
+    ]
+  },
+  {
+    "word": "Wesley Sneijder",
+    "forbidden": [
+      "Galatasaray",
+      "Hollanda",
+      "10 numara",
+      "Inter",
+      "Şut"
+    ]
+  },
+  {
+    "word": "Felipe Melo",
+    "forbidden": [
+      "Pitbull",
+      "Galatasaray",
+      "Brezilya",
+      "Agresif",
+      "Orta saha"
+    ]
+  },
+  {
+    "word": "Fernando Muslera",
+    "forbidden": [
+      "Galatasaray",
+      "Uruguay",
+      "Kaleci",
+      "Eldiven",
+      "Kaptan"
+    ]
+  },
+  {
+    "word": "Mauro Icardi",
+    "forbidden": [
+      "Galatasaray",
+      "Wanda",
+      "Arjantin",
+      "Aşkın olayım",
+      "Forvet"
+    ]
+  },
+  {
+    "word": "Radamel Falcao",
+    "forbidden": [
+      "Aslan",
+      "Sarı kırmızı",
+      "Milli takım",
+      "Süper Lig",
+      "Forma"
+    ]
+  },
+  {
+    "word": "Bafetimbi Gomis",
+    "forbidden": [
+      "Aslan",
+      "Sarı kırmızı",
+      "Milli takım",
+      "Süper Lig",
+      "Forma"
+    ]
+  },
+  {
+    "word": "Gheorghe Hagi",
+    "forbidden": [
+      "Karpatların Maradonası",
+      "Galatasaray",
+      "10 numara",
+      "Romanya",
+      "Sol ayak"
+    ]
+  },
+  {
+    "word": "Gheorghe Popescu",
+    "forbidden": [
+      "Aslan",
+      "Sarı kırmızı",
+      "Milli takım",
+      "Süper Lig",
+      "Forma"
+    ]
+  },
+  {
+    "word": "Claudio Taffarel",
+    "forbidden": [
+      "Aslan",
+      "Sarı kırmızı",
+      "Milli takım",
+      "Süper Lig",
+      "Forma"
+    ]
+  },
+  {
+    "word": "Lincoln",
+    "forbidden": [
+      "Aslan",
+      "Sarı kırmızı",
+      "Milli takım",
+      "Süper Lig",
+      "Forma"
+    ]
+  },
+  {
+    "word": "Elvir Balić",
+    "forbidden": [
+      "Aslan",
+      "Sarı kırmızı",
+      "Milli takım",
+      "Süper Lig",
+      "Forma"
+    ]
+  },
+  {
+    "word": "Nicolas Anelka",
+    "forbidden": [
+      "Kadıköy",
+      "Sarı lacivert",
+      "Milli takım",
+      "Süper Lig",
+      "Forma"
+    ]
+  },
+  {
+    "word": "Mesut Özil",
+    "forbidden": [
+      "Arsenal",
+      "Fenerbahçe",
+      "Almanya",
+      "10 numara",
+      "Asist"
+    ]
+  },
+  {
+    "word": "Cengiz Ünder",
+    "forbidden": [
+      "Aslan",
+      "Sarı kırmızı",
+      "Milli takım",
+      "Süper Lig",
+      "Forma"
+    ]
+  },
+  {
+    "word": "Çağlar Söyüncü",
+    "forbidden": [
+      "Aslan",
+      "Sarı kırmızı",
+      "Milli takım",
+      "Süper Lig",
+      "Forma"
+    ]
+  },
+  {
+    "word": "Merih Demiral",
+    "forbidden": [
+      "Juventus",
+      "Stoper",
+      "Bozkurt",
+      "Milli takım",
+      "Defans"
+    ]
+  },
+  {
+    "word": "Hakan Çalhanoğlu",
+    "forbidden": [
+      "Inter",
+      "Milan",
+      "Frikik",
+      "10 numara",
+      "Milli takım"
+    ]
+  },
+  {
+    "word": "Orkun Kökçü",
+    "forbidden": [
+      "Aslan",
+      "Sarı kırmızı",
+      "Milli takım",
+      "Süper Lig",
+      "Forma"
+    ]
+  },
+  {
+    "word": "Enes Ünal",
+    "forbidden": [
+      "Aslan",
+      "Sarı kırmızı",
+      "Milli takım",
+      "Süper Lig",
+      "Forma"
+    ]
+  },
+  {
+    "word": "Cenk Tosun",
+    "forbidden": [
+      "Kartal",
+      "Siyah beyaz",
+      "Milli takım",
+      "Süper Lig",
+      "Forma"
+    ]
+  },
+  {
+    "word": "Kerem Aktürkoğlu",
+    "forbidden": [
+      "Harry Potter",
+      "Galatasaray",
+      "Benfica",
+      "Kanat",
+      "Hız"
+    ]
+  },
+  {
+    "word": "Barış Alper Yılmaz",
+    "forbidden": [
+      "Aslan",
+      "Sarı kırmızı",
+      "Milli takım",
+      "Süper Lig",
+      "Forma"
+    ]
+  },
+  {
+    "word": "İrfan Can Kahveci",
+    "forbidden": [
+      "Kadıköy",
+      "Sarı lacivert",
+      "Milli takım",
+      "Süper Lig",
+      "Forma"
+    ]
+  },
+  {
+    "word": "Ferdi Kadıoğlu",
+    "forbidden": [
+      "Kadıköy",
+      "Sarı lacivert",
+      "Milli takım",
+      "Süper Lig",
+      "Forma"
+    ]
+  },
+  {
+    "word": "Arda Güler",
+    "forbidden": [
+      "Real Madrid",
+      "Fenerbahçe",
+      "Sol ayak",
+      "Genç yıldız",
+      "10 numara"
+    ]
+  },
+  {
+    "word": "Kenan Yıldız",
+    "forbidden": [
+      "Juventus",
+      "Milli takım",
+      "Genç",
+      "10 numara",
+      "Forvet"
+    ]
+  },
+  {
+    "word": "Semih Kılıçsoy",
+    "forbidden": [
+      "Kartal",
+      "Siyah beyaz",
+      "Milli takım",
+      "Süper Lig",
+      "Forma"
+    ]
+  },
+  {
+    "word": "Yusuf Yazıcı",
+    "forbidden": [
+      "Bordo mavi",
+      "Trabzon",
+      "Milli takım",
+      "Süper Lig",
+      "Forma"
+    ]
+  },
+  {
+    "word": "Uğurcan Çakır",
+    "forbidden": [
+      "Bordo mavi",
+      "Trabzon",
+      "Milli takım",
+      "Süper Lig",
+      "Forma"
+    ]
+  },
+  {
+    "word": "Altay Bayındır",
+    "forbidden": [
+      "Manchester United",
+      "Fenerbahçe",
+      "Kaleci",
+      "Eldiven",
+      "Milli takım"
+    ]
+  },
+  {
+    "word": "Cristiano Ronaldo",
+    "forbidden": [
+      "Azerbaycan",
+      "7",
+      "Siuu",
+      "Portekiz",
+      "Real Madrid"
+    ]
+  },
+  {
+    "word": "Lionel Messi",
+    "forbidden": [
+      "Arjantin",
+      "Barcelona",
+      "10",
+      "Sol ayak",
+      "Otistik"
+    ]
+  },
+  {
+    "word": "Neymar",
+    "forbidden": [
+      "Brezilya",
+      "PSG",
+      "Santos",
+      "Çalım",
+      "Sakatlık"
+    ]
+  },
+  {
+    "word": "Kylian Mbappe",
+    "forbidden": [
+      "Fransa",
+      "PSG",
+      "Real Madrid",
+      "Hız",
+      "Kaplumbağa"
+    ]
+  },
+  {
+    "word": "Erling Haaland",
+    "forbidden": [
+      "Norveç",
+      "Manchester City",
+      "Robot",
+      "Gol makinesi",
+      "Forvet"
+    ]
+  },
+  {
+    "word": "Zinedine Zidane",
+    "forbidden": [
+      "Fransa",
+      "Real Madrid",
+      "Kafa",
+      "10 numara",
+      "Final"
+    ]
+  },
+  {
+    "word": "Ronaldo Nazario",
+    "forbidden": [
+      "Fenomen",
+      "Brezilya",
+      "9 numara",
+      "Inter",
+      "Diz"
+    ]
+  },
+  {
+    "word": "Ronaldinho",
+    "forbidden": [
+      "Gaucho",
+      "Brezilya",
+      "Barcelona",
+      "Gülüş",
+      "Elastico"
+    ]
+  },
+  {
+    "word": "Diego Maradona",
+    "forbidden": [
+      "Tanrının eli",
+      "Arjantin",
+      "Napoli",
+      "10 numara",
+      "Kısa boy"
+    ]
+  },
+  {
+    "word": "Pele",
+    "forbidden": [
+      "Kral",
+      "Brezilya",
+      "Santos",
+      "Dünya Kupası",
+      "Efsane"
+    ]
+  },
+  {
+    "word": "Johan Cruyff",
+    "forbidden": [
+      "Hollanda",
+      "Ajax",
+      "Barcelona",
+      "14",
+      "Total futbol"
+    ]
+  },
+  {
+    "word": "Michel Platini",
+    "forbidden": [
+      "Milli takım",
+      "Şampiyonlar Ligi",
+      "Yıldız",
+      "Forma",
+      "Kupa"
+    ]
+  },
+  {
+    "word": "Franz Beckenbauer",
+    "forbidden": [
+      "Avrupa",
+      "Yıldız",
+      "Efsane",
+      "Forma",
+      "Golcü"
+    ]
+  },
+  {
+    "word": "Paolo Maldini",
+    "forbidden": [
+      "Milan",
+      "İtalya",
+      "Sol bek",
+      "Kaptan",
+      "Defans"
+    ]
+  },
+  {
+    "word": "Alessandro Nesta",
+    "forbidden": [
+      "Milli takım",
+      "Şampiyonlar Ligi",
+      "Yıldız",
+      "Forma",
+      "Kupa"
+    ]
+  },
+  {
+    "word": "Fabio Cannavaro",
+    "forbidden": [
+      "Avrupa",
+      "Yıldız",
+      "Efsane",
+      "Forma",
+      "Golcü"
+    ]
+  },
+  {
+    "word": "Roberto Baggio",
+    "forbidden": [
+      "Milli takım",
+      "Şampiyonlar Ligi",
+      "Yıldız",
+      "Forma",
+      "Kupa"
+    ]
+  },
+  {
+    "word": "Francesco Totti",
+    "forbidden": [
+      "Milli takım",
+      "Şampiyonlar Ligi",
+      "Yıldız",
+      "Forma",
+      "Kupa"
+    ]
+  },
+  {
+    "word": "Alessandro Del Piero",
+    "forbidden": [
+      "Avrupa",
+      "Yıldız",
+      "Efsane",
+      "Forma",
+      "Golcü"
+    ]
+  },
+  {
+    "word": "Andrea Pirlo",
+    "forbidden": [
+      "Maestro",
+      "İtalya",
+      "Milan",
+      "Juventus",
+      "Pas"
+    ]
+  },
+  {
+    "word": "Gianluigi Buffon",
+    "forbidden": [
+      "Juventus",
+      "İtalya",
+      "Kaleci",
+      "Parma",
+      "Eldiven"
+    ]
+  },
+  {
+    "word": "Iker Casillas",
+    "forbidden": [
+      "Avrupa",
+      "Yıldız",
+      "Efsane",
+      "Forma",
+      "Golcü"
+    ]
+  },
+  {
+    "word": "Sergio Ramos",
+    "forbidden": [
+      "Real Madrid",
+      "İspanya",
+      "Kırmızı kart",
+      "90+",
+      "Defans"
+    ]
+  },
+  {
+    "word": "Carles Puyol",
+    "forbidden": [
+      "Milli takım",
+      "Şampiyonlar Ligi",
+      "Yıldız",
+      "Forma",
+      "Kupa"
+    ]
+  },
+  {
+    "word": "Gerard Pique",
+    "forbidden": [
+      "Barcelona",
+      "Shakira",
+      "Stoper",
+      "İspanya",
+      "Defans"
+    ]
+  },
+  {
+    "word": "Xavi",
+    "forbidden": [
+      "Barcelona",
+      "İspanya",
+      "Pas",
+      "Maestro",
+      "Orta saha"
+    ]
+  },
+  {
+    "word": "Andres Iniesta",
+    "forbidden": [
+      "Barcelona",
+      "Final golü",
+      "İspanya",
+      "8",
+      "Orta saha"
+    ]
+  },
+  {
+    "word": "Sergio Busquets",
+    "forbidden": [
+      "Avrupa",
+      "Yıldız",
+      "Efsane",
+      "Forma",
+      "Golcü"
+    ]
+  },
+  {
+    "word": "David Villa",
+    "forbidden": [
+      "Milli takım",
+      "Şampiyonlar Ligi",
+      "Yıldız",
+      "Forma",
+      "Kupa"
+    ]
+  },
+  {
+    "word": "Fernando Torres",
+    "forbidden": [
+      "Milli takım",
+      "Şampiyonlar Ligi",
+      "Yıldız",
+      "Forma",
+      "Kupa"
+    ]
+  },
+  {
+    "word": "Raul",
+    "forbidden": [
+      "Avrupa",
+      "Yıldız",
+      "Efsane",
+      "Forma",
+      "Golcü"
+    ]
+  },
+  {
+    "word": "Karim Benzema",
+    "forbidden": [
+      "Real Madrid",
+      "Fransa",
+      "9 numara",
+      "Ballon d'Or",
+      "Forvet"
+    ]
+  },
+  {
+    "word": "Luka Modric",
+    "forbidden": [
+      "Real Madrid",
+      "Hırvatistan",
+      "10 numara",
+      "Ballon d'Or",
+      "Orta saha"
+    ]
+  },
+  {
+    "word": "Toni Kroos",
+    "forbidden": [
+      "Avrupa",
+      "Yıldız",
+      "Efsane",
+      "Forma",
+      "Golcü"
+    ]
+  },
+  {
+    "word": "Casemiro",
+    "forbidden": [
+      "Milli takım",
+      "Şampiyonlar Ligi",
+      "Yıldız",
+      "Forma",
+      "Kupa"
+    ]
+  },
+  {
+    "word": "Marcelo",
+    "forbidden": [
+      "Milli takım",
+      "Şampiyonlar Ligi",
+      "Yıldız",
+      "Forma",
+      "Kupa"
+    ]
+  },
+  {
+    "word": "Kaka",
+    "forbidden": [
+      "Avrupa",
+      "Yıldız",
+      "Efsane",
+      "Forma",
+      "Golcü"
+    ]
+  },
+  {
+    "word": "Rivaldo",
+    "forbidden": [
+      "Milli takım",
+      "Şampiyonlar Ligi",
+      "Yıldız",
+      "Forma",
+      "Kupa"
+    ]
+  },
+  {
+    "word": "Romario",
+    "forbidden": [
+      "Milli takım",
+      "Şampiyonlar Ligi",
+      "Yıldız",
+      "Forma",
+      "Kupa"
+    ]
+  },
+  {
+    "word": "Adriano",
+    "forbidden": [
+      "Avrupa",
+      "Yıldız",
+      "Efsane",
+      "Forma",
+      "Golcü"
+    ]
+  },
+  {
+    "word": "Cafu",
+    "forbidden": [
+      "Milli takım",
+      "Şampiyonlar Ligi",
+      "Yıldız",
+      "Forma",
+      "Kupa"
+    ]
+  },
+  {
+    "word": "Dani Alves",
+    "forbidden": [
+      "Milli takım",
+      "Şampiyonlar Ligi",
+      "Yıldız",
+      "Forma",
+      "Kupa"
+    ]
+  },
+  {
+    "word": "Thiago Silva",
+    "forbidden": [
+      "Avrupa",
+      "Yıldız",
+      "Efsane",
+      "Forma",
+      "Golcü"
+    ]
+  },
+  {
+    "word": "Vinicius Junior",
+    "forbidden": [
+      "Milli takım",
+      "Şampiyonlar Ligi",
+      "Yıldız",
+      "Forma",
+      "Kupa"
+    ]
+  },
+  {
+    "word": "Jude Bellingham",
+    "forbidden": [
+      "Milli takım",
+      "Şampiyonlar Ligi",
+      "Yıldız",
+      "Forma",
+      "Kupa"
+    ]
+  },
+  {
+    "word": "Harry Kane",
+    "forbidden": [
+      "Avrupa",
+      "Yıldız",
+      "Efsane",
+      "Forma",
+      "Golcü"
+    ]
+  },
+  {
+    "word": "Wayne Rooney",
+    "forbidden": [
+      "Milli takım",
+      "Şampiyonlar Ligi",
+      "Yıldız",
+      "Forma",
+      "Kupa"
+    ]
+  },
+  {
+    "word": "David Beckham",
+    "forbidden": [
+      "7",
+      "Frikik",
+      "İngiltere",
+      "Manchester United",
+      "Saç"
+    ]
+  },
+  {
+    "word": "Steven Gerrard",
+    "forbidden": [
+      "Liverpool",
+      "Kaptan",
+      "Kaymak",
+      "İstanbul",
+      "Orta saha"
+    ]
+  },
+  {
+    "word": "Frank Lampard",
+    "forbidden": [
+      "Milli takım",
+      "Şampiyonlar Ligi",
+      "Yıldız",
+      "Forma",
+      "Kupa"
+    ]
+  },
+  {
+    "word": "Paul Scholes",
+    "forbidden": [
+      "Milli takım",
+      "Şampiyonlar Ligi",
+      "Yıldız",
+      "Forma",
+      "Kupa"
+    ]
+  },
+  {
+    "word": "Rio Ferdinand",
+    "forbidden": [
+      "Avrupa",
+      "Yıldız",
+      "Efsane",
+      "Forma",
+      "Golcü"
+    ]
+  },
+  {
+    "word": "John Terry",
+    "forbidden": [
+      "Milli takım",
+      "Şampiyonlar Ligi",
+      "Yıldız",
+      "Forma",
+      "Kupa"
+    ]
+  },
+  {
+    "word": "Ashley Cole",
+    "forbidden": [
+      "Milli takım",
+      "Şampiyonlar Ligi",
+      "Yıldız",
+      "Forma",
+      "Kupa"
+    ]
+  },
+  {
+    "word": "Mohamed Salah",
+    "forbidden": [
+      "Mısır",
+      "Liverpool",
+      "Firavun",
+      "Sol ayak",
+      "Kanat"
+    ]
+  },
+  {
+    "word": "Sadio Mane",
+    "forbidden": [
+      "Milli takım",
+      "Şampiyonlar Ligi",
+      "Yıldız",
+      "Forma",
+      "Kupa"
+    ]
+  },
+  {
+    "word": "Robert Lewandowski",
+    "forbidden": [
+      "Milli takım",
+      "Şampiyonlar Ligi",
+      "Yıldız",
+      "Forma",
+      "Kupa"
+    ]
+  },
+  {
+    "word": "Luis Suarez",
+    "forbidden": [
+      "Isırık",
+      "Uruguay",
+      "Barcelona",
+      "Liverpool",
+      "Forvet"
+    ]
+  },
+  {
+    "word": "Edinson Cavani",
+    "forbidden": [
+      "Milli takım",
+      "Şampiyonlar Ligi",
+      "Yıldız",
+      "Forma",
+      "Kupa"
+    ]
+  },
+  {
+    "word": "Antoine Griezmann",
+    "forbidden": [
+      "Milli takım",
+      "Şampiyonlar Ligi",
+      "Yıldız",
+      "Forma",
+      "Kupa"
+    ]
+  },
+  {
+    "word": "Paul Pogba",
+    "forbidden": [
+      "Avrupa",
+      "Yıldız",
+      "Efsane",
+      "Forma",
+      "Golcü"
+    ]
+  },
+  {
+    "word": "N'Golo Kante",
+    "forbidden": [
+      "Milli takım",
+      "Şampiyonlar Ligi",
+      "Yıldız",
+      "Forma",
+      "Kupa"
+    ]
+  },
+  {
+    "word": "Thierry Henry",
+    "forbidden": [
+      "Milli takım",
+      "Şampiyonlar Ligi",
+      "Yıldız",
+      "Forma",
+      "Kupa"
+    ]
+  },
+  {
+    "word": "Patrick Vieira",
+    "forbidden": [
+      "Avrupa",
+      "Yıldız",
+      "Efsane",
+      "Forma",
+      "Golcü"
+    ]
+  },
+  {
+    "word": "Claude Makelele",
+    "forbidden": [
+      "Milli takım",
+      "Şampiyonlar Ligi",
+      "Yıldız",
+      "Forma",
+      "Kupa"
+    ]
+  },
+  {
+    "word": "Didier Deschamps",
+    "forbidden": [
+      "Milli takım",
+      "Şampiyonlar Ligi",
+      "Yıldız",
+      "Forma",
+      "Kupa"
+    ]
+  },
+  {
+    "word": "Eden Hazard",
+    "forbidden": [
+      "Avrupa",
+      "Yıldız",
+      "Efsane",
+      "Forma",
+      "Golcü"
+    ]
+  },
+  {
+    "word": "Kevin De Bruyne",
+    "forbidden": [
+      "Milli takım",
+      "Şampiyonlar Ligi",
+      "Yıldız",
+      "Forma",
+      "Kupa"
+    ]
+  },
+  {
+    "word": "Romelu Lukaku",
+    "forbidden": [
+      "Milli takım",
+      "Şampiyonlar Ligi",
+      "Yıldız",
+      "Forma",
+      "Kupa"
+    ]
+  },
+  {
+    "word": "Thibaut Courtois",
+    "forbidden": [
+      "Avrupa",
+      "Yıldız",
+      "Efsane",
+      "Forma",
+      "Golcü"
+    ]
+  },
+  {
+    "word": "Virgil van Dijk",
+    "forbidden": [
+      "Milli takım",
+      "Şampiyonlar Ligi",
+      "Yıldız",
+      "Forma",
+      "Kupa"
+    ]
+  },
+  {
+    "word": "Arjen Robben",
+    "forbidden": [
+      "Milli takım",
+      "Şampiyonlar Ligi",
+      "Yıldız",
+      "Forma",
+      "Kupa"
+    ]
+  },
+  {
+    "word": "Robin van Persie",
+    "forbidden": [
+      "Avrupa",
+      "Yıldız",
+      "Efsane",
+      "Forma",
+      "Golcü"
+    ]
+  },
+  {
+    "word": "Dennis Bergkamp",
+    "forbidden": [
+      "Milli takım",
+      "Şampiyonlar Ligi",
+      "Yıldız",
+      "Forma",
+      "Kupa"
+    ]
+  },
+  {
+    "word": "Ruud van Nistelrooy",
+    "forbidden": [
+      "Milli takım",
+      "Şampiyonlar Ligi",
+      "Yıldız",
+      "Forma",
+      "Kupa"
+    ]
+  },
+  {
+    "word": "Clarence Seedorf",
+    "forbidden": [
+      "Avrupa",
+      "Yıldız",
+      "Efsane",
+      "Forma",
+      "Golcü"
+    ]
+  },
+  {
+    "word": "Edgar Davids",
+    "forbidden": [
+      "Milli takım",
+      "Şampiyonlar Ligi",
+      "Yıldız",
+      "Forma",
+      "Kupa"
+    ]
+  },
+  {
+    "word": "Zlatan Ibrahimovic",
+    "forbidden": [
+      "Ibra",
+      "İsveç",
+      "Kung fu",
+      "Ego",
+      "Milan"
+    ]
+  },
+  {
+    "word": "Lothar Matthaus",
+    "forbidden": [
+      "Avrupa",
+      "Yıldız",
+      "Efsane",
+      "Forma",
+      "Golcü"
+    ]
+  },
+  {
+    "word": "Miroslav Klose",
+    "forbidden": [
+      "Milli takım",
+      "Şampiyonlar Ligi",
+      "Yıldız",
+      "Forma",
+      "Kupa"
+    ]
+  },
+  {
+    "word": "Thomas Müller",
+    "forbidden": [
+      "Milli takım",
+      "Şampiyonlar Ligi",
+      "Yıldız",
+      "Forma",
+      "Kupa"
+    ]
+  },
+  {
+    "word": "Manuel Neuer",
+    "forbidden": [
+      "Almanya",
+      "Bayern",
+      "Sweeper keeper",
+      "Kaleci",
+      "Eldiven"
+    ]
+  },
+  {
+    "word": "Philipp Lahm",
+    "forbidden": [
+      "Milli takım",
+      "Şampiyonlar Ligi",
+      "Yıldız",
+      "Forma",
+      "Kupa"
+    ]
+  },
+  {
+    "word": "Bastian Schweinsteiger",
+    "forbidden": [
+      "Milli takım",
+      "Şampiyonlar Ligi",
+      "Yıldız",
+      "Forma",
+      "Kupa"
+    ]
+  },
+  {
+    "word": "Mats Hummels",
+    "forbidden": [
+      "Avrupa",
+      "Yıldız",
+      "Efsane",
+      "Forma",
+      "Golcü"
+    ]
+  },
+  {
+    "word": "Marco Reus",
+    "forbidden": [
+      "Milli takım",
+      "Şampiyonlar Ligi",
+      "Yıldız",
+      "Forma",
+      "Kupa"
+    ]
+  },
+  {
+    "word": "Jürgen Klinsmann",
+    "forbidden": [
+      "Milli takım",
+      "Şampiyonlar Ligi",
+      "Yıldız",
+      "Forma",
+      "Kupa"
+    ]
+  },
+  {
+    "word": "Son Heung-min",
+    "forbidden": [
+      "Güney Kore",
+      "Tottenham",
+      "Hız",
+      "Gülüş",
+      "Kanat"
+    ]
+  },
+  {
+    "word": "Park Ji-sung",
+    "forbidden": [
+      "Milli takım",
+      "Şampiyonlar Ligi",
+      "Yıldız",
+      "Forma",
+      "Kupa"
+    ]
+  },
+  {
+    "word": "Shunsuke Nakamura",
+    "forbidden": [
+      "Milli takım",
+      "Şampiyonlar Ligi",
+      "Yıldız",
+      "Forma",
+      "Kupa"
+    ]
+  },
+  {
+    "word": "Keisuke Honda",
+    "forbidden": [
+      "Avrupa",
+      "Yıldız",
+      "Efsane",
+      "Forma",
+      "Golcü"
+    ]
+  },
+  {
+    "word": "Ali Daei",
+    "forbidden": [
+      "Milli takım",
+      "Şampiyonlar Ligi",
+      "Yıldız",
+      "Forma",
+      "Kupa"
+    ]
+  },
+  {
+    "word": "Mehdi Taremi",
+    "forbidden": [
+      "Milli takım",
+      "Şampiyonlar Ligi",
+      "Yıldız",
+      "Forma",
+      "Kupa"
+    ]
+  },
+  {
+    "word": "Achraf Hakimi",
+    "forbidden": [
+      "Avrupa",
+      "Yıldız",
+      "Efsane",
+      "Forma",
+      "Golcü"
+    ]
+  },
+  {
+    "word": "Yaya Toure",
+    "forbidden": [
+      "Milli takım",
+      "Şampiyonlar Ligi",
+      "Yıldız",
+      "Forma",
+      "Kupa"
+    ]
+  },
+  {
+    "word": "Samuel Eto'o",
+    "forbidden": [
+      "Milli takım",
+      "Şampiyonlar Ligi",
+      "Yıldız",
+      "Forma",
+      "Kupa"
+    ]
+  },
+  {
+    "word": "George Weah",
+    "forbidden": [
+      "Avrupa",
+      "Yıldız",
+      "Efsane",
+      "Forma",
+      "Golcü"
+    ]
+  },
+  {
+    "word": "Michael Essien",
+    "forbidden": [
+      "Milli takım",
+      "Şampiyonlar Ligi",
+      "Yıldız",
+      "Forma",
+      "Kupa"
+    ]
+  },
+  {
+    "word": "Jay-Jay Okocha",
+    "forbidden": [
+      "Milli takım",
+      "Şampiyonlar Ligi",
+      "Yıldız",
+      "Forma",
+      "Kupa"
+    ]
+  },
+  {
+    "word": "Victor Osimhen",
+    "forbidden": [
+      "Nijerya",
+      "Napoli",
+      "Maske",
+      "Forvet",
+      "Gol"
+    ]
+  },
+  {
+    "word": "Riyad Mahrez",
+    "forbidden": [
+      "Milli takım",
+      "Şampiyonlar Ligi",
+      "Yıldız",
+      "Forma",
+      "Kupa"
+    ]
+  },
+  {
+    "word": "Rabah Madjer",
+    "forbidden": [
+      "Milli takım",
+      "Şampiyonlar Ligi",
+      "Yıldız",
+      "Forma",
+      "Kupa"
+    ]
+  },
+  {
+    "word": "Hugo Sanchez",
+    "forbidden": [
+      "Avrupa",
+      "Yıldız",
+      "Efsane",
+      "Forma",
+      "Golcü"
+    ]
+  },
+  {
+    "word": "Javier Hernandez",
+    "forbidden": [
+      "Milli takım",
+      "Şampiyonlar Ligi",
+      "Yıldız",
+      "Forma",
+      "Kupa"
+    ]
+  },
+  {
+    "word": "Claudio Bravo",
+    "forbidden": [
+      "Milli takım",
+      "Şampiyonlar Ligi",
+      "Yıldız",
+      "Forma",
+      "Kupa"
+    ]
+  },
+  {
+    "word": "Alexis Sanchez",
+    "forbidden": [
+      "Avrupa",
+      "Yıldız",
+      "Efsane",
+      "Forma",
+      "Golcü"
+    ]
+  },
+  {
+    "word": "Arturo Vidal",
+    "forbidden": [
+      "Milli takım",
+      "Şampiyonlar Ligi",
+      "Yıldız",
+      "Forma",
+      "Kupa"
+    ]
+  },
+  {
+    "word": "James Rodriguez",
+    "forbidden": [
+      "Milli takım",
+      "Şampiyonlar Ligi",
+      "Yıldız",
+      "Forma",
+      "Kupa"
+    ]
+  },
+  {
+    "word": "Carlos Valderrama",
+    "forbidden": [
+      "Avrupa",
+      "Yıldız",
+      "Efsane",
+      "Forma",
+      "Golcü"
+    ]
+  },
+  {
+    "word": "Juan Roman Riquelme",
+    "forbidden": [
+      "Milli takım",
+      "Şampiyonlar Ligi",
+      "Yıldız",
+      "Forma",
+      "Kupa"
+    ]
+  },
+  {
+    "word": "Angel Di Maria",
+    "forbidden": [
+      "Milli takım",
+      "Şampiyonlar Ligi",
+      "Yıldız",
+      "Forma",
+      "Kupa"
+    ]
+  },
+  {
+    "word": "Sergio Agüero",
+    "forbidden": [
+      "Avrupa",
+      "Yıldız",
+      "Efsane",
+      "Forma",
+      "Golcü"
+    ]
+  },
+  {
+    "word": "Gabriel Batistuta",
+    "forbidden": [
+      "Milli takım",
+      "Şampiyonlar Ligi",
+      "Yıldız",
+      "Forma",
+      "Kupa"
+    ]
+  },
+  {
+    "word": "Paulo Dybala",
+    "forbidden": [
+      "Milli takım",
+      "Şampiyonlar Ligi",
+      "Yıldız",
+      "Forma",
+      "Kupa"
+    ]
+  },
+  {
+    "word": "Emiliano Martinez",
+    "forbidden": [
+      "Avrupa",
+      "Yıldız",
+      "Efsane",
+      "Forma",
+      "Golcü"
+    ]
+  },
+  {
+    "word": "Darwin Nunez",
+    "forbidden": [
+      "Milli takım",
+      "Şampiyonlar Ligi",
+      "Yıldız",
+      "Forma",
+      "Kupa"
+    ]
+  },
+  {
+    "word": "Federico Valverde",
+    "forbidden": [
+      "Milli takım",
+      "Şampiyonlar Ligi",
+      "Yıldız",
+      "Forma",
+      "Kupa"
+    ]
+  },
+  {
+    "word": "Lamine Yamal",
+    "forbidden": [
+      "Barcelona",
+      "İspanya",
+      "Genç",
+      "Sol ayak",
+      "Kanat"
+    ]
+  },
+  {
+    "word": "Rodri",
+    "forbidden": [
+      "Manchester City",
+      "İspanya",
+      "6 numara",
+      "Ballon d'Or",
+      "Orta saha"
+    ]
+  },
+  {
+    "word": "Jamal Musiala",
+    "forbidden": [
+      "Milli takım",
+      "Şampiyonlar Ligi",
+      "Yıldız",
+      "Forma",
+      "Kupa"
+    ]
+  },
+  {
+    "word": "Florian Wirtz",
+    "forbidden": [
+      "Avrupa",
+      "Yıldız",
+      "Efsane",
+      "Forma",
+      "Golcü"
+    ]
+  },
+  {
+    "word": "Gareth Bale",
+    "forbidden": [
+      "Galler",
+      "Real Madrid",
+      "Golf",
+      "Sol ayak",
+      "Hız"
+    ]
+  },
+  {
+    "word": "Lamine Diarra",
+    "forbidden": [
+      "Milli takım",
+      "Şampiyonlar Ligi",
+      "Yıldız",
+      "Forma",
+      "Kupa"
+    ]
+  },
+  {
+    "word": "Abedi Pele",
+    "forbidden": [
+      "Avrupa",
+      "Yıldız",
+      "Efsane",
+      "Forma",
+      "Golcü"
+    ]
+  },
+  {
+    "word": "Ruud Gullit",
+    "forbidden": [
+      "Milli takım",
+      "Şampiyonlar Ligi",
+      "Yıldız",
+      "Forma",
+      "Kupa"
+    ]
+  }
+]
