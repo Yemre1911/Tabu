@@ -71,6 +71,9 @@ namespace TabuOyunu.Gameplay
         [SerializeField] private Color tabooFlashColor = new Color(1f, 0.42f, 0.42f);
         [SerializeField] private Color passFlashColor = new Color(0.57f, 0.75f, 1f);
 
+        [Header("Word Provider")]
+        [SerializeField] private WordProvider wordProvider;
+
         [Header("Temporary Word Source")]
         [SerializeField] private List<WordGroup> defaultWordGroups = new List<WordGroup>();
 
@@ -138,6 +141,9 @@ namespace TabuOyunu.Gameplay
 
             if (jokerRoot != null)
                 jokerRoot.SetActive(false);
+
+            if (wordProvider == null)
+                wordProvider = GetComponent<WordProvider>();
         }
 
         public void Bind(
@@ -152,6 +158,9 @@ namespace TabuOyunu.Gameplay
             turnManager = turn;
             scoreManager = score;
             timerController = timer;
+
+            if (wordProvider != null)
+                wordProvider.Initialize(settings.categoryId);
 
             LoadJokerWords();
 
@@ -416,6 +425,11 @@ namespace TabuOyunu.Gameplay
 
         private WordGroup GetNextWordGroup()
         {
+            if (wordProvider != null && wordProvider.HasWords)
+            {
+                return wordProvider.GetNextWord();
+            }
+
             if (defaultWordGroups == null || defaultWordGroups.Count == 0)
             {
                 return new WordGroup
@@ -423,12 +437,12 @@ namespace TabuOyunu.Gameplay
                     mainWord = "KELİME",
                     forbiddenWords = new[]
                     {
-                        "Yasak 1",
-                        "Yasak 2",
-                        "Yasak 3",
-                        "Yasak 4",
-                        "Yasak 5"
-                    }
+                "Yasak 1",
+                "Yasak 2",
+                "Yasak 3",
+                "Yasak 4",
+                "Yasak 5"
+            }
                 };
             }
 
@@ -568,7 +582,7 @@ namespace TabuOyunu.Gameplay
             comboRoutine = StartCoroutine(ComboWindowRoutine());
         }
 
-       
+
 
         private IEnumerator ComboWindowRoutine()
         {

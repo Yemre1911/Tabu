@@ -1,0 +1,2502 @@
+[
+  {
+    "word": "Titanic",
+    "forbidden": [
+      "Gemi",
+      "Jack",
+      "Rose",
+      "Buzdağı",
+      "Batmak"
+    ]
+  },
+  {
+    "word": "Forrest Gump",
+    "forbidden": [
+      "Koş",
+      "Çikolata",
+      "Tom Hanks",
+      "Jenny",
+      "Bubba"
+    ]
+  },
+  {
+    "word": "Matrix",
+    "forbidden": [
+      "Neo",
+      "Morpheus",
+      "Kırmızı mavi hap",
+      "Kader",
+      "Simülasyon"
+    ]
+  },
+  {
+    "word": "Yüzüklerin Efendisi",
+    "forbidden": [
+      "Yüzük",
+      "Frodo",
+      "Gandalf",
+      "Orta Dünya",
+      "Sauron"
+    ]
+  },
+  {
+    "word": "Harry Potter",
+    "forbidden": [
+      "Büyücü",
+      "Hogwarts",
+      "Asa",
+      "Voldemort",
+      "Avada Kedavra"
+    ]
+  },
+  {
+    "word": "Star Wars",
+    "forbidden": [
+      "Jedi",
+      "Sith",
+      "Işın kılıcı",
+      "Darth Vader",
+      "Güç"
+    ]
+  },
+  {
+    "word": "The Godfather",
+    "forbidden": [
+      "Baba",
+      "Mafya",
+      "Corleone",
+      "At kafası",
+      "Teklif"
+    ]
+  },
+  {
+    "word": "Pulp Fiction",
+    "forbidden": [
+      "Tarantino",
+      "Dans",
+      "Çanta",
+      "Vincent",
+      "Jules"
+    ]
+  },
+  {
+    "word": "Fight Club",
+    "forbidden": [
+      "Dövüş",
+      "Tyler Durden",
+      "Sabun",
+      "Kural",
+      "Brad Pitt"
+    ]
+  },
+  {
+    "word": "Inception",
+    "forbidden": [
+      "Rüya",
+      "Topaç",
+      "Leonardo",
+      "Katman",
+      "Bilinçaltı"
+    ]
+  },
+  {
+    "word": "Interstellar",
+    "forbidden": [
+      "Uzay",
+      "Solucan deliği",
+      "Murph",
+      "Saat",
+      "Cooper"
+    ]
+  },
+  {
+    "word": "The Dark Knight",
+    "forbidden": [
+      "Batman",
+      "Joker",
+      "Gotham",
+      "Harvey Dent",
+      "Kaos"
+    ]
+  },
+  {
+    "word": "Joker",
+    "forbidden": [
+      "Arthur Fleck",
+      "Palyaço",
+      "Gotham",
+      "Dans",
+      "Merdiven"
+    ]
+  },
+  {
+    "word": "Avengers",
+    "forbidden": [
+      "Marvel",
+      "Iron Man",
+      "Thor",
+      "Hulk",
+      "Thanos"
+    ]
+  },
+  {
+    "word": "Iron Man",
+    "forbidden": [
+      "Tony Stark",
+      "Zırh",
+      "Reaktör",
+      "Marvel",
+      "Jarvis"
+    ]
+  },
+  {
+    "word": "Spider-Man",
+    "forbidden": [
+      "Örümcek",
+      "Peter Parker",
+      "Ağ",
+      "Mary Jane",
+      "Amca Ben"
+    ]
+  },
+  {
+    "word": "Batman",
+    "forbidden": [
+      "Gotham",
+      "Yarasa",
+      "Bruce Wayne",
+      "Joker",
+      "Batmobile"
+    ]
+  },
+  {
+    "word": "Superman",
+    "forbidden": [
+      "Kripton",
+      "Clark Kent",
+      "Pelerin",
+      "Uçmak",
+      "Lois"
+    ]
+  },
+  {
+    "word": "Wonder Woman",
+    "forbidden": [
+      "Amazon",
+      "Diana",
+      "Kement",
+      "DC",
+      "Kalkan"
+    ]
+  },
+  {
+    "word": "Black Panther",
+    "forbidden": [
+      "Wakanda",
+      "T'Challa",
+      "Vibranyum",
+      "Marvel",
+      "Kral"
+    ]
+  },
+  {
+    "word": "Deadpool",
+    "forbidden": [
+      "Kırmızı kostüm",
+      "Geveze",
+      "Wade",
+      "Kılıç",
+      "Marvel"
+    ]
+  },
+  {
+    "word": "Guardians of the Galaxy",
+    "forbidden": [
+      "Groot",
+      "Rocket",
+      "Star-Lord",
+      "Galaksi",
+      "Kaset"
+    ]
+  },
+  {
+    "word": "Jurassic Park",
+    "forbidden": [
+      "Dinozor",
+      "T-Rex",
+      "Ada",
+      "Amber",
+      "Park"
+    ]
+  },
+  {
+    "word": "Jaws",
+    "forbidden": [
+      "Köpekbalığı",
+      "Deniz",
+      "Tekne",
+      "Spielberg",
+      "Müzik"
+    ]
+  },
+  {
+    "word": "Back to the Future",
+    "forbidden": [
+      "DeLorean",
+      "Marty",
+      "Doc",
+      "Gelecek",
+      "Zaman"
+    ]
+  },
+  {
+    "word": "Terminator",
+    "forbidden": [
+      "Robot",
+      "I'll be back",
+      "Skynet",
+      "Arnold",
+      "Sarah Connor"
+    ]
+  },
+  {
+    "word": "Alien",
+    "forbidden": [
+      "Xenomorph",
+      "Uzaylı",
+      "Ripley",
+      "Nostromo",
+      "Yaratık"
+    ]
+  },
+  {
+    "word": "Predator",
+    "forbidden": [
+      "Avcı",
+      "Orman",
+      "Termal",
+      "Arnold",
+      "Uzaylı"
+    ]
+  },
+  {
+    "word": "Rocky",
+    "forbidden": [
+      "Boks",
+      "Balboa",
+      "Adrian",
+      "Merdiven",
+      "Philadelphia"
+    ]
+  },
+  {
+    "word": "Rambo",
+    "forbidden": [
+      "Komando",
+      "Vietnam",
+      "Bıçak",
+      "Stallone",
+      "Orman"
+    ]
+  },
+  {
+    "word": "Scarface",
+    "forbidden": [
+      "Tony Montana",
+      "Say hello",
+      "Kokain",
+      "Miami",
+      "Al Pacino"
+    ]
+  },
+  {
+    "word": "Gladiator",
+    "forbidden": [
+      "Roma",
+      "Maximus",
+      "Arena",
+      "İmparator",
+      "Are you not entertained"
+    ]
+  },
+  {
+    "word": "Braveheart",
+    "forbidden": [
+      "Özgürlük",
+      "William Wallace",
+      "İskoçya",
+      "Mel Gibson",
+      "Savaş"
+    ]
+  },
+  {
+    "word": "Saving Private Ryan",
+    "forbidden": [
+      "Savaş",
+      "Normandiya",
+      "Tom Hanks",
+      "Asker",
+      "Ryan"
+    ]
+  },
+  {
+    "word": "Schindler's List",
+    "forbidden": [
+      "Liste",
+      "Holokost",
+      "Kırmızı mont",
+      "Schindler",
+      "Siyah beyaz"
+    ]
+  },
+  {
+    "word": "The Shawshank Redemption",
+    "forbidden": [
+      "Hapishane",
+      "Andy",
+      "Red",
+      "Umut",
+      "Tünel"
+    ]
+  },
+  {
+    "word": "The Green Mile",
+    "forbidden": [
+      "Hapishane",
+      "John Coffey",
+      "Mucize",
+      "Elektrikli sandalye",
+      "Fare"
+    ]
+  },
+  {
+    "word": "Se7en",
+    "forbidden": [
+      "Yedi günah",
+      "Kutu",
+      "Dedektif",
+      "Brad Pitt",
+      "Morgan Freeman"
+    ]
+  },
+  {
+    "word": "The Silence of the Lambs",
+    "forbidden": [
+      "Hannibal",
+      "Clarice",
+      "Kuzu",
+      "Maske",
+      "Yamyam"
+    ]
+  },
+  {
+    "word": "The Sixth Sense",
+    "forbidden": [
+      "Ölü insanlar",
+      "Çocuk",
+      "Bruce Willis",
+      "Hayalet",
+      "Twist"
+    ]
+  },
+  {
+    "word": "The Shining",
+    "forbidden": [
+      "Here's Johnny",
+      "Otel",
+      "Balta",
+      "Danny",
+      "Koridor"
+    ]
+  },
+  {
+    "word": "Psycho",
+    "forbidden": [
+      "Duş",
+      "Bıçak",
+      "Norman Bates",
+      "Motel",
+      "Anne"
+    ]
+  },
+  {
+    "word": "The Exorcist",
+    "forbidden": [
+      "Şeytan",
+      "Kusma",
+      "Rahip",
+      "Korku",
+      "Kız"
+    ]
+  },
+  {
+    "word": "A Nightmare on Elm Street",
+    "forbidden": [
+      "Freddy",
+      "Rüya",
+      "Bıçaklı eldiven",
+      "Kazak",
+      "Korku"
+    ]
+  },
+  {
+    "word": "Halloween",
+    "forbidden": [
+      "Michael Myers",
+      "Maske",
+      "Bıçak",
+      "Cadılar Bayramı",
+      "Korku"
+    ]
+  },
+  {
+    "word": "Scream",
+    "forbidden": [
+      "Ghostface",
+      "Maske",
+      "Telefon",
+      "Çığlık",
+      "Bıçak"
+    ]
+  },
+  {
+    "word": "Saw",
+    "forbidden": [
+      "Jigsaw",
+      "Testere",
+      "Oyun",
+      "Tuzak",
+      "Bisikletli kukla"
+    ]
+  },
+  {
+    "word": "The Conjuring",
+    "forbidden": [
+      "Warren",
+      "Perili ev",
+      "Annabelle",
+      "Korku",
+      "Şeytan"
+    ]
+  },
+  {
+    "word": "Avatar",
+    "forbidden": [
+      "Pandora",
+      "Na'vi",
+      "Mavi",
+      "Ağaç",
+      "James Cameron"
+    ]
+  },
+  {
+    "word": "Pirates of the Caribbean",
+    "forbidden": [
+      "Jack Sparrow",
+      "Korsan",
+      "Siyah İnci",
+      "Pusula",
+      "Rum"
+    ]
+  },
+  {
+    "word": "Indiana Jones",
+    "forbidden": [
+      "Şapka",
+      "Kamçı",
+      "Arkeolog",
+      "Hazine",
+      "Yılan"
+    ]
+  },
+  {
+    "word": "Mission Impossible",
+    "forbidden": [
+      "Ethan Hunt",
+      "Maske",
+      "Görev",
+      "Tom Cruise",
+      "Dublör"
+    ]
+  },
+  {
+    "word": "James Bond",
+    "forbidden": [
+      "007",
+      "Ajan",
+      "Martini",
+      "Bond kızı",
+      "İngiltere"
+    ]
+  },
+  {
+    "word": "John Wick",
+    "forbidden": [
+      "Köpek",
+      "Kalem",
+      "Suikastçı",
+      "Continental",
+      "Keanu"
+    ]
+  },
+  {
+    "word": "The Hunger Games",
+    "forbidden": [
+      "Katniss",
+      "Ok",
+      "Panem",
+      "Açlık",
+      "Mıntıka"
+    ]
+  },
+  {
+    "word": "Twilight",
+    "forbidden": [
+      "Vampir",
+      "Kurt adam",
+      "Bella",
+      "Edward",
+      "Parlamak"
+    ]
+  },
+  {
+    "word": "The Notebook",
+    "forbidden": [
+      "Aşk",
+      "Defter",
+      "Noah",
+      "Allie",
+      "Yağmur"
+    ]
+  },
+  {
+    "word": "La La Land",
+    "forbidden": [
+      "Müzikal",
+      "Caz",
+      "Los Angeles",
+      "Emma Stone",
+      "Piyano"
+    ]
+  },
+  {
+    "word": "Whiplash",
+    "forbidden": [
+      "Davul",
+      "Terence Fletcher",
+      "Tempo",
+      "Caz",
+      "Not my tempo"
+    ]
+  },
+  {
+    "word": "The Truman Show",
+    "forbidden": [
+      "Truman",
+      "Kamera",
+      "Sahte dünya",
+      "Kapı",
+      "Reality"
+    ]
+  },
+  {
+    "word": "Cast Away",
+    "forbidden": [
+      "Ada",
+      "Wilson",
+      "Tom Hanks",
+      "FedEx",
+      "Top"
+    ]
+  },
+  {
+    "word": "Home Alone",
+    "forbidden": [
+      "Kevin",
+      "Hırsız",
+      "Tuzak",
+      "Noel",
+      "Ev"
+    ]
+  },
+  {
+    "word": "Die Hard",
+    "forbidden": [
+      "John McClane",
+      "Gökdelen",
+      "Noel",
+      "Yippee-ki-yay",
+      "Polis"
+    ]
+  },
+  {
+    "word": "Men in Black",
+    "forbidden": [
+      "Siyah takım",
+      "Uzaylı",
+      "Hafıza silici",
+      "Ajan J",
+      "Ajan K"
+    ]
+  },
+  {
+    "word": "Ghostbusters",
+    "forbidden": [
+      "Hayalet",
+      "Proton çantası",
+      "Who you gonna call",
+      "Slimer",
+      "New York"
+    ]
+  },
+  {
+    "word": "E.T.",
+    "forbidden": [
+      "Uzaylı",
+      "Bisiklet",
+      "Telefon ev",
+      "Parmak",
+      "Çocuk"
+    ]
+  },
+  {
+    "word": "King Kong",
+    "forbidden": [
+      "Goril",
+      "Empire State",
+      "Ada",
+      "Dev",
+      "Kong"
+    ]
+  },
+  {
+    "word": "Godzilla",
+    "forbidden": [
+      "Canavar",
+      "Japonya",
+      "Atom",
+      "Şehir",
+      "Dev"
+    ]
+  },
+  {
+    "word": "Mad Max",
+    "forbidden": [
+      "Çöl",
+      "Fury Road",
+      "Araba",
+      "Max",
+      "Kıyamet"
+    ]
+  },
+  {
+    "word": "Top Gun",
+    "forbidden": [
+      "Pilot",
+      "Maverick",
+      "Uçak",
+      "Goose",
+      "Tehlike bölgesi"
+    ]
+  },
+  {
+    "word": "Oppenheimer",
+    "forbidden": [
+      "Atom bombası",
+      "Fizikçi",
+      "Nolan",
+      "Manhattan Projesi",
+      "Patlama"
+    ]
+  },
+  {
+    "word": "Barbie",
+    "forbidden": [
+      "Pembe",
+      "Ken",
+      "Oyuncak",
+      "Margot Robbie",
+      "Plastik"
+    ]
+  },
+  {
+    "word": "Dune",
+    "forbidden": [
+      "Çöl",
+      "Baharat",
+      "Paul Atreides",
+      "Solucan",
+      "Arrakis"
+    ]
+  },
+  {
+    "word": "The Social Network",
+    "forbidden": [
+      "Facebook",
+      "Mark Zuckerberg",
+      "Harvard",
+      "Kod",
+      "Arkadaşlık"
+    ]
+  },
+  {
+    "word": "The Wolf of Wall Street",
+    "forbidden": [
+      "Borsa",
+      "Jordan Belfort",
+      "Para",
+      "Leonardo",
+      "Yat"
+    ]
+  },
+  {
+    "word": "Goodfellas",
+    "forbidden": [
+      "Mafya",
+      "Scorsese",
+      "Ray Liotta",
+      "Joe Pesci",
+      "Gangster"
+    ]
+  },
+  {
+    "word": "Taxi Driver",
+    "forbidden": [
+      "Travis Bickle",
+      "You talkin to me",
+      "Taksi",
+      "New York",
+      "Ayna"
+    ]
+  },
+  {
+    "word": "Kill Bill",
+    "forbidden": [
+      "Gelin",
+      "Kılıç",
+      "Tarantino",
+      "Uma Thurman",
+      "Sarı tulum"
+    ]
+  },
+  {
+    "word": "Django Unchained",
+    "forbidden": [
+      "Kovboy",
+      "Kölelik",
+      "Tarantino",
+      "Django",
+      "Dr. Schultz"
+    ]
+  },
+  {
+    "word": "The Revenant",
+    "forbidden": [
+      "Ayı",
+      "Leonardo",
+      "İntikam",
+      "Soğuk",
+      "Oscar"
+    ]
+  },
+  {
+    "word": "Memento",
+    "forbidden": [
+      "Hafıza",
+      "Dövme",
+      "Nolan",
+      "Polaroid",
+      "Ters kurgu"
+    ]
+  },
+  {
+    "word": "The Prestige",
+    "forbidden": [
+      "Sihirbaz",
+      "Tesla",
+      "Nolan",
+      "İkiz",
+      "Gösteri"
+    ]
+  },
+  {
+    "word": "Shutter Island",
+    "forbidden": [
+      "Ada",
+      "Akıl hastanesi",
+      "Dedektif",
+      "Leonardo",
+      "Twist"
+    ]
+  },
+  {
+    "word": "Catch Me If You Can",
+    "forbidden": [
+      "Dolandırıcı",
+      "Pilot",
+      "FBI",
+      "Sahte çek",
+      "Leonardo"
+    ]
+  },
+  {
+    "word": "A Beautiful Mind",
+    "forbidden": [
+      "Matematik",
+      "Nash",
+      "Şizofreni",
+      "Nobel",
+      "Russell Crowe"
+    ]
+  },
+  {
+    "word": "Parasite",
+    "forbidden": [
+      "Kore",
+      "Zengin aile",
+      "Bodrum",
+      "Oscar",
+      "Sınıf farkı"
+    ]
+  },
+  {
+    "word": "Oldboy",
+    "forbidden": [
+      "Kore",
+      "İntikam",
+      "Çekiç",
+      "Koridor",
+      "Twist"
+    ]
+  },
+  {
+    "word": "Leon",
+    "forbidden": [
+      "Mathilda",
+      "Suikastçı",
+      "Bitki",
+      "Jean Reno",
+      "New York"
+    ]
+  },
+  {
+    "word": "Fast and Furious",
+    "forbidden": [
+      "Araba",
+      "Aile",
+      "Vin Diesel",
+      "Yarış",
+      "Nos"
+    ]
+  },
+  {
+    "word": "Transformers",
+    "forbidden": [
+      "Optimus Prime",
+      "Bumblebee",
+      "Robot",
+      "Araba",
+      "Megatron"
+    ]
+  },
+  {
+    "word": "Shrek",
+    "forbidden": [
+      "Ogre",
+      "Eşek",
+      "Fiona",
+      "Bataklık",
+      "Soğan"
+    ]
+  },
+  {
+    "word": "Toy Story",
+    "forbidden": [
+      "Woody",
+      "Buzz",
+      "Oyuncak",
+      "Andy",
+      "Sonsuzluk"
+    ]
+  },
+  {
+    "word": "Finding Nemo",
+    "forbidden": [
+      "Balık",
+      "Nemo",
+      "Dory",
+      "Okyanus",
+      "Kayıp"
+    ]
+  },
+  {
+    "word": "The Lion King",
+    "forbidden": [
+      "Simba",
+      "Mufasa",
+      "Hakuna Matata",
+      "Aslan",
+      "Scar"
+    ]
+  },
+  {
+    "word": "Frozen",
+    "forbidden": [
+      "Elsa",
+      "Anna",
+      "Kar",
+      "Let it go",
+      "Olaf"
+    ]
+  },
+  {
+    "word": "Coco",
+    "forbidden": [
+      "Müzik",
+      "Ölüler günü",
+      "Miguel",
+      "Aile",
+      "Gitar"
+    ]
+  },
+  {
+    "word": "Up",
+    "forbidden": [
+      "Balon",
+      "Ev",
+      "Yaşlı adam",
+      "Russell",
+      "Dug"
+    ]
+  },
+  {
+    "word": "Wall-E",
+    "forbidden": [
+      "Robot",
+      "Çöp",
+      "Eve",
+      "Uzay",
+      "Dünya"
+    ]
+  },
+  {
+    "word": "Inside Out",
+    "forbidden": [
+      "Duygular",
+      "Neşe",
+      "Üzüntü",
+      "Beyin",
+      "Riley"
+    ]
+  },
+  {
+    "word": "Friends",
+    "forbidden": [
+      "Rachel",
+      "Ross",
+      "Monica",
+      "Central Perk",
+      "How you doin"
+    ]
+  },
+  {
+    "word": "Breaking Bad",
+    "forbidden": [
+      "Walter White",
+      "Meth",
+      "Heisenberg",
+      "Jesse",
+      "Mavi"
+    ]
+  },
+  {
+    "word": "Better Call Saul",
+    "forbidden": [
+      "Saul Goodman",
+      "Avukat",
+      "Jimmy",
+      "Kim",
+      "Breaking Bad"
+    ]
+  },
+  {
+    "word": "Game of Thrones",
+    "forbidden": [
+      "Taht",
+      "Ejderha",
+      "Stark",
+      "Lannister",
+      "Winter is coming"
+    ]
+  },
+  {
+    "word": "House of the Dragon",
+    "forbidden": [
+      "Targaryen",
+      "Ejderha",
+      "Westeros",
+      "Taht",
+      "Aile savaşı"
+    ]
+  },
+  {
+    "word": "The Walking Dead",
+    "forbidden": [
+      "Zombi",
+      "Rick",
+      "Negan",
+      "Lucille",
+      "Hayatta kalmak"
+    ]
+  },
+  {
+    "word": "Stranger Things",
+    "forbidden": [
+      "Eleven",
+      "Upside Down",
+      "Hawkins",
+      "Demogorgon",
+      "80'ler"
+    ]
+  },
+  {
+    "word": "Sherlock",
+    "forbidden": [
+      "Dedektif",
+      "Baker Street",
+      "Watson",
+      "Benedict",
+      "Moriarty"
+    ]
+  },
+  {
+    "word": "Doctor Who",
+    "forbidden": [
+      "TARDIS",
+      "Doktor",
+      "Zaman",
+      "Dalek",
+      "Mavi kulübe"
+    ]
+  },
+  {
+    "word": "The Office",
+    "forbidden": [
+      "Michael Scott",
+      "Dunder Mifflin",
+      "Jim",
+      "Dwight",
+      "Kağıt"
+    ]
+  },
+  {
+    "word": "How I Met Your Mother",
+    "forbidden": [
+      "Ted",
+      "Barney",
+      "Robin",
+      "Anne",
+      "Legendary"
+    ]
+  },
+  {
+    "word": "The Big Bang Theory",
+    "forbidden": [
+      "Sheldon",
+      "Penny",
+      "Leonard",
+      "Bazinga",
+      "Fizik"
+    ]
+  },
+  {
+    "word": "Lost",
+    "forbidden": [
+      "Ada",
+      "Uçak",
+      "Dharma",
+      "Jack",
+      "Kutup ayısı"
+    ]
+  },
+  {
+    "word": "Prison Break",
+    "forbidden": [
+      "Michael Scofield",
+      "Dövme",
+      "Hapishane",
+      "Lincoln",
+      "Kaçış"
+    ]
+  },
+  {
+    "word": "Dexter",
+    "forbidden": [
+      "Seri katil",
+      "Kan",
+      "Miami",
+      "Laboratuvar",
+      "Karanlık yolcu"
+    ]
+  },
+  {
+    "word": "House M.D.",
+    "forbidden": [
+      "Doktor",
+      "Baston",
+      "Lupus",
+      "Vicodin",
+      "Gregory House"
+    ]
+  },
+  {
+    "word": "Suits",
+    "forbidden": [
+      "Harvey",
+      "Mike",
+      "Avukat",
+      "Takım elbise",
+      "Pearson"
+    ]
+  },
+  {
+    "word": "Peaky Blinders",
+    "forbidden": [
+      "Shelby",
+      "Birmingham",
+      "Şapka",
+      "By order",
+      "Tommy"
+    ]
+  },
+  {
+    "word": "The Sopranos",
+    "forbidden": [
+      "Mafya",
+      "Tony",
+      "Psikolog",
+      "New Jersey",
+      "Aile"
+    ]
+  },
+  {
+    "word": "Narcos",
+    "forbidden": [
+      "Pablo Escobar",
+      "Kolombiya",
+      "Kartel",
+      "DEA",
+      "Kokain"
+    ]
+  },
+  {
+    "word": "La Casa de Papel",
+    "forbidden": [
+      "Profesör",
+      "Soygun",
+      "Maske",
+      "Bella Ciao",
+      "Tokyo"
+    ]
+  },
+  {
+    "word": "Dark",
+    "forbidden": [
+      "Zaman",
+      "Almanya",
+      "Mağara",
+      "Jonas",
+      "Döngü"
+    ]
+  },
+  {
+    "word": "Black Mirror",
+    "forbidden": [
+      "Teknoloji",
+      "Distopya",
+      "Bölüm",
+      "Ekran",
+      "Gelecek"
+    ]
+  },
+  {
+    "word": "The Boys",
+    "forbidden": [
+      "Süper kahraman",
+      "Homelander",
+      "Kan",
+      "Vought",
+      "Butcher"
+    ]
+  },
+  {
+    "word": "Squid Game",
+    "forbidden": [
+      "Kırmızı ışık",
+      "Yeşil ışık",
+      "Kore",
+      "Oyun",
+      "Maske"
+    ]
+  },
+  {
+    "word": "Wednesday",
+    "forbidden": [
+      "Addams",
+      "El",
+      "Dans",
+      "Okul",
+      "Gotik"
+    ]
+  },
+  {
+    "word": "The Witcher",
+    "forbidden": [
+      "Geralt",
+      "Yennefer",
+      "Ciri",
+      "Canavar",
+      "Kılıç"
+    ]
+  },
+  {
+    "word": "Vikings",
+    "forbidden": [
+      "Ragnar",
+      "Lagertha",
+      "Viking",
+      "Baltalar",
+      "Valhalla"
+    ]
+  },
+  {
+    "word": "True Detective",
+    "forbidden": [
+      "Dedektif",
+      "Rust Cohle",
+      "Cinayet",
+      "Louisiana",
+      "Sorgu"
+    ]
+  },
+  {
+    "word": "Westworld",
+    "forbidden": [
+      "Robot",
+      "Park",
+      "Bilinç",
+      "Host",
+      "Kovboy"
+    ]
+  },
+  {
+    "word": "Mr. Robot",
+    "forbidden": [
+      "Hacker",
+      "Elliot",
+      "Fsociety",
+      "Maske",
+      "Siber"
+    ]
+  },
+  {
+    "word": "The Mandalorian",
+    "forbidden": [
+      "Baby Yoda",
+      "Mando",
+      "Star Wars",
+      "Beskar",
+      "This is the way"
+    ]
+  },
+  {
+    "word": "Loki",
+    "forbidden": [
+      "Marvel",
+      "Zaman",
+      "Variant",
+      "TVA",
+      "Yaramazlık"
+    ]
+  },
+  {
+    "word": "WandaVision",
+    "forbidden": [
+      "Wanda",
+      "Vision",
+      "Sitcom",
+      "Hex",
+      "Marvel"
+    ]
+  },
+  {
+    "word": "The Last of Us",
+    "forbidden": [
+      "Joel",
+      "Ellie",
+      "Mantar",
+      "Kıyamet",
+      "Clicker"
+    ]
+  },
+  {
+    "word": "House of Cards",
+    "forbidden": [
+      "Frank Underwood",
+      "Siyaset",
+      "Beyaz Saray",
+      "Kamera",
+      "Güç"
+    ]
+  },
+  {
+    "word": "The Crown",
+    "forbidden": [
+      "Kraliçe",
+      "İngiltere",
+      "Saray",
+      "Elizabeth",
+      "Netflix"
+    ]
+  },
+  {
+    "word": "Chernobyl",
+    "forbidden": [
+      "Nükleer",
+      "Reaktör",
+      "Pripyat",
+      "Radyasyon",
+      "Sovyet"
+    ]
+  },
+  {
+    "word": "Ezel",
+    "forbidden": [
+      "Ömer",
+      "Ramiz Dayı",
+      "Eyşan",
+      "İntikam",
+      "Kenan İmirzalıoğlu"
+    ]
+  },
+  {
+    "word": "Kurtlar Vadisi",
+    "forbidden": [
+      "Polat Alemdar",
+      "Mafya",
+      "Konsey",
+      "Aslan Akbey",
+      "Pusu"
+    ]
+  },
+  {
+    "word": "Leyla ile Mecnun",
+    "forbidden": [
+      "İsmail Abi",
+      "Erdal Bakkal",
+      "Leyla",
+      "Mecnun",
+      "Absürt"
+    ]
+  },
+  {
+    "word": "Behzat Ç.",
+    "forbidden": [
+      "Ankara",
+      "Cinayet",
+      "Amirim",
+      "Harun",
+      "Polis"
+    ]
+  },
+  {
+    "word": "Avrupa Yakası",
+    "forbidden": [
+      "Gaffur",
+      "Aslı",
+      "Volkan",
+      "Sütçüoğlu",
+      "Komedi"
+    ]
+  },
+  {
+    "word": "Aşk-ı Memnu",
+    "forbidden": [
+      "Bihter",
+      "Behlül",
+      "Firdevs",
+      "Adnan",
+      "Yasak aşk"
+    ]
+  },
+  {
+    "word": "Yaprak Dökümü",
+    "forbidden": [
+      "Ali Rıza",
+      "Ferhunde",
+      "Necla",
+      "Aile",
+      "Dram"
+    ]
+  },
+  {
+    "word": "Kardeş Payı",
+    "forbidden": [
+      "Metin",
+      "Ali",
+      "Feyyza",
+      "Tesisatçı",
+      "Komedi"
+    ]
+  },
+  {
+    "word": "İşler Güçler",
+    "forbidden": [
+      "Ahmet",
+      "Murat",
+      "Sadi",
+      "Oyunculuk",
+      "Komedi"
+    ]
+  },
+  {
+    "word": "Muhteşem Yüzyıl",
+    "forbidden": [
+      "Hürrem",
+      "Süleyman",
+      "Saray",
+      "Osmanlı",
+      "Pargalı"
+    ]
+  },
+  {
+    "word": "Diriliş Ertuğrul",
+    "forbidden": [
+      "Ertuğrul",
+      "Kayı",
+      "Oba",
+      "Alp",
+      "Moğol"
+    ]
+  },
+  {
+    "word": "Kuzey Güney",
+    "forbidden": [
+      "Kıvanç",
+      "Buğra",
+      "Kardeş",
+      "Cemre",
+      "Dram"
+    ]
+  },
+  {
+    "word": "Çukur",
+    "forbidden": [
+      "Yamaç",
+      "Koçovalı",
+      "Mahalle",
+      "Vartolu",
+      "Çukur"
+    ]
+  },
+  {
+    "word": "Medcezir",
+    "forbidden": [
+      "Yaman",
+      "Mira",
+      "Serenay",
+      "Çağatay",
+      "Aşk"
+    ]
+  },
+  {
+    "word": "Fatmagül'ün Suçu Ne?",
+    "forbidden": [
+      "Fatmagül",
+      "Kerim",
+      "Dram",
+      "Beren Saat",
+      "Suç"
+    ]
+  },
+  {
+    "word": "İçerde",
+    "forbidden": [
+      "Sarp",
+      "Mert",
+      "Polis",
+      "Mafya",
+      "Kardeş"
+    ]
+  },
+  {
+    "word": "Suskunlar",
+    "forbidden": [
+      "Ecevit",
+      "Hapishane",
+      "Çocukluk",
+      "İntikam",
+      "Dram"
+    ]
+  },
+  {
+    "word": "Masumlar Apartmanı",
+    "forbidden": [
+      "Han",
+      "İnci",
+      "Safiye",
+      "Apartman",
+      "Psikoloji"
+    ]
+  },
+  {
+    "word": "Bir Başkadır",
+    "forbidden": [
+      "Meryem",
+      "Psikolog",
+      "İstanbul",
+      "Netflix",
+      "Toplum"
+    ]
+  },
+  {
+    "word": "Şahsiyet",
+    "forbidden": [
+      "Agah",
+      "Alzheimer",
+      "Cinayet",
+      "Haluk Bilginer",
+      "Seri"
+    ]
+  },
+  {
+    "word": "Poyraz Karayel",
+    "forbidden": [
+      "Poyraz",
+      "Ayşegül",
+      "Mafya",
+      "Polis",
+      "Aşk"
+    ]
+  },
+  {
+    "word": "Yargı",
+    "forbidden": [
+      "Ilgaz",
+      "Ceylin",
+      "Savcı",
+      "Avukat",
+      "Cinayet"
+    ]
+  },
+  {
+    "word": "Arka Sokaklar",
+    "forbidden": [
+      "Rıza Baba",
+      "Polis",
+      "Mesut",
+      "İstanbul",
+      "Uzun dizi"
+    ]
+  },
+  {
+    "word": "Kavak Yelleri",
+    "forbidden": [
+      "Aslı",
+      "Deniz",
+      "Efe",
+      "Gençlik",
+      "İzmir"
+    ]
+  },
+  {
+    "word": "Sihirli Annem",
+    "forbidden": [
+      "Betüş",
+      "Dudu",
+      "Perihan",
+      "Sihir",
+      "Çocuk"
+    ]
+  },
+  {
+    "word": "Çocuklar Duymasın",
+    "forbidden": [
+      "Haluk",
+      "Meltem",
+      "Taş fırın",
+      "Havuç",
+      "Aile"
+    ]
+  },
+  {
+    "word": "Bir Demet Tiyatro",
+    "forbidden": [
+      "Mükremin",
+      "Feriştah",
+      "Lütfiye",
+      "Tiyatro",
+      "Komedi"
+    ]
+  },
+  {
+    "word": "Hababam Sınıfı",
+    "forbidden": [
+      "Mahmut Hoca",
+      "İnek Şaban",
+      "Okul",
+      "Güdük Necmi",
+      "Sınıf"
+    ]
+  },
+  {
+    "word": "Tosun Paşa",
+    "forbidden": [
+      "Şaban",
+      "Tellioğulları",
+      "Seferoğulları",
+      "Yeşil Vadi",
+      "Paşa"
+    ]
+  },
+  {
+    "word": "Süt Kardeşler",
+    "forbidden": [
+      "Şaban",
+      "Ramazan",
+      "Gulyabani",
+      "Konak",
+      "Kemal Sunal"
+    ]
+  },
+  {
+    "word": "Kibar Feyzo",
+    "forbidden": [
+      "Feyzo",
+      "Maho Ağa",
+      "Başlık parası",
+      "Köy",
+      "Kemal Sunal"
+    ]
+  },
+  {
+    "word": "Çöpçüler Kralı",
+    "forbidden": [
+      "Apti",
+      "Hacer",
+      "Zabıta",
+      "Mahalle",
+      "Kemal Sunal"
+    ]
+  },
+  {
+    "word": "Davaro",
+    "forbidden": [
+      "Memo",
+      "Sülo",
+      "Kan davası",
+      "Köy",
+      "Komedi"
+    ]
+  },
+  {
+    "word": "Züğürt Ağa",
+    "forbidden": [
+      "Ağa",
+      "Köy",
+      "İstanbul",
+      "Şener Şen",
+      "Satış"
+    ]
+  },
+  {
+    "word": "Eşkıya",
+    "forbidden": [
+      "Baran",
+      "Cumali",
+      "İstanbul",
+      "Şener Şen",
+      "Yavuz Turgul"
+    ]
+  },
+  {
+    "word": "G.O.R.A.",
+    "forbidden": [
+      "Arif",
+      "Robot 216",
+      "Uzay",
+      "Cem Yılmaz",
+      "Komutan Logar"
+    ]
+  },
+  {
+    "word": "A.R.O.G.",
+    "forbidden": [
+      "Arif",
+      "Taş devri",
+      "Cem Yılmaz",
+      "Dinozor",
+      "GORA"
+    ]
+  },
+  {
+    "word": "Yahşi Batı",
+    "forbidden": [
+      "Aziz",
+      "Lemi",
+      "Kovboy",
+      "Cem Yılmaz",
+      "Amerika"
+    ]
+  },
+  {
+    "word": "Hokkabaz",
+    "forbidden": [
+      "İskender",
+      "Sihirbaz",
+      "Cem Yılmaz",
+      "Mazhar",
+      "Turne"
+    ]
+  },
+  {
+    "word": "Vizontele",
+    "forbidden": [
+      "Televizyon",
+      "Köy",
+      "Deli Emin",
+      "Yılmaz Erdoğan",
+      "Hakkari"
+    ]
+  },
+  {
+    "word": "Organize İşler",
+    "forbidden": [
+      "Asım Noyan",
+      "Dolandırıcı",
+      "İstanbul",
+      "Yılmaz Erdoğan",
+      "Para"
+    ]
+  },
+  {
+    "word": "Recep İvedik",
+    "forbidden": [
+      "Şahan",
+      "Komedi",
+      "Kaba",
+      "Antalya",
+      "Recep"
+    ]
+  },
+  {
+    "word": "Düğün Dernek",
+    "forbidden": [
+      "Sivas",
+      "Düğün",
+      "İsmail",
+      "Komedi",
+      "Dernek"
+    ]
+  },
+  {
+    "word": "Ayla",
+    "forbidden": [
+      "Kore",
+      "Küçük kız",
+      "Savaş",
+      "Süleyman",
+      "Dram"
+    ]
+  },
+  {
+    "word": "Babam ve Oğlum",
+    "forbidden": [
+      "Baba",
+      "Oğul",
+      "Çağan Irmak",
+      "Aile",
+      "Dram"
+    ]
+  },
+  {
+    "word": "Issız Adam",
+    "forbidden": [
+      "Alper",
+      "Ada",
+      "Aşk",
+      "Mutfak",
+      "Yalnızlık"
+    ]
+  },
+  {
+    "word": "Kelebeğin Rüyası",
+    "forbidden": [
+      "Şair",
+      "Zonguldak",
+      "Kıvanç",
+      "Mert Fırat",
+      "Verem"
+    ]
+  },
+  {
+    "word": "Bir Zamanlar Anadolu'da",
+    "forbidden": [
+      "Nuri Bilge",
+      "Anadolu",
+      "Cinayet",
+      "Gece",
+      "Doktor"
+    ]
+  },
+  {
+    "word": "Kış Uykusu",
+    "forbidden": [
+      "Nuri Bilge",
+      "Otel",
+      "Kapadokya",
+      "Palme d'Or",
+      "Diyalog"
+    ]
+  },
+  {
+    "word": "Bihter",
+    "forbidden": [
+      "Aşk-ı Memnu",
+      "Behlül",
+      "Adnan",
+      "Yasak aşk",
+      "Beren Saat"
+    ]
+  },
+  {
+    "word": "Ramiz Dayı",
+    "forbidden": [
+      "Ezel",
+      "Tuncel Kurtiz",
+      "Söz",
+      "Dayı",
+      "İntikam"
+    ]
+  },
+  {
+    "word": "Polat Alemdar",
+    "forbidden": [
+      "Kurtlar Vadisi",
+      "Mafya",
+      "Devlet",
+      "Pusu",
+      "Siyah takım"
+    ]
+  },
+  {
+    "word": "Memati",
+    "forbidden": [
+      "Kurtlar Vadisi",
+      "Polat",
+      "Mafya",
+      "Sadık",
+      "Abdülhey"
+    ]
+  },
+  {
+    "word": "Eyşan",
+    "forbidden": [
+      "Ezel",
+      "İhanet",
+      "Ömer",
+      "Cansu Dere",
+      "Aşk"
+    ]
+  },
+  {
+    "word": "Erdal Bakkal",
+    "forbidden": [
+      "Leyla ile Mecnun",
+      "Bakkal",
+      "Komedi",
+      "Mahalle",
+      "Absürt"
+    ]
+  },
+  {
+    "word": "İsmail Abi",
+    "forbidden": [
+      "Leyla ile Mecnun",
+      "Gemi",
+      "Ceket",
+      "Beklemek",
+      "Absürt"
+    ]
+  },
+  {
+    "word": "Behzat",
+    "forbidden": [
+      "Amirim",
+      "Ankara",
+      "Cinayet",
+      "Polis",
+      "Erdal Beşikçioğlu"
+    ]
+  },
+  {
+    "word": "İnek Şaban",
+    "forbidden": [
+      "Hababam",
+      "Kemal Sunal",
+      "Okul",
+      "Sınıf",
+      "Saf"
+    ]
+  },
+  {
+    "word": "Mahmut Hoca",
+    "forbidden": [
+      "Hababam",
+      "Münir Özkul",
+      "Disiplin",
+      "Okul",
+      "Sınıf"
+    ]
+  },
+  {
+    "word": "Gaffur",
+    "forbidden": [
+      "Avrupa Yakası",
+      "Pijama",
+      "Komedi",
+      "Volkan",
+      "Ofis"
+    ]
+  },
+  {
+    "word": "Bihter Ziyagil",
+    "forbidden": [
+      "Aşk-ı Memnu",
+      "Behlül",
+      "Final",
+      "Yasak aşk",
+      "Beren"
+    ]
+  },
+  {
+    "word": "Behlül",
+    "forbidden": [
+      "Aşk-ı Memnu",
+      "Bihter",
+      "Adnan",
+      "Kıvanç",
+      "Yasak aşk"
+    ]
+  },
+  {
+    "word": "Hürrem Sultan",
+    "forbidden": [
+      "Muhteşem Yüzyıl",
+      "Saray",
+      "Süleyman",
+      "Osmanlı",
+      "Meryem"
+    ]
+  },
+  {
+    "word": "Yamaç Koçovalı",
+    "forbidden": [
+      "Çukur",
+      "Mahalle",
+      "Aile",
+      "Aras Bulut",
+      "Vartolu"
+    ]
+  },
+  {
+    "word": "Walter White",
+    "forbidden": [
+      "Breaking Bad",
+      "Heisenberg",
+      "Kimya",
+      "Meth",
+      "Şapka"
+    ]
+  },
+  {
+    "word": "Jesse Pinkman",
+    "forbidden": [
+      "Breaking Bad",
+      "Yo",
+      "Walter",
+      "Meth",
+      "Aaron Paul"
+    ]
+  },
+  {
+    "word": "Saul Goodman",
+    "forbidden": [
+      "Avukat",
+      "Better Call Saul",
+      "Jimmy",
+      "Reklam",
+      "Breaking Bad"
+    ]
+  },
+  {
+    "word": "Michael Scott",
+    "forbidden": [
+      "The Office",
+      "Patron",
+      "Dunder Mifflin",
+      "Komik",
+      "That's what she said"
+    ]
+  },
+  {
+    "word": "Sheldon Cooper",
+    "forbidden": [
+      "Bazinga",
+      "Fizik",
+      "Koltuk",
+      "The Big Bang",
+      "Tuhaf"
+    ]
+  },
+  {
+    "word": "Barney Stinson",
+    "forbidden": [
+      "Legendary",
+      "Takım elbise",
+      "HIMYM",
+      "Bro Code",
+      "Çapkın"
+    ]
+  },
+  {
+    "word": "Tyrion Lannister",
+    "forbidden": [
+      "Game of Thrones",
+      "Cüce",
+      "Şarap",
+      "Lannister",
+      "Zeka"
+    ]
+  },
+  {
+    "word": "Jon Snow",
+    "forbidden": [
+      "Game of Thrones",
+      "Stark",
+      "Kuzey",
+      "You know nothing",
+      "Gece Nöbeti"
+    ]
+  },
+  {
+    "word": "Daenerys Targaryen",
+    "forbidden": [
+      "Ejderha",
+      "Khaleesi",
+      "Targaryen",
+      "Taht",
+      "Ateş"
+    ]
+  },
+  {
+    "word": "Arya Stark",
+    "forbidden": [
+      "Stark",
+      "Kılıç",
+      "Liste",
+      "No one",
+      "Winterfell"
+    ]
+  },
+  {
+    "word": "Sherlock Holmes",
+    "forbidden": [
+      "Dedektif",
+      "Watson",
+      "Baker Street",
+      "Pipo",
+      "Zeka"
+    ]
+  },
+  {
+    "word": "Hannibal Lecter",
+    "forbidden": [
+      "Yamyam",
+      "Maske",
+      "Clarice",
+      "Kuzu",
+      "Psikiyatrist"
+    ]
+  },
+  {
+    "word": "Darth Vader",
+    "forbidden": [
+      "Star Wars",
+      "Baba",
+      "Sith",
+      "Maske",
+      "Luke"
+    ]
+  },
+  {
+    "word": "Yoda",
+    "forbidden": [
+      "Jedi",
+      "Yeşil",
+      "Güç",
+      "Ters konuşma",
+      "Star Wars"
+    ]
+  },
+  {
+    "word": "Luke Skywalker",
+    "forbidden": [
+      "Jedi",
+      "Işın kılıcı",
+      "Vader",
+      "Star Wars",
+      "Çiftlik"
+    ]
+  },
+  {
+    "word": "Princess Leia",
+    "forbidden": [
+      "Star Wars",
+      "Prenses",
+      "Saç",
+      "Han Solo",
+      "İsyan"
+    ]
+  },
+  {
+    "word": "Han Solo",
+    "forbidden": [
+      "Millennium Falcon",
+      "Kaçakçı",
+      "Chewbacca",
+      "Leia",
+      "Star Wars"
+    ]
+  },
+  {
+    "word": "Chewbacca",
+    "forbidden": [
+      "Wookiee",
+      "Han Solo",
+      "Tüy",
+      "Star Wars",
+      "Kükreme"
+    ]
+  },
+  {
+    "word": "Frodo",
+    "forbidden": [
+      "Yüzük",
+      "Shire",
+      "Sam",
+      "Hobbit",
+      "Mordor"
+    ]
+  },
+  {
+    "word": "Gandalf",
+    "forbidden": [
+      "Büyücü",
+      "Asa",
+      "You shall not pass",
+      "Gri",
+      "Yüzük"
+    ]
+  },
+  {
+    "word": "Gollum",
+    "forbidden": [
+      "Yüzük",
+      "Kıymetlimiss",
+      "Mağara",
+      "Smeagol",
+      "Hobbit"
+    ]
+  },
+  {
+    "word": "Hermione Granger",
+    "forbidden": [
+      "Zeki",
+      "Hogwarts",
+      "Ron",
+      "Harry",
+      "Kitap"
+    ]
+  },
+  {
+    "word": "Ron Weasley",
+    "forbidden": [
+      "Kızıl saç",
+      "Hermione",
+      "Harry",
+      "Satranç",
+      "Weasley"
+    ]
+  },
+  {
+    "word": "Voldemort",
+    "forbidden": [
+      "Karanlık Lord",
+      "Burun",
+      "Harry",
+      "Hortkuluk",
+      "Avada Kedavra"
+    ]
+  },
+  {
+    "word": "Jack Sparrow",
+    "forbidden": [
+      "Korsan",
+      "Pusula",
+      "Siyah İnci",
+      "Rum",
+      "Karayip"
+    ]
+  },
+  {
+    "word": "Harley Quinn",
+    "forbidden": [
+      "Joker",
+      "Çekiç",
+      "DC",
+      "Puddin",
+      "Renkli saç"
+    ]
+  },
+  {
+    "word": "Thanos",
+    "forbidden": [
+      "Sonsuzluk taşı",
+      "Eldiven",
+      "Marvel",
+      "Snap",
+      "Mor"
+    ]
+  },
+  {
+    "word": "Iron Man Zırhı",
+    "forbidden": [
+      "Tony Stark",
+      "Marvel",
+      "Reaktör",
+      "Uçmak",
+      "Kırmızı"
+    ]
+  },
+  {
+    "word": "Kaptan Amerika Kalkanı",
+    "forbidden": [
+      "Vibranyum",
+      "Marvel",
+      "Steve Rogers",
+      "Yuvarlak",
+      "Yıldız"
+    ]
+  },
+  {
+    "word": "Mjolnir",
+    "forbidden": [
+      "Thor",
+      "Çekiç",
+      "Marvel",
+      "Layık olmak",
+      "Yıldırım"
+    ]
+  },
+  {
+    "word": "Sonsuzluk Eldiveni",
+    "forbidden": [
+      "Thanos",
+      "Taş",
+      "Snap",
+      "Marvel",
+      "Parmak"
+    ]
+  },
+  {
+    "word": "Işın Kılıcı",
+    "forbidden": [
+      "Star Wars",
+      "Jedi",
+      "Sith",
+      "Kırmızı",
+      "Mavi"
+    ]
+  },
+  {
+    "word": "Tek Yüzük",
+    "forbidden": [
+      "Yüzüklerin Efendisi",
+      "Frodo",
+      "Sauron",
+      "Kıymetlimiss",
+      "Mordor"
+    ]
+  },
+  {
+    "word": "Hogwarts Asası",
+    "forbidden": [
+      "Harry Potter",
+      "Büyü",
+      "Voldemort",
+      "Ollivander",
+      "Expelliarmus"
+    ]
+  },
+  {
+    "word": "Uçan Süpürge",
+    "forbidden": [
+      "Harry Potter",
+      "Quidditch",
+      "Nimbus",
+      "Hogwarts",
+      "Büyü"
+    ]
+  },
+  {
+    "word": "DeLorean",
+    "forbidden": [
+      "Back to the Future",
+      "Zaman makinesi",
+      "Marty",
+      "Doc",
+      "Araba"
+    ]
+  },
+  {
+    "word": "Wilson Topu",
+    "forbidden": [
+      "Cast Away",
+      "Ada",
+      "Tom Hanks",
+      "Voleybol",
+      "Yalnızlık"
+    ]
+  },
+  {
+    "word": "Kırmızı Hap",
+    "forbidden": [
+      "Matrix",
+      "Neo",
+      "Morpheus",
+      "Gerçek",
+      "Mavi hap"
+    ]
+  },
+  {
+    "word": "Mavi Hap",
+    "forbidden": [
+      "Matrix",
+      "Neo",
+      "Morpheus",
+      "Rüya",
+      "Kırmızı hap"
+    ]
+  },
+  {
+    "word": "Topaç",
+    "forbidden": [
+      "Inception",
+      "Rüya",
+      "Totem",
+      "Nolan",
+      "Dönmek"
+    ]
+  },
+  {
+    "word": "Siyah İnci",
+    "forbidden": [
+      "Jack Sparrow",
+      "Korsan",
+      "Gemi",
+      "Karayip",
+      "Barbossa"
+    ]
+  },
+  {
+    "word": "Batmobile",
+    "forbidden": [
+      "Batman",
+      "Gotham",
+      "Araba",
+      "Bruce Wayne",
+      "Siyah"
+    ]
+  },
+  {
+    "word": "Annabelle Bebek",
+    "forbidden": [
+      "Korku",
+      "The Conjuring",
+      "Bebek",
+      "Warren",
+      "Lanet"
+    ]
+  },
+  {
+    "word": "Lucille",
+    "forbidden": [
+      "Negan",
+      "The Walking Dead",
+      "Beyzbol sopası",
+      "Dikenli tel",
+      "Zombi"
+    ]
+  },
+  {
+    "word": "Dali Maskesi",
+    "forbidden": [
+      "La Casa de Papel",
+      "Soygun",
+      "Profesör",
+      "Bella Ciao",
+      "Kırmızı tulum"
+    ]
+  },
+  {
+    "word": "Demir Taht",
+    "forbidden": [
+      "Game of Thrones",
+      "Westeros",
+      "Kral",
+      "Kılıç",
+      "Taht"
+    ]
+  },
+  {
+    "word": "I'll be back",
+    "forbidden": [
+      "Terminator",
+      "Arnold",
+      "Robot",
+      "Geri döneceğim",
+      "Skynet"
+    ]
+  },
+  {
+    "word": "May the Force be with you",
+    "forbidden": [
+      "Star Wars",
+      "Güç",
+      "Jedi",
+      "Replik",
+      "Uzay"
+    ]
+  },
+  {
+    "word": "You shall not pass",
+    "forbidden": [
+      "Gandalf",
+      "Yüzüklerin Efendisi",
+      "Köprü",
+      "Balrog",
+      "Asa"
+    ]
+  }
+]

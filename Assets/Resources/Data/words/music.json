@@ -1,0 +1,3002 @@
+[
+  {
+    "word": "Gitar",
+    "forbidden": [
+      "Pena",
+      "Altı tel",
+      "Akor",
+      "Solo",
+      "Amfi"
+    ]
+  },
+  {
+    "word": "Bas Gitar",
+    "forbidden": [
+      "Kalın tel",
+      "Ritim bölümü",
+      "Funk",
+      "Amfi",
+      "Groove"
+    ]
+  },
+  {
+    "word": "Elektro Gitar",
+    "forbidden": [
+      "Distortion",
+      "Amfi",
+      "Solo",
+      "Rock",
+      "Pena"
+    ]
+  },
+  {
+    "word": "Akustik Gitar",
+    "forbidden": [
+      "Tahta gövde",
+      "Kamp ateşi",
+      "Pena",
+      "Akor",
+      "Unplugged"
+    ]
+  },
+  {
+    "word": "Klasik Gitar",
+    "forbidden": [
+      "Naylon tel",
+      "Parmak",
+      "Flamenko",
+      "Akor",
+      "Konservatuvar"
+    ]
+  },
+  {
+    "word": "Bağlama",
+    "forbidden": [
+      "Tezene",
+      "Türkü",
+      "Anadolu",
+      "Uzun sap",
+      "Aşık"
+    ]
+  },
+  {
+    "word": "Saz",
+    "forbidden": [
+      "Tezene",
+      "Türkü",
+      "Aşık",
+      "Anadolu",
+      "Bozkır"
+    ]
+  },
+  {
+    "word": "Cura",
+    "forbidden": [
+      "Küçük sap",
+      "Türkü",
+      "Tezene",
+      "Anadolu",
+      "Halk"
+    ]
+  },
+  {
+    "word": "Ud",
+    "forbidden": [
+      "Mızrap",
+      "Klasik Türk",
+      "Perdesiz",
+      "Fasıl",
+      "Tekne"
+    ]
+  },
+  {
+    "word": "Kanun",
+    "forbidden": [
+      "Mandal",
+      "Fasıl",
+      "Teller",
+      "Diz üstü",
+      "Klasik Türk"
+    ]
+  },
+  {
+    "word": "Keman",
+    "forbidden": [
+      "Yay",
+      "Tel",
+      "Klasik",
+      "Virtüöz",
+      "Omuz"
+    ]
+  },
+  {
+    "word": "Viyola",
+    "forbidden": [
+      "Yay",
+      "Orkestra",
+      "Kalın ses",
+      "Klasik",
+      "Tel"
+    ]
+  },
+  {
+    "word": "Çello",
+    "forbidden": [
+      "Yay",
+      "Oturarak",
+      "Kalın ton",
+      "Orkestra",
+      "Tel"
+    ]
+  },
+  {
+    "word": "Kontrbas",
+    "forbidden": [
+      "En kalın",
+      "Caz",
+      "Orkestra",
+      "Ayakta",
+      "Tel"
+    ]
+  },
+  {
+    "word": "Piyano",
+    "forbidden": [
+      "Tuş",
+      "Klavye",
+      "Pedal",
+      "Klasik",
+      "Siyah beyaz"
+    ]
+  },
+  {
+    "word": "Klavye",
+    "forbidden": [
+      "Tuş",
+      "Elektronik",
+      "Sahne",
+      "Synth",
+      "Akort"
+    ]
+  },
+  {
+    "word": "Org",
+    "forbidden": [
+      "Tuş",
+      "Düğün",
+      "Elektronik",
+      "Salon",
+      "Ritim"
+    ]
+  },
+  {
+    "word": "Synthesizer",
+    "forbidden": [
+      "Elektronik",
+      "Ses tasarımı",
+      "Dalga",
+      "Klavye",
+      "Seksenler"
+    ]
+  },
+  {
+    "word": "Davul",
+    "forbidden": [
+      "Baget",
+      "Ritim",
+      "Kick",
+      "Trampet",
+      "Zil"
+    ]
+  },
+  {
+    "word": "Bateri",
+    "forbidden": [
+      "Baget",
+      "Kick",
+      "Trampet",
+      "Zil",
+      "Ritim"
+    ]
+  },
+  {
+    "word": "Darbuka",
+    "forbidden": [
+      "Ritim",
+      "Düm tek",
+      "Göbek",
+      "Seramik",
+      "Perküsyon"
+    ]
+  },
+  {
+    "word": "Tef",
+    "forbidden": [
+      "Zilli",
+      "Ritim",
+      "El",
+      "Halk",
+      "Perküsyon"
+    ]
+  },
+  {
+    "word": "Bendir",
+    "forbidden": [
+      "Daire",
+      "Ritim",
+      "Tasavvuf",
+      "Deri",
+      "Perküsyon"
+    ]
+  },
+  {
+    "word": "Zurna",
+    "forbidden": [
+      "Düğün",
+      "Davul",
+      "Nefes",
+      "Yüksek ses",
+      "Anadolu"
+    ]
+  },
+  {
+    "word": "Ney",
+    "forbidden": [
+      "Tasavvuf",
+      "Nefes",
+      "Kamış",
+      "Mevlana",
+      "Hüzün"
+    ]
+  },
+  {
+    "word": "Flüt",
+    "forbidden": [
+      "Nefes",
+      "İnce ses",
+      "Okul",
+      "Üflemek",
+      "Melodi"
+    ]
+  },
+  {
+    "word": "Klarnet",
+    "forbidden": [
+      "Nefes",
+      "Roman havası",
+      "Gırnata",
+      "Caz",
+      "Bekçi"
+    ]
+  },
+  {
+    "word": "Saksafon",
+    "forbidden": [
+      "Caz",
+      "Nefes",
+      "Altın renk",
+      "Solo",
+      "Gece"
+    ]
+  },
+  {
+    "word": "Trompet",
+    "forbidden": [
+      "Nefes",
+      "Caz",
+      "Bakır",
+      "Fanfar",
+      "Üflemek"
+    ]
+  },
+  {
+    "word": "Trombon",
+    "forbidden": [
+      "Sürgü",
+      "Bakır",
+      "Nefes",
+      "Caz",
+      "Orkestra"
+    ]
+  },
+  {
+    "word": "Akordeon",
+    "forbidden": [
+      "Körük",
+      "Fransız",
+      "Roman",
+      "Tuş",
+      "Sokak"
+    ]
+  },
+  {
+    "word": "Arp",
+    "forbidden": [
+      "Teller",
+      "Melek",
+      "Klasik",
+      "Büyük",
+      "Parmak"
+    ]
+  },
+  {
+    "word": "Mandolin",
+    "forbidden": [
+      "Küçük tel",
+      "Mızrap",
+      "Akdeniz",
+      "Hızlı",
+      "Tahta"
+    ]
+  },
+  {
+    "word": "Mızıka",
+    "forbidden": [
+      "Ağız",
+      "Blues",
+      "Cep",
+      "Nefes",
+      "Küçük"
+    ]
+  },
+  {
+    "word": "Marakas",
+    "forbidden": [
+      "Sallamak",
+      "Latin",
+      "Ritim",
+      "Çift",
+      "Perküsyon"
+    ]
+  },
+  {
+    "word": "Cajon",
+    "forbidden": [
+      "Kutu",
+      "Oturmak",
+      "Ritim",
+      "Perküsyon",
+      "Akustik"
+    ]
+  },
+  {
+    "word": "Konga",
+    "forbidden": [
+      "Latin",
+      "El",
+      "Ritim",
+      "Uzun gövde",
+      "Perküsyon"
+    ]
+  },
+  {
+    "word": "Bongo",
+    "forbidden": [
+      "Küçük davul",
+      "Latin",
+      "El",
+      "İkili",
+      "Ritim"
+    ]
+  },
+  {
+    "word": "Tulum",
+    "forbidden": [
+      "Karadeniz",
+      "Nefes",
+      "Horon",
+      "Deri",
+      "Yayla"
+    ]
+  },
+  {
+    "word": "Kemençe",
+    "forbidden": [
+      "Karadeniz",
+      "Yay",
+      "Horon",
+      "İnce ses",
+      "Yayla"
+    ]
+  },
+  {
+    "word": "Santur",
+    "forbidden": [
+      "Tokmak",
+      "Teller",
+      "Doğu",
+      "Ahşap",
+      "Fasıl"
+    ]
+  },
+  {
+    "word": "Tambur",
+    "forbidden": [
+      "Uzun sap",
+      "Klasik Türk",
+      "Mızrap",
+      "Perde",
+      "Fasıl"
+    ]
+  },
+  {
+    "word": "Kabak Kemane",
+    "forbidden": [
+      "Yay",
+      "Halk",
+      "Anadolu",
+      "Tel",
+      "Sahne ışığı"
+    ]
+  },
+  {
+    "word": "Djembe",
+    "forbidden": [
+      "Afrika",
+      "El",
+      "Perküsyon",
+      "Ritim",
+      "Deri"
+    ]
+  },
+  {
+    "word": "Gong",
+    "forbidden": [
+      "Büyük metal",
+      "Vuruş",
+      "Tören",
+      "Uzak Doğu",
+      "Titreşim"
+    ]
+  },
+  {
+    "word": "Çan",
+    "forbidden": [
+      "Metal",
+      "Tören",
+      "Vuruş",
+      "Ses",
+      "Okul"
+    ]
+  },
+  {
+    "word": "Zil",
+    "forbidden": [
+      "Metal",
+      "Çarpışma",
+      "Baget",
+      "Ritim",
+      "Parlak ses"
+    ]
+  },
+  {
+    "word": "Pikap",
+    "forbidden": [
+      "Plak",
+      "İğne",
+      "Retro",
+      "Dönmek",
+      "Analog"
+    ]
+  },
+  {
+    "word": "Gramofon",
+    "forbidden": [
+      "Eski cihaz",
+      "Huni",
+      "Taş plak",
+      "Retro",
+      "Analog"
+    ]
+  },
+  {
+    "word": "Metronom",
+    "forbidden": [
+      "Tempo",
+      "Tık tık",
+      "Prova",
+      "BPM",
+      "Zaman"
+    ]
+  },
+  {
+    "word": "Mikrofon",
+    "forbidden": [
+      "Ses",
+      "Sahne",
+      "Vokal",
+      "Kablo",
+      "Kayıt"
+    ]
+  },
+  {
+    "word": "Nota",
+    "forbidden": [
+      "Dizek",
+      "Do re mi",
+      "Kağıt",
+      "Sol anahtarı",
+      "Okumak"
+    ]
+  },
+  {
+    "word": "Ritim",
+    "forbidden": [
+      "Vuruş",
+      "Tempo",
+      "Davul",
+      "Dans",
+      "Kalp"
+    ]
+  },
+  {
+    "word": "Melodi",
+    "forbidden": [
+      "Ezgi",
+      "Akılda kalmak",
+      "Nakarat",
+      "Islık",
+      "Tema"
+    ]
+  },
+  {
+    "word": "Armoni",
+    "forbidden": [
+      "Uyum",
+      "Akor",
+      "Sesler",
+      "Teori",
+      "Çok ses"
+    ]
+  },
+  {
+    "word": "Akor",
+    "forbidden": [
+      "Üç ses",
+      "Pena",
+      "Tuş",
+      "Eşlik",
+      "Basmak"
+    ]
+  },
+  {
+    "word": "Beste",
+    "forbidden": [
+      "Yaratmak",
+      "Ezgi",
+      "Sözsüz",
+      "Kompozisyon",
+      "Sanatçı"
+    ]
+  },
+  {
+    "word": "Güfte",
+    "forbidden": [
+      "Söz",
+      "Şair",
+      "Şarkı yazarı",
+      "Dize",
+      "Anlam"
+    ]
+  },
+  {
+    "word": "Nakarat",
+    "forbidden": [
+      "Tekrar",
+      "En bilinen kısım",
+      "Eşlik etmek",
+      "Bağıra bağıra",
+      "Akılda kalmak"
+    ]
+  },
+  {
+    "word": "Kıta",
+    "forbidden": [
+      "Bölüm",
+      "Söz",
+      "Başlangıç",
+      "Hikaye",
+      "Şarkı yapısı"
+    ]
+  },
+  {
+    "word": "Solo",
+    "forbidden": [
+      "Tek kişi",
+      "Sahne ışığı",
+      "Virtüöz",
+      "Doğaçlama",
+      "Alkış"
+    ]
+  },
+  {
+    "word": "Düet",
+    "forbidden": [
+      "İki kişi",
+      "Karşılıklı",
+      "Vokal",
+      "Uyum",
+      "Sahne"
+    ]
+  },
+  {
+    "word": "Koro",
+    "forbidden": [
+      "Kalabalık",
+      "Çok ses",
+      "Topluluk",
+      "Eşlik",
+      "Şef"
+    ]
+  },
+  {
+    "word": "Vokal",
+    "forbidden": [
+      "Ses",
+      "Solist",
+      "Mikrofon",
+      "Söylemek",
+      "Nefes"
+    ]
+  },
+  {
+    "word": "Back Vokal",
+    "forbidden": [
+      "Arka ses",
+      "Eşlik",
+      "Sahne",
+      "Uyum",
+      "Solist arkası"
+    ]
+  },
+  {
+    "word": "Aranje",
+    "forbidden": [
+      "Düzenleme",
+      "Enstrüman",
+      "Stüdyo",
+      "Prodüktör",
+      "Yeni yorum"
+    ]
+  },
+  {
+    "word": "Mix",
+    "forbidden": [
+      "Kanal",
+      "Ses dengesi",
+      "Stüdyo",
+      "Prodüksiyon",
+      "Kulaklık"
+    ]
+  },
+  {
+    "word": "Mastering",
+    "forbidden": [
+      "Son dokunuş",
+      "Yükseklik",
+      "Stüdyo",
+      "Yayın",
+      "Parlatmak"
+    ]
+  },
+  {
+    "word": "Remix",
+    "forbidden": [
+      "Yeni versiyon",
+      "DJ",
+      "Dans",
+      "Elektronik",
+      "Kulüp"
+    ]
+  },
+  {
+    "word": "Cover",
+    "forbidden": [
+      "Yeniden yorum",
+      "Başka sanatçı",
+      "Sahne",
+      "YouTube",
+      "Akustik"
+    ]
+  },
+  {
+    "word": "Demo",
+    "forbidden": [
+      "Taslak",
+      "İlk kayıt",
+      "Stüdyo",
+      "Ham ses",
+      "Göndermek"
+    ]
+  },
+  {
+    "word": "Albüm",
+    "forbidden": [
+      "Kapak",
+      "Şarkılar",
+      "Liste",
+      "Yayın",
+      "Disk"
+    ]
+  },
+  {
+    "word": "Single",
+    "forbidden": [
+      "Tek parça",
+      "Yayın",
+      "Klip",
+      "Liste",
+      "Hit"
+    ]
+  },
+  {
+    "word": "EP",
+    "forbidden": [
+      "Kısa yayın",
+      "Birkaç parça",
+      "Dijital",
+      "Kapak",
+      "Ara format"
+    ]
+  },
+  {
+    "word": "Plak",
+    "forbidden": [
+      "Vinil",
+      "Pikap",
+      "İğne",
+      "Retro",
+      "Koleksiyon"
+    ]
+  },
+  {
+    "word": "Kaset",
+    "forbidden": [
+      "Teyp",
+      "Manyetik",
+      "Seksenler",
+      "Kalemle sarmak",
+      "Nostalji"
+    ]
+  },
+  {
+    "word": "CD",
+    "forbidden": [
+      "Disk",
+      "Kapak",
+      "Doksanlar",
+      "Çalar",
+      "Koleksiyon"
+    ]
+  },
+  {
+    "word": "Playlist",
+    "forbidden": [
+      "Liste",
+      "Spotify",
+      "Sıralama",
+      "Mod",
+      "Kulaklık"
+    ]
+  },
+  {
+    "word": "Hit",
+    "forbidden": [
+      "Patlamak",
+      "Liste başı",
+      "Herkes söyler",
+      "Klip",
+      "Radyo"
+    ]
+  },
+  {
+    "word": "Liste Başı",
+    "forbidden": [
+      "Zirve",
+      "Radyo",
+      "Popüler",
+      "Yayın",
+      "Rekor"
+    ]
+  },
+  {
+    "word": "Turne",
+    "forbidden": [
+      "Şehir şehir",
+      "Otobüs",
+      "Sahne",
+      "Bilet",
+      "Yol"
+    ]
+  },
+  {
+    "word": "Konser",
+    "forbidden": [
+      "Bilet",
+      "Sahne",
+      "Kalabalık",
+      "Alkış",
+      "Canlı"
+    ]
+  },
+  {
+    "word": "Festival",
+    "forbidden": [
+      "Açık hava",
+      "Kalabalık",
+      "Bileklik",
+      "Sahne",
+      "Çadır"
+    ]
+  },
+  {
+    "word": "Sahne",
+    "forbidden": [
+      "Işık",
+      "Perde",
+      "Mikrofon",
+      "Alkış",
+      "Performans"
+    ]
+  },
+  {
+    "word": "Prova",
+    "forbidden": [
+      "Hazırlık",
+      "Tekrar",
+      "Hata düzeltmek",
+      "Stüdyo",
+      "Grup"
+    ]
+  },
+  {
+    "word": "Stüdyo",
+    "forbidden": [
+      "Kayıt",
+      "Kulaklık",
+      "Cam oda",
+      "Prodüktör",
+      "Mikser"
+    ]
+  },
+  {
+    "word": "Kayıt",
+    "forbidden": [
+      "Stüdyo",
+      "Mikrofon",
+      "Dosya",
+      "Tekrar almak",
+      "Ses"
+    ]
+  },
+  {
+    "word": "Playback",
+    "forbidden": [
+      "Dudak oynatmak",
+      "Hazır ses",
+      "Televizyon",
+      "Sahte canlı",
+      "Eleştiri"
+    ]
+  },
+  {
+    "word": "Akustik",
+    "forbidden": [
+      "Doğal ses",
+      "Unplugged",
+      "Tahta",
+      "Sakin",
+      "Canlı"
+    ]
+  },
+  {
+    "word": "Canlı Performans",
+    "forbidden": [
+      "Sahne",
+      "Anlık",
+      "Alkış",
+      "Hata riski",
+      "Enerji"
+    ]
+  },
+  {
+    "word": "Jam Session",
+    "forbidden": [
+      "Doğaçlama",
+      "Caz",
+      "Arkadaş",
+      "Sahne",
+      "Uzun solo"
+    ]
+  },
+  {
+    "word": "Doğaçlama",
+    "forbidden": [
+      "Anlık",
+      "Plansız",
+      "Caz",
+      "Solo",
+      "Yaratıcılık"
+    ]
+  },
+  {
+    "word": "Tiz",
+    "forbidden": [
+      "İnce ses",
+      "Yukarı",
+      "Çığlık",
+      "Frekans",
+      "Kadın vokal"
+    ]
+  },
+  {
+    "word": "Pes",
+    "forbidden": [
+      "Kalın ses",
+      "Aşağı",
+      "Bas",
+      "Derin",
+      "Frekans"
+    ]
+  },
+  {
+    "word": "Tempo",
+    "forbidden": [
+      "Hız",
+      "BPM",
+      "Metronom",
+      "Yavaş",
+      "Hızlı"
+    ]
+  },
+  {
+    "word": "BPM",
+    "forbidden": [
+      "Dakika",
+      "Vuruş",
+      "DJ",
+      "Tempo",
+      "Sayı"
+    ]
+  },
+  {
+    "word": "Ton",
+    "forbidden": [
+      "Anahtar",
+      "Ses aralığı",
+      "Transpoze",
+      "Majör",
+      "Minör"
+    ]
+  },
+  {
+    "word": "Makam",
+    "forbidden": [
+      "Türk sanat",
+      "Rast",
+      "Hicaz",
+      "Usul",
+      "Gelenek"
+    ]
+  },
+  {
+    "word": "Usul",
+    "forbidden": [
+      "Ölçü",
+      "Vuruş",
+      "Türk müziği",
+      "Ritim kalıbı",
+      "Döngü"
+    ]
+  },
+  {
+    "word": "Gam",
+    "forbidden": [
+      "Dizi",
+      "Ses sırası",
+      "Majör",
+      "Minör",
+      "Teori"
+    ]
+  },
+  {
+    "word": "Oktav",
+    "forbidden": [
+      "Sekiz ses",
+      "İnce kalın",
+      "Piyano",
+      "Aralık",
+      "Frekans"
+    ]
+  },
+  {
+    "word": "Crescendo",
+    "forbidden": [
+      "Yükselmek",
+      "Giderek artmak",
+      "Klasik",
+      "Dinamik",
+      "Şef"
+    ]
+  },
+  {
+    "word": "Decrescendo",
+    "forbidden": [
+      "Azalmak",
+      "Sessizleşmek",
+      "Klasik",
+      "Dinamik",
+      "Şef"
+    ]
+  },
+  {
+    "word": "Vibrato",
+    "forbidden": [
+      "Titreşim",
+      "Uzun ses",
+      "Duygu",
+      "Keman",
+      "Vokal"
+    ]
+  },
+  {
+    "word": "Tremolo",
+    "forbidden": [
+      "Hızlı tekrar",
+      "Titreşim",
+      "Klasik",
+      "Pena",
+      "Efekt"
+    ]
+  },
+  {
+    "word": "Glissando",
+    "forbidden": [
+      "Kaydırmak",
+      "Piyano",
+      "Tuşlar",
+      "Efekt",
+      "Geçiş"
+    ]
+  },
+  {
+    "word": "Legato",
+    "forbidden": [
+      "Bağlı çalmak",
+      "Yumuşak",
+      "Klasik",
+      "Pürüzsüz",
+      "İfade"
+    ]
+  },
+  {
+    "word": "Staccato",
+    "forbidden": [
+      "Kesik kesik",
+      "Kısa",
+      "Zıplayan",
+      "Klasik",
+      "Vuruş"
+    ]
+  },
+  {
+    "word": "Arpej",
+    "forbidden": [
+      "Akoru bölmek",
+      "Parmak",
+      "Piyano",
+      "Gitar",
+      "Tek tek"
+    ]
+  },
+  {
+    "word": "Solfej",
+    "forbidden": [
+      "Do re mi",
+      "Kulak",
+      "Okuma",
+      "Eğitim",
+      "Nota"
+    ]
+  },
+  {
+    "word": "Sezen Aksu",
+    "forbidden": [
+      "Minik serçe",
+      "Gülümse",
+      "Unutulmaz sözler",
+      "Pop kraliçesi",
+      "Şarkı yazarı"
+    ]
+  },
+  {
+    "word": "Barış Manço",
+    "forbidden": [
+      "Adam olacak çocuk",
+      "Gülpembe",
+      "Uzun saç",
+      "7'den 77'ye",
+      "Anadolu rock"
+    ]
+  },
+  {
+    "word": "Cem Karaca",
+    "forbidden": [
+      "Tamirci çırağı",
+      "Resimdeki gözyaşları",
+      "Gür ses",
+      "Anadolu rock",
+      "Sahne tavrı"
+    ]
+  },
+  {
+    "word": "Ajda Pekkan",
+    "forbidden": [
+      "Süperstar",
+      "Hoşgör sen",
+      "Pop diva",
+      "Sahne kostümü",
+      "Yıllara meydan"
+    ]
+  },
+  {
+    "word": "Tarkan",
+    "forbidden": [
+      "Megastar",
+      "Kuzu kuzu",
+      "Şımarık",
+      "Dudu",
+      "Öpücük"
+    ]
+  },
+  {
+    "word": "Mustafa Sandal",
+    "forbidden": [
+      "Araba",
+      "Aya benzer",
+      "Pop",
+      "Doksanlar",
+      "Dans"
+    ]
+  },
+  {
+    "word": "Kenan Doğulu",
+    "forbidden": [
+      "Yaparım bilirsin",
+      "Festival",
+      "Pop",
+      "Eurovision",
+      "Enerji"
+    ]
+  },
+  {
+    "word": "Serdar Ortaç",
+    "forbidden": [
+      "Karabiberim",
+      "Dansöz",
+      "Yaz hiti",
+      "Pop",
+      "Kafiye"
+    ]
+  },
+  {
+    "word": "Gülşen",
+    "forbidden": [
+      "Bangır bangır",
+      "Pop",
+      "Sahne kostümü",
+      "Cesur",
+      "Yaz şarkısı"
+    ]
+  },
+  {
+    "word": "Sertab Erener",
+    "forbidden": [
+      "Eurovision",
+      "Everyway That I Can",
+      "Soprano",
+      "Pop",
+      "Birinci"
+    ]
+  },
+  {
+    "word": "Athena",
+    "forbidden": [
+      "Holigan",
+      "For Real",
+      "Ska",
+      "İkiz kardeşler",
+      "Enerji"
+    ]
+  },
+  {
+    "word": "Duman",
+    "forbidden": [
+      "Senden daha güzel",
+      "Kaan Tangöze",
+      "Rock",
+      "Sahne",
+      "Sahne ışığı"
+    ]
+  },
+  {
+    "word": "Mor ve Ötesi",
+    "forbidden": [
+      "Bir derdim var",
+      "Cambaz",
+      "Harun Tekin",
+      "Rock",
+      "Eurovision"
+    ]
+  },
+  {
+    "word": "maNga",
+    "forbidden": [
+      "Bir kadın çizeceksin",
+      "We Could Be The Same",
+      "Rap rock",
+      "Eurovision",
+      "Anime logo"
+    ]
+  },
+  {
+    "word": "MFÖ",
+    "forbidden": [
+      "Ele güne karşı",
+      "Ali Desidero",
+      "Üçlü",
+      "Mazhar Fuat Özkan",
+      "Eski dostlar"
+    ]
+  },
+  {
+    "word": "Teoman",
+    "forbidden": [
+      "Paramparça",
+      "Renkli rüyalar oteli",
+      "Rock",
+      "Melankoli",
+      "Gece"
+    ]
+  },
+  {
+    "word": "Şebnem Ferah",
+    "forbidden": [
+      "Sil baştan",
+      "Kadın vokal",
+      "Rock",
+      "Güçlü ses",
+      "Gitar"
+    ]
+  },
+  {
+    "word": "Hayko Cepkin",
+    "forbidden": [
+      "Fırtınam",
+      "Sert sahne",
+      "Metal",
+      "Makyaj",
+      "Çığlık"
+    ]
+  },
+  {
+    "word": "Nilüfer",
+    "forbidden": [
+      "Dünya dönüyor",
+      "Pop",
+      "Yetmişler",
+      "Duygusal",
+      "Zarif"
+    ]
+  },
+  {
+    "word": "Müslüm Gürses",
+    "forbidden": [
+      "Arabesk",
+      "İtirazım var",
+      "Baba",
+      "Damar",
+      "Sahne ışığı"
+    ]
+  },
+  {
+    "word": "Bergen",
+    "forbidden": [
+      "Acıların kadını",
+      "Arabesk",
+      "Film",
+      "Kader",
+      "Dram"
+    ]
+  },
+  {
+    "word": "İbrahim Tatlıses",
+    "forbidden": [
+      "İmparator",
+      "Urfa",
+      "Arabesk",
+      "Uzun hava",
+      "Sahne"
+    ]
+  },
+  {
+    "word": "Orhan Gencebay",
+    "forbidden": [
+      "Batsın bu dünya",
+      "Arabesk",
+      "Bağlama",
+      "Besteci",
+      "Usta"
+    ]
+  },
+  {
+    "word": "Ferdi Tayfur",
+    "forbidden": [
+      "Huzurum kalmadı",
+      "Arabesk",
+      "Damar",
+      "Film",
+      "Baba"
+    ]
+  },
+  {
+    "word": "Zeki Müren",
+    "forbidden": [
+      "Sanat güneşi",
+      "Klasik Türk",
+      "Pelerin",
+      "Sahne zarafeti",
+      "Paşa"
+    ]
+  },
+  {
+    "word": "Müzeyyen Senar",
+    "forbidden": [
+      "Cumhuriyet divası",
+      "Fasıl",
+      "Klasik Türk",
+      "Rakı sofrası",
+      "Usta"
+    ]
+  },
+  {
+    "word": "Neşet Ertaş",
+    "forbidden": [
+      "Bozkırın tezenesi",
+      "Türkü",
+      "Gönül dağı",
+      "Bağlama",
+      "Abdal"
+    ]
+  },
+  {
+    "word": "Erkin Koray",
+    "forbidden": [
+      "Elektro bağlama",
+      "Anadolu rock",
+      "Fesuphanallah",
+      "Psychedelic",
+      "Sahne ışığı"
+    ]
+  },
+  {
+    "word": "Fikret Kızılok",
+    "forbidden": [
+      "Bu kalp seni unutur mu",
+      "Akustik",
+      "Anadolu rock",
+      "Şairane",
+      "Duygu"
+    ]
+  },
+  {
+    "word": "Kayahan",
+    "forbidden": [
+      "Gönül sayfam",
+      "Yemin ettim",
+      "Pop",
+      "Besteci",
+      "Duygusal"
+    ]
+  },
+  {
+    "word": "Levent Yüksel",
+    "forbidden": [
+      "Med cezir",
+      "Zalim",
+      "Güçlü vokal",
+      "Pop",
+      "Doksanlar"
+    ]
+  },
+  {
+    "word": "Yıldız Tilbe",
+    "forbidden": [
+      "Delikanlım",
+      "Duygusal",
+      "Tuhaf dans",
+      "Söz yazarı",
+      "Sahne doğallığı"
+    ]
+  },
+  {
+    "word": "Candan Erçetin",
+    "forbidden": [
+      "Elbette",
+      "Fransızca",
+      "Öğretmen",
+      "Pop",
+      "Net vokal"
+    ]
+  },
+  {
+    "word": "Özdemir Erdoğan",
+    "forbidden": [
+      "Bana ellerini ver",
+      "Caz dokusu",
+      "Yetmişler",
+      "Klasik",
+      "Zarif"
+    ]
+  },
+  {
+    "word": "Mazhar Alanson",
+    "forbidden": [
+      "MFÖ üyesi",
+      "Sarı laleler",
+      "Film müziği",
+      "Gözlük",
+      "Esprili"
+    ]
+  },
+  {
+    "word": "Edis",
+    "forbidden": [
+      "Martılar",
+      "Pop",
+      "Dans",
+      "Genç kitle",
+      "Klip"
+    ]
+  },
+  {
+    "word": "Aleyna Tilki",
+    "forbidden": [
+      "Cevapsız çınlama",
+      "Genç pop",
+      "Enerjik",
+      "YouTube",
+      "Renkli"
+    ]
+  },
+  {
+    "word": "Hadise",
+    "forbidden": [
+      "Düm tek tek",
+      "Eurovision",
+      "Dans",
+      "Pop",
+      "Jüri"
+    ]
+  },
+  {
+    "word": "Hande Yener",
+    "forbidden": [
+      "Romeo",
+      "Elektronik pop",
+      "Kraliçe",
+      "Kulüp",
+      "Değişim"
+    ]
+  },
+  {
+    "word": "Demet Akalın",
+    "forbidden": [
+      "Kulüp hiti",
+      "Pop",
+      "Yazlık",
+      "Giderli",
+      "Liste"
+    ]
+  },
+  {
+    "word": "Murat Boz",
+    "forbidden": [
+      "Janti",
+      "Pop",
+      "O Ses",
+      "Dans",
+      "Klip"
+    ]
+  },
+  {
+    "word": "Mabel Matiz",
+    "forbidden": [
+      "Antidepresan",
+      "Etnik pop",
+      "Renkli klip",
+      "Şairane",
+      "Kendine özgü"
+    ]
+  },
+  {
+    "word": "Zeynep Bastık",
+    "forbidden": [
+      "Cover",
+      "YouTube",
+      "Ara",
+      "Pop",
+      "Akustik"
+    ]
+  },
+  {
+    "word": "Emir Can İğrek",
+    "forbidden": [
+      "Nalan",
+      "Ali cabbar",
+      "Hikaye",
+      "Akustik pop",
+      "Genç kitle"
+    ]
+  },
+  {
+    "word": "Kalben",
+    "forbidden": [
+      "Sadece",
+      "Akustik",
+      "Samimi",
+      "Gitar",
+      "Alternatif"
+    ]
+  },
+  {
+    "word": "Melike Şahin",
+    "forbidden": [
+      "Tutuşmuş beraber",
+      "Divane",
+      "Güçlü yorum",
+      "Alternatif",
+      "Sahne"
+    ]
+  },
+  {
+    "word": "Gaye Su Akyol",
+    "forbidden": [
+      "İstikrarlı hayal hakikattir",
+      "Retro",
+      "Anadolu pop",
+      "Psikedelik",
+      "Kostüm"
+    ]
+  },
+  {
+    "word": "Melek Mosso",
+    "forbidden": [
+      "Yorumcu",
+      "Güçlü ses",
+      "Alternatif",
+      "Sahne",
+      "Duygu"
+    ]
+  },
+  {
+    "word": "Simge",
+    "forbidden": [
+      "Miş miş",
+      "Aşkın olayım",
+      "Pop",
+      "Yaz hiti",
+      "Dans"
+    ]
+  },
+  {
+    "word": "Sıla",
+    "forbidden": [
+      "Kafa",
+      "Pop",
+      "Söz yazarı",
+      "Güçlü vokal",
+      "Duygusal"
+    ]
+  },
+  {
+    "word": "Mert Demir",
+    "forbidden": [
+      "Ateşe düştüm",
+      "Pop",
+      "Düetler",
+      "Yeni nesil",
+      "Duygusal"
+    ]
+  },
+  {
+    "word": "Semicenk",
+    "forbidden": [
+      "Düşer aklıma",
+      "Yeni pop",
+      "Melankoli",
+      "Dijital liste",
+      "Genç"
+    ]
+  },
+  {
+    "word": "Ezhel",
+    "forbidden": [
+      "Aya",
+      "Rap",
+      "Ankara",
+      "Trap",
+      "Flow"
+    ]
+  },
+  {
+    "word": "Ceza",
+    "forbidden": [
+      "Holocaust",
+      "Rap",
+      "Hızlı söyleyiş",
+      "Microphone show",
+      "Usta"
+    ]
+  },
+  {
+    "word": "Sagopa Kajmer",
+    "forbidden": [
+      "Pesimist",
+      "Rap",
+      "Melankoli",
+      "Kolera",
+      "Beat"
+    ]
+  },
+  {
+    "word": "Norm Ender",
+    "forbidden": [
+      "Mekanın sahibi",
+      "Rap",
+      "Diss",
+      "İzmir",
+      "Gündem"
+    ]
+  },
+  {
+    "word": "Ben Fero",
+    "forbidden": [
+      "Demet Akalın",
+      "Trap",
+      "Orman kanunları",
+      "Güneş gözlüğü",
+      "Eğlenceli"
+    ]
+  },
+  {
+    "word": "Gazapizm",
+    "forbidden": [
+      "Heyecanı yok",
+      "İzmir",
+      "Rap",
+      "Duygulu",
+      "Sokak"
+    ]
+  },
+  {
+    "word": "Pinhani",
+    "forbidden": [
+      "Dünyadan uzak",
+      "Kavak yelleri",
+      "Alternatif",
+      "Sakin",
+      "Dizi müziği"
+    ]
+  },
+  {
+    "word": "Yüzyüzeyken Konuşuruz",
+    "forbidden": [
+      "Ne fark eder",
+      "Alternatif",
+      "Uzun grup adı",
+      "Sahne",
+      "Genç kitle"
+    ]
+  },
+  {
+    "word": "Adamlar",
+    "forbidden": [
+      "Koca yaşlı şişko dünya",
+      "Alternatif rock",
+      "İroni",
+      "Sahne",
+      "Sözler"
+    ]
+  },
+  {
+    "word": "Büyük Ev Ablukada",
+    "forbidden": [
+      "Fırtınayt",
+      "Garip isim",
+      "Alternatif",
+      "Sahne",
+      "Mizah"
+    ]
+  },
+  {
+    "word": "Madrigal",
+    "forbidden": [
+      "Seni dert etmeler",
+      "Alternatif pop",
+      "Romantik",
+      "Grup",
+      "Yeni nesil"
+    ]
+  },
+  {
+    "word": "Seksendört",
+    "forbidden": [
+      "Ölürüm hasretinle",
+      "Ankara",
+      "Rock",
+      "Duygusal",
+      "Grup"
+    ]
+  },
+  {
+    "word": "Gripin",
+    "forbidden": [
+      "Sensiz İstanbul'a düşmanım",
+      "Rock",
+      "Birol Namoğlu",
+      "Duygusal",
+      "Grup"
+    ]
+  },
+  {
+    "word": "Yeni Türkü",
+    "forbidden": [
+      "Telli telli",
+      "Akdeniz",
+      "Eski grup",
+      "Şiirsel",
+      "Bağlama"
+    ]
+  },
+  {
+    "word": "Moğollar",
+    "forbidden": [
+      "Anadolu rock",
+      "Selvi boylum",
+      "Efsane grup",
+      "Cahit Berkay",
+      "Köklü"
+    ]
+  },
+  {
+    "word": "Bulutsuzluk Özlemi",
+    "forbidden": [
+      "Sözlerimi geri alamam",
+      "Rock",
+      "Nejat Yavaşoğulları",
+      "Eski grup",
+      "Protest"
+    ]
+  },
+  {
+    "word": "Pentagram",
+    "forbidden": [
+      "Metal",
+      "Mezarkabul",
+      "Bir",
+      "Sert gitar",
+      "Efsane"
+    ]
+  },
+  {
+    "word": "Hepsi",
+    "forbidden": [
+      "Kız grubu",
+      "Dört kişi",
+      "Yalan",
+      "Dans",
+      "Gençlik"
+    ]
+  },
+  {
+    "word": "Kargo",
+    "forbidden": [
+      "Yıldızların altında",
+      "Rock",
+      "Doksanlar",
+      "Grup",
+      "Melankoli"
+    ]
+  },
+  {
+    "word": "Vega",
+    "forbidden": [
+      "Bu sabahların bir anlamı olmalı",
+      "Deniz Özbey",
+      "Alternatif",
+      "Doksanlar",
+      "Hüzün"
+    ]
+  },
+  {
+    "word": "Redd",
+    "forbidden": [
+      "Prensesin uykusu",
+      "Rock",
+      "Alternatif",
+      "Klavye",
+      "Sözler"
+    ]
+  },
+  {
+    "word": "Kolpa",
+    "forbidden": [
+      "Beni aşka inandır",
+      "Pop rock",
+      "Gençlik",
+      "Dizi",
+      "Grup"
+    ]
+  },
+  {
+    "word": "Model",
+    "forbidden": [
+      "Pembe mezarlık",
+      "Fatma Turgut",
+      "Pop rock",
+      "Dağılan grup",
+      "Vokal"
+    ]
+  },
+  {
+    "word": "Dedublüman",
+    "forbidden": [
+      "Belki",
+      "Karadeniz tınısı",
+      "Alternatif",
+      "Keman",
+      "Yeni nesil"
+    ]
+  },
+  {
+    "word": "Köfn",
+    "forbidden": [
+      "Bi tek ben anlarım",
+      "Elektronik pop",
+      "İkili",
+      "Dans",
+      "Yeni nesil"
+    ]
+  },
+  {
+    "word": "Dolu Kadehi Ters Tut",
+    "forbidden": [
+      "Hiç iyi değilim",
+      "Uzun isim",
+      "Alternatif",
+      "İronik",
+      "İkili"
+    ]
+  },
+  {
+    "word": "Evdeki Saat",
+    "forbidden": [
+      "Uzunlar",
+      "Alternatif pop",
+      "Genç",
+      "Dijital",
+      "Sakin"
+    ]
+  },
+  {
+    "word": "Michael Jackson",
+    "forbidden": [
+      "Popun kralı",
+      "Moonwalk",
+      "Thriller",
+      "Eldiven",
+      "Dans"
+    ]
+  },
+  {
+    "word": "Queen",
+    "forbidden": [
+      "Bohemian Rhapsody",
+      "Freddie Mercury",
+      "Rock",
+      "Stadyum",
+      "Efsane"
+    ]
+  },
+  {
+    "word": "The Beatles",
+    "forbidden": [
+      "Liverpool",
+      "Dörtlü",
+      "Hey Jude",
+      "Abbey Road",
+      "Efsane"
+    ]
+  },
+  {
+    "word": "Nirvana",
+    "forbidden": [
+      "Smells Like Teen Spirit",
+      "Grunge",
+      "Kurt Cobain",
+      "Seattle",
+      "Doksanlar"
+    ]
+  },
+  {
+    "word": "Metallica",
+    "forbidden": [
+      "Enter Sandman",
+      "Metal",
+      "James Hetfield",
+      "Siyah albüm",
+      "Gitar"
+    ]
+  },
+  {
+    "word": "Elvis Presley",
+    "forbidden": [
+      "Rock'n roll",
+      "Kral",
+      "Sallanan kalça",
+      "Memphis",
+      "Eski yıldız"
+    ]
+  },
+  {
+    "word": "Madonna",
+    "forbidden": [
+      "Pop kraliçesi",
+      "Like a Virgin",
+      "Dans",
+      "Sahne",
+      "İkon"
+    ]
+  },
+  {
+    "word": "Taylor Swift",
+    "forbidden": [
+      "Eras Tour",
+      "Pop",
+      "Kırık kalp",
+      "Rekor",
+      "Sahne ışığı"
+    ]
+  },
+  {
+    "word": "Billie Eilish",
+    "forbidden": [
+      "Bad Guy",
+      "Fısıltı vokal",
+      "Yeşil saç",
+      "Karanlık pop",
+      "Genç"
+    ]
+  },
+  {
+    "word": "Adele",
+    "forbidden": [
+      "Hello",
+      "Güçlü ses",
+      "Piyano baladı",
+      "Grammy",
+      "Duygusal"
+    ]
+  },
+  {
+    "word": "Şımarık",
+    "forbidden": [
+      "Tarkan",
+      "Öpücük efekti",
+      "Megastar",
+      "Doksanlar",
+      "Pop"
+    ]
+  },
+  {
+    "word": "Kuzu Kuzu",
+    "forbidden": [
+      "Tarkan",
+      "Geri dönüş",
+      "Megastar",
+      "Pop",
+      "Klip"
+    ]
+  },
+  {
+    "word": "Dudu",
+    "forbidden": [
+      "Tarkan",
+      "Albüm kapağı",
+      "Megastar",
+      "Yaz hiti",
+      "Pop"
+    ]
+  },
+  {
+    "word": "Araba",
+    "forbidden": [
+      "Mustafa Sandal",
+      "Klip",
+      "Doksanlar",
+      "Pop",
+      "Dans"
+    ]
+  },
+  {
+    "word": "Aya Benzer",
+    "forbidden": [
+      "Mustafa Sandal",
+      "Pop",
+      "Romantik",
+      "Doksanlar",
+      "Klip"
+    ]
+  },
+  {
+    "word": "Yaparım Bilirsin",
+    "forbidden": [
+      "Kenan Doğulu",
+      "Pop",
+      "Enerji",
+      "Dans",
+      "Doksanlar"
+    ]
+  },
+  {
+    "word": "Karabiberim",
+    "forbidden": [
+      "Serdar Ortaç",
+      "Yazlık",
+      "Pop",
+      "Dans",
+      "Nakarat"
+    ]
+  },
+  {
+    "word": "Bangır Bangır",
+    "forbidden": [
+      "Gülşen",
+      "Pop",
+      "Klip",
+      "Cesur",
+      "Yaz hiti"
+    ]
+  },
+  {
+    "word": "Düm Tek Tek",
+    "forbidden": [
+      "Hadise",
+      "Eurovision",
+      "Dans",
+      "Pop",
+      "Sahne"
+    ]
+  },
+  {
+    "word": "Everyway That I Can",
+    "forbidden": [
+      "Sertab Erener",
+      "Eurovision",
+      "Birincilik",
+      "İngilizce",
+      "Dans"
+    ]
+  },
+  {
+    "word": "Holigan",
+    "forbidden": [
+      "Athena",
+      "Tribün",
+      "Ska",
+      "Enerji",
+      "Futbol"
+    ]
+  },
+  {
+    "word": "Senden Daha Güzel",
+    "forbidden": [
+      "Duman",
+      "Rock",
+      "Kaan Tangöze",
+      "Gitar",
+      "Festival"
+    ]
+  },
+  {
+    "word": "Bir Derdim Var",
+    "forbidden": [
+      "Mor ve Ötesi",
+      "Rock",
+      "Dizi sahnesi",
+      "Melankoli",
+      "Harun Tekin"
+    ]
+  },
+  {
+    "word": "Cambaz",
+    "forbidden": [
+      "Mor ve Ötesi",
+      "Klip",
+      "Rock",
+      "Sirk",
+      "Eleştiri"
+    ]
+  },
+  {
+    "word": "Bir Kadın Çizeceksin",
+    "forbidden": [
+      "maNga",
+      "Rap rock",
+      "Klip",
+      "Çizim",
+      "Gençlik"
+    ]
+  },
+  {
+    "word": "Ele Güne Karşı",
+    "forbidden": [
+      "MFÖ",
+      "Üçlü",
+      "Doksanlar",
+      "Pop rock",
+      "Klasik"
+    ]
+  },
+  {
+    "word": "Paramparça",
+    "forbidden": [
+      "Teoman",
+      "Rock",
+      "Melankoli",
+      "Gece",
+      "Gitar"
+    ]
+  },
+  {
+    "word": "Sil Baştan",
+    "forbidden": [
+      "Şebnem Ferah",
+      "Rock",
+      "Güçlü vokal",
+      "Yeniden başlamak",
+      "Klasik"
+    ]
+  },
+  {
+    "word": "Fırtınam",
+    "forbidden": [
+      "Hayko Cepkin",
+      "Sert vokal",
+      "Metal",
+      "Klip",
+      "Sahne"
+    ]
+  },
+  {
+    "word": "İtirazım Var",
+    "forbidden": [
+      "Müslüm Gürses",
+      "Arabesk",
+      "Baba",
+      "Damar",
+      "Kader"
+    ]
+  },
+  {
+    "word": "Batsın Bu Dünya",
+    "forbidden": [
+      "Orhan Gencebay",
+      "Arabesk",
+      "İsyan",
+      "Bağlama",
+      "Damar"
+    ]
+  },
+  {
+    "word": "Huzurum Kalmadı",
+    "forbidden": [
+      "Ferdi Tayfur",
+      "Arabesk",
+      "Damar",
+      "Film",
+      "Acı"
+    ]
+  },
+  {
+    "word": "Gönül Dağı",
+    "forbidden": [
+      "Neşet Ertaş",
+      "Türkü",
+      "Bozkır",
+      "Bağlama",
+      "Duygu"
+    ]
+  },
+  {
+    "word": "Fesuphanallah",
+    "forbidden": [
+      "Erkin Koray",
+      "Anadolu rock",
+      "Elektro bağlama",
+      "Klasik",
+      "Eski"
+    ]
+  },
+  {
+    "word": "Gülpembe",
+    "forbidden": [
+      "Barış Manço",
+      "Duygusal",
+      "Anı",
+      "Uzun saç",
+      "Klasik"
+    ]
+  },
+  {
+    "word": "Dağlar Dağlar",
+    "forbidden": [
+      "Barış Manço",
+      "Anadolu rock",
+      "Yol",
+      "Klasik",
+      "Ağır duygu"
+    ]
+  },
+  {
+    "word": "Sarı Çizmeli Mehmet Ağa",
+    "forbidden": [
+      "Barış Manço",
+      "Masal gibi",
+      "Halk",
+      "Uzun başlık",
+      "Klasik"
+    ]
+  },
+  {
+    "word": "Resimdeki Gözyaşları",
+    "forbidden": [
+      "Cem Karaca",
+      "Anadolu rock",
+      "Dram",
+      "Gür ses",
+      "Klasik"
+    ]
+  },
+  {
+    "word": "Islak Islak",
+    "forbidden": [
+      "Cem Karaca",
+      "Yağmur",
+      "Rock",
+      "Duygusal",
+      "Klasik"
+    ]
+  },
+  {
+    "word": "Tamirci Çırağı",
+    "forbidden": [
+      "Cem Karaca",
+      "Hikaye",
+      "Sınıf farkı",
+      "Anadolu rock",
+      "Usta"
+    ]
+  },
+  {
+    "word": "Unutamadım",
+    "forbidden": [
+      "Müslüm Gürses",
+      "Damar",
+      "Arabesk",
+      "Baba",
+      "Hüzün"
+    ]
+  },
+  {
+    "word": "Hangimiz Sevmedik",
+    "forbidden": [
+      "Müslüm Gürses",
+      "Arabesk",
+      "Hep bir ağızdan",
+      "Düğün",
+      "Duygusal"
+    ]
+  },
+  {
+    "word": "Dil Yarası",
+    "forbidden": [
+      "Orhan Gencebay",
+      "Arabesk",
+      "Bağlama",
+      "Duygusal",
+      "Klasik"
+    ]
+  },
+  {
+    "word": "Ben Yoruldum Hayat",
+    "forbidden": [
+      "Mümin Sarıkaya",
+      "Damar",
+      "Sosyal medya",
+      "Hüzün",
+      "Bağlama"
+    ]
+  },
+  {
+    "word": "Mihriban",
+    "forbidden": [
+      "Musa Eroğlu",
+      "Türkü",
+      "Bağlama",
+      "Şiir",
+      "Anadolu"
+    ]
+  },
+  {
+    "word": "Zahidem",
+    "forbidden": [
+      "Türkü",
+      "Bağlama",
+      "Bozkır",
+      "Duygusal",
+      "Halk"
+    ]
+  },
+  {
+    "word": "Uzun İnce Bir Yoldayım",
+    "forbidden": [
+      "Aşık Veysel",
+      "Türkü",
+      "Bağlama",
+      "Yolculuk",
+      "Felsefe"
+    ]
+  },
+  {
+    "word": "Fikrimin İnce Gülü",
+    "forbidden": [
+      "Türk sanat",
+      "Klasik",
+      "Nostalji",
+      "Radyo",
+      "Zarafet"
+    ]
+  },
+  {
+    "word": "Ah Bu Şarkıların Gözü Kör Olsun",
+    "forbidden": [
+      "Türk sanat",
+      "Meyhane",
+      "Nostalji",
+      "Uzun başlık",
+      "Duygu"
+    ]
+  },
+  {
+    "word": "Yıldızların Altında",
+    "forbidden": [
+      "Kargo",
+      "Rock",
+      "Nostalji",
+      "Gece",
+      "Klasik"
+    ]
+  },
+  {
+    "word": "Bu Sabahların Bir Anlamı Olmalı",
+    "forbidden": [
+      "Vega",
+      "Alternatif",
+      "Hüzün",
+      "Doksanlar",
+      "Kadın vokal"
+    ]
+  },
+  {
+    "word": "Sensiz İstanbul'a Düşmanım",
+    "forbidden": [
+      "Gripin",
+      "Rock",
+      "Şehir",
+      "Duygusal",
+      "Düet"
+    ]
+  },
+  {
+    "word": "Ölürüm Hasretinle",
+    "forbidden": [
+      "Seksendört",
+      "Rock",
+      "Ankara",
+      "Hüzün",
+      "Gençlik"
+    ]
+  },
+  {
+    "word": "Pembe Mezarlık",
+    "forbidden": [
+      "Model",
+      "Fatma Turgut",
+      "Pop rock",
+      "Melankoli",
+      "Klip"
+    ]
+  },
+  {
+    "word": "Beni Aşka İnandır",
+    "forbidden": [
+      "Kolpa",
+      "Pop rock",
+      "Dizi",
+      "Romantik",
+      "Gençlik"
+    ]
+  },
+  {
+    "word": "Seni Dert Etmeler",
+    "forbidden": [
+      "Madrigal",
+      "Alternatif pop",
+      "Yeni nesil",
+      "Romantik",
+      "Liste"
+    ]
+  },
+  {
+    "word": "Belki",
+    "forbidden": [
+      "Dedublüman",
+      "Alternatif",
+      "Keman",
+      "Karadeniz tınısı",
+      "Melankoli"
+    ]
+  },
+  {
+    "word": "Bi Tek Ben Anlarım",
+    "forbidden": [
+      "Köfn",
+      "Elektronik pop",
+      "Dans",
+      "Yeni nesil",
+      "Hit"
+    ]
+  },
+  {
+    "word": "Antidepresan",
+    "forbidden": [
+      "Mabel Matiz",
+      "Mert Demir",
+      "Düet",
+      "Liste",
+      "Duygusal"
+    ]
+  },
+  {
+    "word": "Ateşe Düştüm",
+    "forbidden": [
+      "Mert Demir",
+      "Pop",
+      "Yeni nesil",
+      "Liste",
+      "Duygusal"
+    ]
+  },
+  {
+    "word": "Nalan",
+    "forbidden": [
+      "Emir Can İğrek",
+      "Hikaye",
+      "Akustik pop",
+      "Gençlik",
+      "Liste"
+    ]
+  },
+  {
+    "word": "Ali Cabbar",
+    "forbidden": [
+      "Emir Can İğrek",
+      "Hikaye",
+      "Dram",
+      "Köy düğünü",
+      "Liste"
+    ]
+  },
+  {
+    "word": "Düşer Aklıma",
+    "forbidden": [
+      "Semicenk",
+      "Yeni pop",
+      "Melankoli",
+      "Dijital",
+      "Genç"
+    ]
+  },
+  {
+    "word": "Martılar",
+    "forbidden": [
+      "Edis",
+      "Pop",
+      "Klip",
+      "Dans",
+      "Yaz"
+    ]
+  },
+  {
+    "word": "Miş Miş",
+    "forbidden": [
+      "Simge",
+      "Pop",
+      "Yaz hiti",
+      "Dans",
+      "Nakarat"
+    ]
+  },
+  {
+    "word": "Aşkın Olayım",
+    "forbidden": [
+      "Simge",
+      "Stadyum",
+      "Galatasaray",
+      "Icardi",
+      "Pop"
+    ]
+  },
+  {
+    "word": "Ara",
+    "forbidden": [
+      "Zeynep Bastık",
+      "Pop",
+      "Cover tadı",
+      "Dijital",
+      "Klip"
+    ]
+  },
+  {
+    "word": "Cevapsız Çınlama",
+    "forbidden": [
+      "Aleyna Tilki",
+      "Emrah Karaduman",
+      "Genç pop",
+      "YouTube",
+      "Çıkış"
+    ]
+  },
+  {
+    "word": "Yalan",
+    "forbidden": [
+      "Hepsi",
+      "Kız grubu",
+      "Dans",
+      "Gençlik",
+      "Doksanlar"
+    ]
+  },
+  {
+    "word": "Raptiye Rap Rap",
+    "forbidden": [
+      "MFÖ",
+      "Eğlenceli",
+      "Üçlü",
+      "Eski hit",
+      "Komik"
+    ]
+  },
+  {
+    "word": "Ali Desidero",
+    "forbidden": [
+      "MFÖ",
+      "Karakter",
+      "Eğlenceli",
+      "Üçlü",
+      "Hikaye"
+    ]
+  },
+  {
+    "word": "Gülümse",
+    "forbidden": [
+      "Sezen Aksu",
+      "Kapak",
+      "Doksanlar",
+      "Pop klasiği",
+      "Albüm"
+    ]
+  },
+  {
+    "word": "Sen Ağlama",
+    "forbidden": [
+      "Sezen Aksu",
+      "Duygusal",
+      "Eski kayıt",
+      "Klasik",
+      "Albüm"
+    ]
+  },
+  {
+    "word": "Adı Bende Saklı",
+    "forbidden": [
+      "Sezen Aksu",
+      "Doksanlar",
+      "Pop",
+      "Kapak",
+      "Albüm"
+    ]
+  },
+  {
+    "word": "Ölürüm Sana",
+    "forbidden": [
+      "Tarkan",
+      "Megastar",
+      "Doksanlar",
+      "Pop",
+      "Albüm"
+    ]
+  },
+  {
+    "word": "Karma",
+    "forbidden": [
+      "Tarkan",
+      "Kapak",
+      "Megastar",
+      "Pop",
+      "Albüm"
+    ]
+  },
+  {
+    "word": "Dünya Yalan Söylüyor",
+    "forbidden": [
+      "Mor ve Ötesi",
+      "Rock",
+      "Klasikleşmiş",
+      "Kapak",
+      "Albüm"
+    ]
+  },
+  {
+    "word": "Güneşi Beklerken",
+    "forbidden": [
+      "Mor ve Ötesi",
+      "Rock",
+      "Albüm",
+      "Harun Tekin",
+      "Kayıt"
+    ]
+  },
+  {
+    "word": "Şehr-i Hüzün",
+    "forbidden": [
+      "maNga",
+      "Rap rock",
+      "Eurovision öncesi",
+      "Kapak",
+      "Albüm"
+    ]
+  },
+  {
+    "word": "Belki Alışman Lazım",
+    "forbidden": [
+      "Duman",
+      "Rock",
+      "Kaan Tangöze",
+      "Kapak",
+      "Albüm"
+    ]
+  },
+  {
+    "word": "Renkli Rüyalar Oteli",
+    "forbidden": [
+      "Teoman",
+      "Rock",
+      "Melankoli",
+      "Kapak",
+      "Albüm"
+    ]
+  },
+  {
+    "word": "Perdeler",
+    "forbidden": [
+      "Şebnem Ferah",
+      "Rock",
+      "Kadın vokal",
+      "Güçlü ses",
+      "Albüm"
+    ]
+  },
+  {
+    "word": "Karanlık Senfoniler",
+    "forbidden": [
+      "Pentagram",
+      "Metal",
+      "Sert gitar",
+      "Efsane",
+      "Albüm"
+    ]
+  },
+  {
+    "word": "Süperstar",
+    "forbidden": [
+      "Ajda Pekkan",
+      "Diva",
+      "Pop",
+      "Yetmişler",
+      "Albüm"
+    ]
+  },
+  {
+    "word": "Abbey Road",
+    "forbidden": [
+      "The Beatles",
+      "Yaya geçidi",
+      "Liverpool",
+      "Dörtlü",
+      "Albüm"
+    ]
+  },
+  {
+    "word": "Thriller",
+    "forbidden": [
+      "Michael Jackson",
+      "Zombi dansı",
+      "Pop kralı",
+      "Klip",
+      "Albüm"
+    ]
+  },
+  {
+    "word": "Nevermind",
+    "forbidden": [
+      "Nirvana",
+      "Bebek kapak",
+      "Grunge",
+      "Doksanlar",
+      "Albüm"
+    ]
+  },
+  {
+    "word": "Bohemian Rhapsody",
+    "forbidden": [
+      "Queen",
+      "Freddie Mercury",
+      "Opera rock",
+      "Uzun parça",
+      "Koro"
+    ]
+  },
+  {
+    "word": "Smells Like Teen Spirit",
+    "forbidden": [
+      "Nirvana",
+      "Grunge",
+      "Okul klibi",
+      "Kurt Cobain",
+      "Doksanlar"
+    ]
+  },
+  {
+    "word": "Enter Sandman",
+    "forbidden": [
+      "Metallica",
+      "Metal",
+      "Gitar riffi",
+      "Siyah albüm",
+      "Sert"
+    ]
+  },
+  {
+    "word": "Billie Jean",
+    "forbidden": [
+      "Michael Jackson",
+      "Moonwalk",
+      "Pop",
+      "Bas yürüyüşü",
+      "Eldiven"
+    ]
+  },
+  {
+    "word": "Like a Virgin",
+    "forbidden": [
+      "Madonna",
+      "Pop kraliçesi",
+      "Seksenler",
+      "Klip",
+      "İkon"
+    ]
+  },
+  {
+    "word": "Bad Guy",
+    "forbidden": [
+      "Billie Eilish",
+      "Fısıltı vokal",
+      "Karanlık pop",
+      "Genç",
+      "Beat"
+    ]
+  },
+  {
+    "word": "Hello",
+    "forbidden": [
+      "Adele",
+      "Piyano",
+      "Güçlü vokal",
+      "Duygusal",
+      "Klip"
+    ]
+  },
+  {
+    "word": "Eras Tour",
+    "forbidden": [
+      "Taylor Swift",
+      "Dev turne",
+      "Swiftie",
+      "Bileklik",
+      "Stadyum"
+    ]
+  },
+  {
+    "word": "Moonwalk",
+    "forbidden": [
+      "Michael Jackson",
+      "Geri kaymak",
+      "Dans",
+      "Beyaz çorap",
+      "Sahne"
+    ]
+  },
+  {
+    "word": "Autotune",
+    "forbidden": [
+      "Ses efekti",
+      "Robotik",
+      "Trap",
+      "Stüdyo",
+      "Düzeltme"
+    ]
+  },
+  {
+    "word": "Distortion",
+    "forbidden": [
+      "Gitar efekti",
+      "Sert ton",
+      "Rock",
+      "Pedal",
+      "Amfi"
+    ]
+  },
+  {
+    "word": "Reverb",
+    "forbidden": [
+      "Yankı",
+      "Stüdyo efekti",
+      "Derinlik",
+      "Ses",
+      "Pedal"
+    ]
+  },
+  {
+    "word": "Delay",
+    "forbidden": [
+      "Tekrar efekti",
+      "Yankı",
+      "Pedal",
+      "Gitar",
+      "Stüdyo"
+    ]
+  },
+  {
+    "word": "Equalizer",
+    "forbidden": [
+      "Frekans ayarı",
+      "Bas tiz",
+      "Mikser",
+      "Ses dengesi",
+      "Stüdyo"
+    ]
+  },
+  {
+    "word": "Pedal",
+    "forbidden": [
+      "Efekt",
+      "Gitar",
+      "Ayak",
+      "Sahne",
+      "Kablo"
+    ]
+  },
+  {
+    "word": "Amfi",
+    "forbidden": [
+      "Hoparlör",
+      "Güç",
+      "Gitar",
+      "Sahne",
+      "Ses"
+    ]
+  },
+  {
+    "word": "Kulaklık",
+    "forbidden": [
+      "Dinlemek",
+      "Stüdyo",
+      "Kablo",
+      "Bluetooth",
+      "Kafa"
+    ]
+  },
+  {
+    "word": "Hoparlör",
+    "forbidden": [
+      "Ses",
+      "Bas",
+      "Parti",
+      "Kutu",
+      "Yüksek"
+    ]
+  },
+  {
+    "word": "Subwoofer",
+    "forbidden": [
+      "Bas",
+      "Titreşim",
+      "Hoparlör",
+      "Araba",
+      "Parti"
+    ]
+  },
+  {
+    "word": "Mikser",
+    "forbidden": [
+      "Kanal",
+      "Ses ayarı",
+      "DJ",
+      "Stüdyo",
+      "Düğme"
+    ]
+  },
+  {
+    "word": "DJ Kabini",
+    "forbidden": [
+      "Kulüp",
+      "Gece",
+      "Deck",
+      "Işık",
+      "Dans"
+    ]
+  },
+  {
+    "word": "Vinil Koleksiyonu",
+    "forbidden": [
+      "Plak",
+      "Raf",
+      "Nostalji",
+      "Pikap",
+      "Koleksiyon"
+    ]
+  },
+  {
+    "word": "İmza Günü",
+    "forbidden": [
+      "Hayran",
+      "Albüm",
+      "Fotoğraf",
+      "Sıra",
+      "Sanatçı"
+    ]
+  },
+  {
+    "word": "Bis",
+    "forbidden": [
+      "Tekrar",
+      "Alkış",
+      "Konser",
+      "Sahneye dönmek",
+      "Final"
+    ]
+  }
+]

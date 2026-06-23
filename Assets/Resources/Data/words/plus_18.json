@@ -1,0 +1,3002 @@
+[
+  {
+    "word": "Seks",
+    "forbidden": [
+      "Yatak",
+      "Partner",
+      "Arzu",
+      "Ten",
+      "Gece"
+    ]
+  },
+  {
+    "word": "Öpüşmek",
+    "forbidden": [
+      "Dudak",
+      "Dil",
+      "Romantik",
+      "Yakınlaşmak",
+      "Ateşli"
+    ]
+  },
+  {
+    "word": "Fransız Öpücüğü",
+    "forbidden": [
+      "Dil",
+      "Dudak",
+      "Tutku",
+      "Öpüşmek",
+      "Yakın"
+    ]
+  },
+  {
+    "word": "Sevişmek",
+    "forbidden": [
+      "Yatak",
+      "Ten",
+      "Partner",
+      "Romantizm",
+      "Yakınlaşma"
+    ]
+  },
+  {
+    "word": "Ön Sevişme",
+    "forbidden": [
+      "Hazırlık",
+      "Dokunuş",
+      "Öpücük",
+      "Partner",
+      "Arzu"
+    ]
+  },
+  {
+    "word": "Flört",
+    "forbidden": [
+      "Mesaj",
+      "Bakış",
+      "Çekim",
+      "Tanışma",
+      "Yürümek"
+    ]
+  },
+  {
+    "word": "Tek Gecelik İlişki",
+    "forbidden": [
+      "Gece",
+      "Tanışma",
+      "Kısa",
+      "Yatak",
+      "Sabah"
+    ]
+  },
+  {
+    "word": "Kaçamak",
+    "forbidden": [
+      "Gizli",
+      "Macera",
+      "Gece",
+      "Flört",
+      "Heyecan"
+    ]
+  },
+  {
+    "word": "Yasak Aşk",
+    "forbidden": [
+      "Gizli",
+      "Tutku",
+      "Yakalanmak",
+      "Aldatma",
+      "Dram"
+    ]
+  },
+  {
+    "word": "Aldatma",
+    "forbidden": [
+      "Gizli",
+      "Mesaj",
+      "Yalan",
+      "Partner",
+      "Yakalanmak"
+    ]
+  },
+  {
+    "word": "Kıskançlık",
+    "forbidden": [
+      "Partner",
+      "Mesaj",
+      "Eski sevgili",
+      "Trip",
+      "Kontrol"
+    ]
+  },
+  {
+    "word": "Arzu",
+    "forbidden": [
+      "İstek",
+      "Çekim",
+      "Tutku",
+      "Ten",
+      "Bakış"
+    ]
+  },
+  {
+    "word": "Tutku",
+    "forbidden": [
+      "Ateş",
+      "Arzu",
+      "Romantizm",
+      "Gece",
+      "Yakınlık"
+    ]
+  },
+  {
+    "word": "Libido",
+    "forbidden": [
+      "İstek",
+      "Enerji",
+      "Cinsellik",
+      "Arzu",
+      "Hormon"
+    ]
+  },
+  {
+    "word": "Afrodizyak",
+    "forbidden": [
+      "İstek",
+      "Çikolata",
+      "İstiridye",
+      "Romantizm",
+      "Etki"
+    ]
+  },
+  {
+    "word": "Erotizm",
+    "forbidden": [
+      "Çekicilik",
+      "Fantezi",
+      "Ten",
+      "Bakış",
+      "Yetişkin"
+    ]
+  },
+  {
+    "word": "Mahremiyet",
+    "forbidden": [
+      "Özel",
+      "Kapı",
+      "Gizli",
+      "Yakınlık",
+      "Alan"
+    ]
+  },
+  {
+    "word": "Rıza",
+    "forbidden": [
+      "Onay",
+      "Partner",
+      "Güven",
+      "Sınır",
+      "Evet"
+    ]
+  },
+  {
+    "word": "Güvenli Seks",
+    "forbidden": [
+      "Kondom",
+      "Rıza",
+      "Sağlık",
+      "Korunma",
+      "Partner"
+    ]
+  },
+  {
+    "word": "Korunma",
+    "forbidden": [
+      "Kondom",
+      "Sağlık",
+      "Risk",
+      "Partner",
+      "Önlem"
+    ]
+  },
+  {
+    "word": "Kondom",
+    "forbidden": [
+      "Prezervatif",
+      "Korunma",
+      "Lateks",
+      "Paket",
+      "Güvenli"
+    ]
+  },
+  {
+    "word": "Prezervatif",
+    "forbidden": [
+      "Kondom",
+      "Korunma",
+      "Lateks",
+      "Cüzdan",
+      "Sağlık"
+    ]
+  },
+  {
+    "word": "Kayganlaştırıcı",
+    "forbidden": [
+      "Lubrikant",
+      "Şişe",
+      "Kaygan",
+      "Ürün",
+      "Konfor"
+    ]
+  },
+  {
+    "word": "Lubrikant",
+    "forbidden": [
+      "Kayganlaştırıcı",
+      "Jel",
+      "Şişe",
+      "Ürün",
+      "Yetişkin"
+    ]
+  },
+  {
+    "word": "Masaj Yağı",
+    "forbidden": [
+      "Kaygan",
+      "Ten",
+      "Şişe",
+      "Masaj",
+      "Romantik"
+    ]
+  },
+  {
+    "word": "Vücut Losyonu",
+    "forbidden": [
+      "Ten",
+      "Koku",
+      "Kaygan",
+      "Bakım",
+      "Dokunuş"
+    ]
+  },
+  {
+    "word": "Duşta Yakınlaşma",
+    "forbidden": [
+      "Su",
+      "Buhar",
+      "Banyo",
+      "Ten",
+      "Kaygan"
+    ]
+  },
+  {
+    "word": "Yatak Odası",
+    "forbidden": [
+      "Yatak",
+      "Kapı",
+      "Gece",
+      "Mahrem",
+      "Romantizm"
+    ]
+  },
+  {
+    "word": "Loş Işık",
+    "forbidden": [
+      "Mum",
+      "Gece",
+      "Atmosfer",
+      "Romantik",
+      "Gölge"
+    ]
+  },
+  {
+    "word": "Mum Işığı",
+    "forbidden": [
+      "Romantik",
+      "Koku",
+      "Alev",
+      "Atmosfer",
+      "Gece"
+    ]
+  },
+  {
+    "word": "Saten Çarşaf",
+    "forbidden": [
+      "Yatak",
+      "Kaygan",
+      "Lüks",
+      "Gece",
+      "Romantik"
+    ]
+  },
+  {
+    "word": "Fantezi",
+    "forbidden": [
+      "Hayal",
+      "Rol",
+      "Kostüm",
+      "Arzu",
+      "Oyun"
+    ]
+  },
+  {
+    "word": "Rol Yapma",
+    "forbidden": [
+      "Kostüm",
+      "Senaryo",
+      "Fantezi",
+      "Oyun",
+      "Karakter"
+    ]
+  },
+  {
+    "word": "Hemşire Kostümü",
+    "forbidden": [
+      "Rol",
+      "Beyaz",
+      "Kostüm",
+      "Fantezi",
+      "Doktor"
+    ]
+  },
+  {
+    "word": "Polis Kostümü",
+    "forbidden": [
+      "Kelepçe",
+      "Üniforma",
+      "Rol",
+      "Fantezi",
+      "Komiser"
+    ]
+  },
+  {
+    "word": "Öğretmen Fantezisi",
+    "forbidden": [
+      "Tahta",
+      "Gözlük",
+      "Rol",
+      "Ders",
+      "Kostüm"
+    ]
+  },
+  {
+    "word": "Patron Sekreter",
+    "forbidden": [
+      "Ofis",
+      "Masa",
+      "Rol",
+      "Kostüm",
+      "Fantezi"
+    ]
+  },
+  {
+    "word": "Maid Kostümü",
+    "forbidden": [
+      "Hizmetçi",
+      "Önlük",
+      "Rol",
+      "Kostüm",
+      "Fantezi"
+    ]
+  },
+  {
+    "word": "Deri Kostüm",
+    "forbidden": [
+      "Siyah",
+      "Fantezi",
+      "Parlak",
+      "Kıyafet",
+      "Yetişkin"
+    ]
+  },
+  {
+    "word": "İç Çamaşırı",
+    "forbidden": [
+      "Dantel",
+      "Sütyen",
+      "Külot",
+      "Gece",
+      "Çekici"
+    ]
+  },
+  {
+    "word": "Dantel",
+    "forbidden": [
+      "İç çamaşırı",
+      "Siyah",
+      "Kırmızı",
+      "Şık",
+      "Yetişkin"
+    ]
+  },
+  {
+    "word": "Sütyen",
+    "forbidden": [
+      "İç çamaşırı",
+      "Göğüs",
+      "Askı",
+      "Dantel",
+      "Kopça"
+    ]
+  },
+  {
+    "word": "Külot",
+    "forbidden": [
+      "İç çamaşırı",
+      "Dantel",
+      "Bel",
+      "Çamaşır",
+      "Yetişkin"
+    ]
+  },
+  {
+    "word": "Jartiyer",
+    "forbidden": [
+      "Çorap",
+      "Dantel",
+      "Bacak",
+      "İç çamaşırı",
+      "Fantezi"
+    ]
+  },
+  {
+    "word": "Korse",
+    "forbidden": [
+      "Bel",
+      "Sıkı",
+      "Kıyafet",
+      "Dantel",
+      "Vücut"
+    ]
+  },
+  {
+    "word": "Babydoll",
+    "forbidden": [
+      "Gecelik",
+      "Dantel",
+      "Şeffaf",
+      "Yatak",
+      "İç giyim"
+    ]
+  },
+  {
+    "word": "Gecelik",
+    "forbidden": [
+      "Yatak",
+      "Saten",
+      "Dantel",
+      "Uyku",
+      "Romantik"
+    ]
+  },
+  {
+    "word": "Bornoz",
+    "forbidden": [
+      "Duş",
+      "Havlu",
+      "Banyo",
+      "Ten",
+      "Sabah"
+    ]
+  },
+  {
+    "word": "Mini Etek",
+    "forbidden": [
+      "Bacak",
+      "Kısa",
+      "Kıyafet",
+      "Çekici",
+      "Gece"
+    ]
+  },
+  {
+    "word": "Deri Etek",
+    "forbidden": [
+      "Siyah",
+      "Parlak",
+      "Kıyafet",
+      "Fantezi",
+      "Deri"
+    ]
+  },
+  {
+    "word": "Topuklu Ayakkabı",
+    "forbidden": [
+      "Bacak",
+      "Ses",
+      "Gece",
+      "Kıyafet",
+      "Çekici"
+    ]
+  },
+  {
+    "word": "Kırmızı Ruj",
+    "forbidden": [
+      "Dudak",
+      "Öpücük",
+      "Makyaj",
+      "Kırmızı",
+      "Çekici"
+    ]
+  },
+  {
+    "word": "Parfüm",
+    "forbidden": [
+      "Koku",
+      "Boyun",
+      "Ten",
+      "Şişe",
+      "Çekim"
+    ]
+  },
+  {
+    "word": "Boyun Öpücüğü",
+    "forbidden": [
+      "Öpüşmek",
+      "Ten",
+      "Koku",
+      "Yakınlık",
+      "Dudak"
+    ]
+  },
+  {
+    "word": "Kulak Fısıltısı",
+    "forbidden": [
+      "Ses",
+      "Yakın",
+      "Nefes",
+      "Fısıldamak",
+      "Heyecan"
+    ]
+  },
+  {
+    "word": "Göz Teması",
+    "forbidden": [
+      "Bakış",
+      "Flört",
+      "Çekim",
+      "Sessizlik",
+      "Yakınlık"
+    ]
+  },
+  {
+    "word": "Ten Teması",
+    "forbidden": [
+      "Dokunuş",
+      "Yakınlık",
+      "Cilt",
+      "Arzu",
+      "Partner"
+    ]
+  },
+  {
+    "word": "Dokunuş",
+    "forbidden": [
+      "El",
+      "Ten",
+      "Yakınlık",
+      "Masaj",
+      "Arzu"
+    ]
+  },
+  {
+    "word": "Gıdıklamak",
+    "forbidden": [
+      "Gülmek",
+      "Ten",
+      "Oyun",
+      "Dokunuş",
+      "Şaka"
+    ]
+  },
+  {
+    "word": "Masaj",
+    "forbidden": [
+      "Sırt",
+      "Yağ",
+      "El",
+      "Rahatlama",
+      "Ten"
+    ]
+  },
+  {
+    "word": "Sırt Masajı",
+    "forbidden": [
+      "El",
+      "Yağ",
+      "Rahatlama",
+      "Ten",
+      "Omuz"
+    ]
+  },
+  {
+    "word": "Ayak Masajı",
+    "forbidden": [
+      "Ayak",
+      "Rahatlama",
+      "El",
+      "Yağ",
+      "Fetiş"
+    ]
+  },
+  {
+    "word": "Fetiş",
+    "forbidden": [
+      "Takıntı",
+      "Arzu",
+      "Objeler",
+      "Fantezi",
+      "Çekim"
+    ]
+  },
+  {
+    "word": "Ayak Fetişi",
+    "forbidden": [
+      "Ayak",
+      "Parmak",
+      "Topuklu",
+      "Fetiş",
+      "Masaj"
+    ]
+  },
+  {
+    "word": "Lateks",
+    "forbidden": [
+      "Parlak",
+      "Kıyafet",
+      "Deri",
+      "Fantezi",
+      "Siyah"
+    ]
+  },
+  {
+    "word": "BDSM",
+    "forbidden": [
+      "Kelepçe",
+      "Göz bağı",
+      "Kırbaç",
+      "Rıza",
+      "Fantezi"
+    ]
+  },
+  {
+    "word": "Kelepçe",
+    "forbidden": [
+      "Bilek",
+      "Polis",
+      "Metal",
+      "Fantezi",
+      "Bağlamak"
+    ]
+  },
+  {
+    "word": "Göz Bağı",
+    "forbidden": [
+      "Görmemek",
+      "Siyah",
+      "Fantezi",
+      "Sürpriz",
+      "Bağlamak"
+    ]
+  },
+  {
+    "word": "Kırbaç",
+    "forbidden": [
+      "Deri",
+      "Ses",
+      "Fantezi",
+      "BDSM",
+      "Şaplak"
+    ]
+  },
+  {
+    "word": "Tasma",
+    "forbidden": [
+      "Boyun",
+      "Fantezi",
+      "Kayış",
+      "BDSM",
+      "Deri"
+    ]
+  },
+  {
+    "word": "Şaplak",
+    "forbidden": [
+      "Popo",
+      "El",
+      "Ses",
+      "Fantezi",
+      "Oyun"
+    ]
+  },
+  {
+    "word": "Dominant",
+    "forbidden": [
+      "Kontrol",
+      "Baskın",
+      "Rol",
+      "BDSM",
+      "Güç"
+    ]
+  },
+  {
+    "word": "Submissive",
+    "forbidden": [
+      "Teslimiyet",
+      "Rol",
+      "BDSM",
+      "Kontrol",
+      "Partner"
+    ]
+  },
+  {
+    "word": "Sınır Kelimesi",
+    "forbidden": [
+      "Güven",
+      "Rıza",
+      "Dur",
+      "BDSM",
+      "Anlaşma"
+    ]
+  },
+  {
+    "word": "Yatakta Kahkaha",
+    "forbidden": [
+      "Şaka",
+      "Komedi",
+      "Utanç",
+      "Partner",
+      "An"
+    ]
+  },
+  {
+    "word": "Garip Ses",
+    "forbidden": [
+      "Yatak",
+      "Utanç",
+      "Gülmek",
+      "Komik",
+      "An"
+    ]
+  },
+  {
+    "word": "Yanlış İsim",
+    "forbidden": [
+      "Pot kırmak",
+      "Utanç",
+      "Partner",
+      "Eski sevgili",
+      "Sessizlik"
+    ]
+  },
+  {
+    "word": "Kapı Kilidi",
+    "forbidden": [
+      "Mahremiyet",
+      "Anahtar",
+      "Yakalanmak",
+      "Oda",
+      "Gizli"
+    ]
+  },
+  {
+    "word": "Yakalanmak",
+    "forbidden": [
+      "Kapı",
+      "Panik",
+      "Utanç",
+      "Gizli",
+      "Aile"
+    ]
+  },
+  {
+    "word": "Sessize Almak",
+    "forbidden": [
+      "Telefon",
+      "Bildirim",
+      "Gizli",
+      "Gece",
+      "Mesaj"
+    ]
+  },
+  {
+    "word": "Gece Mesajı",
+    "forbidden": [
+      "Flört",
+      "Telefon",
+      "Saat",
+      "Ateş",
+      "Emoji"
+    ]
+  },
+  {
+    "word": "Ateş Emojisi",
+    "forbidden": [
+      "Mesaj",
+      "Flört",
+      "Instagram",
+      "İltifat",
+      "Yürümek"
+    ]
+  },
+  {
+    "word": "Patlıcan Emojisi",
+    "forbidden": [
+      "Emoji",
+      "Mesaj",
+      "Argo",
+      "Mor",
+      "Şaka"
+    ]
+  },
+  {
+    "word": "Şeftali Emojisi",
+    "forbidden": [
+      "Emoji",
+      "Popo",
+      "Mesaj",
+      "Flört",
+      "Şaka"
+    ]
+  },
+  {
+    "word": "Alevli Mesaj",
+    "forbidden": [
+      "Flört",
+      "Telefon",
+      "Gece",
+      "Emoji",
+      "Yazışma"
+    ]
+  },
+  {
+    "word": "Sexting",
+    "forbidden": [
+      "Mesaj",
+      "Telefon",
+      "Flört",
+      "Gece",
+      "Fotoğraf"
+    ]
+  },
+  {
+    "word": "Nude",
+    "forbidden": [
+      "Fotoğraf",
+      "Çıplak",
+      "Telefon",
+      "Gizli",
+      "Mesaj"
+    ]
+  },
+  {
+    "word": "Sansür",
+    "forbidden": [
+      "Mozaik",
+      "Buzlamak",
+      "Televizyon",
+      "Çıplaklık",
+      "Gizlemek"
+    ]
+  },
+  {
+    "word": "Mozaik",
+    "forbidden": [
+      "Sansür",
+      "Buzlamak",
+      "Ekran",
+      "Gizlemek",
+      "Televizyon"
+    ]
+  },
+  {
+    "word": "Yetişkin Film",
+    "forbidden": [
+      "Pornografi",
+      "Sahne",
+      "Oyuncu",
+      "Kamera",
+      "Kategori"
+    ]
+  },
+  {
+    "word": "Porno",
+    "forbidden": [
+      "Yetişkin",
+      "Video",
+      "Site",
+      "Oyuncu",
+      "Kategori"
+    ]
+  },
+  {
+    "word": "OnlyFans",
+    "forbidden": [
+      "Abonelik",
+      "İçerik",
+      "Fenomen",
+      "Fotoğraf",
+      "Para"
+    ]
+  },
+  {
+    "word": "Striptiz",
+    "forbidden": [
+      "Dans",
+      "Kıyafet",
+      "Sahne",
+      "Soyunmak",
+      "Müzik"
+    ]
+  },
+  {
+    "word": "Direk Dansı",
+    "forbidden": [
+      "Pole dance",
+      "Sahne",
+      "Dans",
+      "Direk",
+      "Gece kulübü"
+    ]
+  },
+  {
+    "word": "Gece Kulübü",
+    "forbidden": [
+      "Müzik",
+      "Dans",
+      "Alkol",
+      "Işık",
+      "Eğlence"
+    ]
+  },
+  {
+    "word": "Bekarlığa Veda",
+    "forbidden": [
+      "Parti",
+      "Düğün",
+      "Alkol",
+      "Şaka",
+      "Gece"
+    ]
+  },
+  {
+    "word": "Balayı",
+    "forbidden": [
+      "Evlilik",
+      "Otel",
+      "Tatil",
+      "Romantizm",
+      "Gece"
+    ]
+  },
+  {
+    "word": "Otel Odası",
+    "forbidden": [
+      "Kart",
+      "Yatak",
+      "Mini bar",
+      "Gizli",
+      "Gece"
+    ]
+  },
+  {
+    "word": "Mini Bar",
+    "forbidden": [
+      "Otel",
+      "Alkol",
+      "Şişe",
+      "Pahalı",
+      "Gece"
+    ]
+  },
+  {
+    "word": "Jakuzi",
+    "forbidden": [
+      "Su",
+      "Buhar",
+      "Otel",
+      "Romantik",
+      "Köpük"
+    ]
+  },
+  {
+    "word": "Sıcak Küvet",
+    "forbidden": [
+      "Jakuzi",
+      "Su",
+      "Buhar",
+      "Romantik",
+      "Köpük"
+    ]
+  },
+  {
+    "word": "Duş",
+    "forbidden": [
+      "Su",
+      "Banyo",
+      "Buhar",
+      "Ten",
+      "Sabun"
+    ]
+  },
+  {
+    "word": "Köpük Banyosu",
+    "forbidden": [
+      "Banyo",
+      "Köpük",
+      "Küvet",
+      "Romantik",
+      "Su"
+    ]
+  },
+  {
+    "word": "Sabah Kaçışı",
+    "forbidden": [
+      "Otel",
+      "Sessiz",
+      "Gizli",
+      "Ayakkabı",
+      "Panik"
+    ]
+  },
+  {
+    "word": "Walk of Shame",
+    "forbidden": [
+      "Sabah",
+      "Gece",
+      "Kıyafet",
+      "Utanç",
+      "Eve dönüş"
+    ]
+  },
+  {
+    "word": "Booty Call",
+    "forbidden": [
+      "Gece",
+      "Telefon",
+      "Flört",
+      "Mesaj",
+      "Çağrı"
+    ]
+  },
+  {
+    "word": "Friends with Benefits",
+    "forbidden": [
+      "Arkadaş",
+      "Fayda",
+      "İlişki",
+      "Yatak",
+      "Bağlanmamak"
+    ]
+  },
+  {
+    "word": "Açık İlişki",
+    "forbidden": [
+      "Rıza",
+      "Partner",
+      "Sınır",
+      "Özgürlük",
+      "Anlaşma"
+    ]
+  },
+  {
+    "word": "Üçlü",
+    "forbidden": [
+      "Fantezi",
+      "Üç kişi",
+      "Partner",
+      "Rıza",
+      "Yatak"
+    ]
+  },
+  {
+    "word": "Swinger",
+    "forbidden": [
+      "Çift",
+      "Parti",
+      "Değişim",
+      "Rıza",
+      "Fantezi"
+    ]
+  },
+  {
+    "word": "Partner Değişimi",
+    "forbidden": [
+      "Swinger",
+      "Çift",
+      "Rıza",
+      "Fantezi",
+      "Parti"
+    ]
+  },
+  {
+    "word": "Misyoner",
+    "forbidden": [
+      "Pozisyon",
+      "Yatak",
+      "Klasik",
+      "Yüz yüze",
+      "Partner"
+    ]
+  },
+  {
+    "word": "Doggy",
+    "forbidden": [
+      "Pozisyon",
+      "Arkadan",
+      "Yatak",
+      "Partner",
+      "Popo"
+    ]
+  },
+  {
+    "word": "Kaşık Pozisyonu",
+    "forbidden": [
+      "Yan yatmak",
+      "Pozisyon",
+      "Sarılmak",
+      "Yatak",
+      "Partner"
+    ]
+  },
+  {
+    "word": "Cowgirl",
+    "forbidden": [
+      "Pozisyon",
+      "Üstte",
+      "Partner",
+      "Yatak",
+      "Kontrol"
+    ]
+  },
+  {
+    "word": "Reverse Cowgirl",
+    "forbidden": [
+      "Pozisyon",
+      "Ters",
+      "Üstte",
+      "Partner",
+      "Yatak"
+    ]
+  },
+  {
+    "word": "69",
+    "forbidden": [
+      "Pozisyon",
+      "Oral",
+      "Rakam",
+      "Karşılıklı",
+      "Yatak"
+    ]
+  },
+  {
+    "word": "Lotus",
+    "forbidden": [
+      "Pozisyon",
+      "Sarılmak",
+      "Oturmak",
+      "Yüz yüze",
+      "Yakın"
+    ]
+  },
+  {
+    "word": "Ayakta",
+    "forbidden": [
+      "Pozisyon",
+      "Duvar",
+      "Denge",
+      "Partner",
+      "Hızlı"
+    ]
+  },
+  {
+    "word": "Duvara Karşı",
+    "forbidden": [
+      "Pozisyon",
+      "Ayakta",
+      "Duvar",
+      "Partner",
+      "Yakın"
+    ]
+  },
+  {
+    "word": "Kucakta",
+    "forbidden": [
+      "Pozisyon",
+      "Oturmak",
+      "Partner",
+      "Yakınlık",
+      "Kollar"
+    ]
+  },
+  {
+    "word": "Masa Üstü",
+    "forbidden": [
+      "Pozisyon",
+      "Ofis",
+      "Masa",
+      "Fantezi",
+      "Partner"
+    ]
+  },
+  {
+    "word": "Araba Koltuğu",
+    "forbidden": [
+      "Araba",
+      "Dar alan",
+      "Gece",
+      "Cam",
+      "Risk"
+    ]
+  },
+  {
+    "word": "Kanepe",
+    "forbidden": [
+      "Salon",
+      "Yastık",
+      "Ev",
+      "Rahat",
+      "Yatak değil"
+    ]
+  },
+  {
+    "word": "Mutfak Tezgahı",
+    "forbidden": [
+      "Mutfak",
+      "Tezgah",
+      "Fantezi",
+      "Ev",
+      "Spontane"
+    ]
+  },
+  {
+    "word": "Çamaşır Makinesi",
+    "forbidden": [
+      "Titreşim",
+      "Banyo",
+      "Şaka",
+      "Ev",
+      "Makine"
+    ]
+  },
+  {
+    "word": "Asansör Fantezisi",
+    "forbidden": [
+      "Asansör",
+      "Kamera",
+      "Risk",
+      "Hızlı",
+      "Kapı"
+    ]
+  },
+  {
+    "word": "Ofis Fantezisi",
+    "forbidden": [
+      "Masa",
+      "Patron",
+      "Sekreter",
+      "Mesai",
+      "Rol"
+    ]
+  },
+  {
+    "word": "Plaj Kaçamağı",
+    "forbidden": [
+      "Kum",
+      "Deniz",
+      "Gece",
+      "Tatil",
+      "Risk"
+    ]
+  },
+  {
+    "word": "Çadır",
+    "forbidden": [
+      "Kamp",
+      "Uyku tulumu",
+      "Doğa",
+      "Gece",
+      "Dar alan"
+    ]
+  },
+  {
+    "word": "Arka Koltuk",
+    "forbidden": [
+      "Araba",
+      "Gece",
+      "Cam",
+      "Dar alan",
+      "Gençlik"
+    ]
+  },
+  {
+    "word": "Oral Seks",
+    "forbidden": [
+      "Ağız",
+      "Partner",
+      "Dil",
+      "Yakınlık",
+      "Yetişkin"
+    ]
+  },
+  {
+    "word": "Anal Seks",
+    "forbidden": [
+      "Arkadan",
+      "Kayganlaştırıcı",
+      "Pozisyon",
+      "Partner",
+      "Yetişkin"
+    ]
+  },
+  {
+    "word": "El İşi",
+    "forbidden": [
+      "El",
+      "Partner",
+      "Yatak",
+      "Yakınlık",
+      "Argo"
+    ]
+  },
+  {
+    "word": "Mastürbasyon",
+    "forbidden": [
+      "Tek başına",
+      "El",
+      "Mahrem",
+      "Fantezi",
+      "Yetişkin"
+    ]
+  },
+  {
+    "word": "Orgazm",
+    "forbidden": [
+      "Zirve",
+      "Haz",
+      "Final",
+      "Ses",
+      "Yetişkin"
+    ]
+  },
+  {
+    "word": "Zevk",
+    "forbidden": [
+      "Haz",
+      "Keyif",
+      "Arzu",
+      "Ten",
+      "Partner"
+    ]
+  },
+  {
+    "word": "Haz",
+    "forbidden": [
+      "Zevk",
+      "Arzu",
+      "Final",
+      "Ten",
+      "Duygu"
+    ]
+  },
+  {
+    "word": "Fantezi Günlüğü",
+    "forbidden": [
+      "Not",
+      "Hayal",
+      "Gizli",
+      "Defter",
+      "Arzu"
+    ]
+  },
+  {
+    "word": "Kirli Konuşma",
+    "forbidden": [
+      "Söz",
+      "Fısıltı",
+      "Argo",
+      "Yatak",
+      "Heyecan"
+    ]
+  },
+  {
+    "word": "İnleme",
+    "forbidden": [
+      "Ses",
+      "Yatak",
+      "Zevk",
+      "Utanç",
+      "Komşu"
+    ]
+  },
+  {
+    "word": "Komşu Duysun",
+    "forbidden": [
+      "Ses",
+      "Duvar",
+      "İnleme",
+      "Utanç",
+      "Apartman"
+    ]
+  },
+  {
+    "word": "Yastık Isırmak",
+    "forbidden": [
+      "Ses",
+      "Yatak",
+      "Utanç",
+      "Heyecan",
+      "Komşu"
+    ]
+  },
+  {
+    "word": "Saç Çekmek",
+    "forbidden": [
+      "Fantezi",
+      "Tutmak",
+      "Partner",
+      "Yatak",
+      "Rıza"
+    ]
+  },
+  {
+    "word": "Boyun Isırığı",
+    "forbidden": [
+      "Ten",
+      "Öpücük",
+      "İz",
+      "Tutku",
+      "Dudak"
+    ]
+  },
+  {
+    "word": "Aşk Isırığı",
+    "forbidden": [
+      "Morarma",
+      "Boyun",
+      "İz",
+      "Öpüşmek",
+      "Tutku"
+    ]
+  },
+  {
+    "word": "Hickey",
+    "forbidden": [
+      "Aşk ısırığı",
+      "Boyun",
+      "İz",
+      "Morarma",
+      "Dudak"
+    ]
+  },
+  {
+    "word": "Tırnak İzi",
+    "forbidden": [
+      "Sırt",
+      "Tutku",
+      "İz",
+      "Yatak",
+      "Partner"
+    ]
+  },
+  {
+    "word": "Popo",
+    "forbidden": [
+      "Şeftali",
+      "Şaplak",
+      "Vücut",
+      "Argo",
+      "Kalça"
+    ]
+  },
+  {
+    "word": "Göğüs",
+    "forbidden": [
+      "Sütyen",
+      "Dekolte",
+      "Vücut",
+      "Ten",
+      "Dantel"
+    ]
+  },
+  {
+    "word": "Dekolte",
+    "forbidden": [
+      "Göğüs",
+      "Kıyafet",
+      "Bakış",
+      "Elbise",
+      "Çekici"
+    ]
+  },
+  {
+    "word": "Kalça",
+    "forbidden": [
+      "Popo",
+      "Şeftali",
+      "Dans",
+      "Vücut",
+      "Argo"
+    ]
+  },
+  {
+    "word": "Bacak",
+    "forbidden": [
+      "Topuklu",
+      "Mini etek",
+      "Ten",
+      "Yürüyüş",
+      "Jartiyer"
+    ]
+  },
+  {
+    "word": "Dudak",
+    "forbidden": [
+      "Öpücük",
+      "Ruj",
+      "Dil",
+      "Kırmızı",
+      "Flört"
+    ]
+  },
+  {
+    "word": "Dil",
+    "forbidden": [
+      "Öpüşmek",
+      "Fransız",
+      "Oral",
+      "Dudak",
+      "Yetişkin"
+    ]
+  },
+  {
+    "word": "Ten",
+    "forbidden": [
+      "Dokunuş",
+      "Koku",
+      "Yakınlık",
+      "Cilt",
+      "Arzu"
+    ]
+  },
+  {
+    "word": "Vibratör",
+    "forbidden": [
+      "Oyuncak",
+      "Titreşim",
+      "Pil",
+      "Yetişkin",
+      "Ürün"
+    ]
+  },
+  {
+    "word": "Dildo",
+    "forbidden": [
+      "Oyuncak",
+      "Silikon",
+      "Yetişkin",
+      "Ürün",
+      "Fantezi"
+    ]
+  },
+  {
+    "word": "Plug",
+    "forbidden": [
+      "Oyuncak",
+      "Anal",
+      "Silikon",
+      "Yetişkin",
+      "Ürün"
+    ]
+  },
+  {
+    "word": "Fleshlight",
+    "forbidden": [
+      "Oyuncak",
+      "Erkek",
+      "Ürün",
+      "Yetişkin",
+      "Silikon"
+    ]
+  },
+  {
+    "word": "Mastürbatör",
+    "forbidden": [
+      "Oyuncak",
+      "Erkek",
+      "Ürün",
+      "Yetişkin",
+      "Solo"
+    ]
+  },
+  {
+    "word": "Seks Salıncağı",
+    "forbidden": [
+      "Oyuncak",
+      "Tavan",
+      "Fantezi",
+      "Pozisyon",
+      "Yetişkin"
+    ]
+  },
+  {
+    "word": "Seks Bebek",
+    "forbidden": [
+      "Oyuncak",
+      "Yetişkin",
+      "Silikon",
+      "Ürün",
+      "Gerçekçi"
+    ]
+  },
+  {
+    "word": "Şişme Bebek",
+    "forbidden": [
+      "Oyuncak",
+      "Plastik",
+      "Yetişkin",
+      "Şaka",
+      "Ürün"
+    ]
+  },
+  {
+    "word": "Kelepçeli Set",
+    "forbidden": [
+      "Bilek",
+      "Fantezi",
+      "BDSM",
+      "Ürün",
+      "Metal"
+    ]
+  },
+  {
+    "word": "Yetişkin Zarları",
+    "forbidden": [
+      "Oyun",
+      "Zar",
+      "Şaka",
+      "Pozisyon",
+      "Parti"
+    ]
+  },
+  {
+    "word": "Strip Poker",
+    "forbidden": [
+      "Kart",
+      "Soyunmak",
+      "Oyun",
+      "Parti",
+      "Blöf"
+    ]
+  },
+  {
+    "word": "Yetişkin Kart Oyunu",
+    "forbidden": [
+      "Kart",
+      "Cesaret",
+      "Soru",
+      "Parti",
+      "Şaka"
+    ]
+  },
+  {
+    "word": "Doğruluk Cesaretlik",
+    "forbidden": [
+      "Soru",
+      "Cesaret",
+      "Parti",
+      "Öpücük",
+      "Oyun"
+    ]
+  },
+  {
+    "word": "Yenilebilir İç Çamaşırı",
+    "forbidden": [
+      "Şaka",
+      "Şeker",
+      "Ürün",
+      "Yetişkin",
+      "Parti"
+    ]
+  },
+  {
+    "word": "Aromalı Kondom",
+    "forbidden": [
+      "Kondom",
+      "Tat",
+      "Korunma",
+      "Paket",
+      "Ürün"
+    ]
+  },
+  {
+    "word": "Geciktirici Sprey",
+    "forbidden": [
+      "Ürün",
+      "Sprey",
+      "Yetişkin",
+      "Şişe",
+      "Performans"
+    ]
+  },
+  {
+    "word": "Masaj Mumu",
+    "forbidden": [
+      "Mum",
+      "Yağ",
+      "Ten",
+      "Romantik",
+      "Ürün"
+    ]
+  },
+  {
+    "word": "Feromon Parfüm",
+    "forbidden": [
+      "Koku",
+      "Çekim",
+      "Şişe",
+      "Flört",
+      "Ürün"
+    ]
+  },
+  {
+    "word": "Yetişkin Mağazası",
+    "forbidden": [
+      "Oyuncak",
+      "Ürün",
+      "Kondom",
+      "Fantezi",
+      "Raf"
+    ]
+  },
+  {
+    "word": "Kırmızı Oda",
+    "forbidden": [
+      "Fantezi",
+      "Gizli",
+      "Işık",
+      "Yatak",
+      "Yetişkin"
+    ]
+  },
+  {
+    "word": "Alkol",
+    "forbidden": [
+      "İçki",
+      "Sarhoş",
+      "Kadeh",
+      "Şişe",
+      "Gece"
+    ]
+  },
+  {
+    "word": "Bira",
+    "forbidden": [
+      "Köpük",
+      "Şişe",
+      "Fıçı",
+      "Soğuk",
+      "Malt"
+    ]
+  },
+  {
+    "word": "Rakı",
+    "forbidden": [
+      "Aslan sütü",
+      "Meze",
+      "Beyaz",
+      "Anason",
+      "Kadeh"
+    ]
+  },
+  {
+    "word": "Votka",
+    "forbidden": [
+      "Shot",
+      "Şişe",
+      "Rus",
+      "Sek",
+      "Kokteyl"
+    ]
+  },
+  {
+    "word": "Viski",
+    "forbidden": [
+      "Buz",
+      "Kadeh",
+      "Meşe",
+      "Sek",
+      "Şişe"
+    ]
+  },
+  {
+    "word": "Tekila",
+    "forbidden": [
+      "Tuz",
+      "Limon",
+      "Shot",
+      "Meksika",
+      "Gece"
+    ]
+  },
+  {
+    "word": "Rom",
+    "forbidden": [
+      "Korsan",
+      "Kokteyl",
+      "Kola",
+      "Şişe",
+      "Tatlı"
+    ]
+  },
+  {
+    "word": "Cin",
+    "forbidden": [
+      "Tonik",
+      "Kokteyl",
+      "Limon",
+      "Şişe",
+      "Sek"
+    ]
+  },
+  {
+    "word": "Şarap",
+    "forbidden": [
+      "Kadeh",
+      "Üzüm",
+      "Kırmızı",
+      "Beyaz",
+      "Romantik"
+    ]
+  },
+  {
+    "word": "Şampanya",
+    "forbidden": [
+      "Patlatmak",
+      "Köpük",
+      "Kutlama",
+      "Kadeh",
+      "Lüks"
+    ]
+  },
+  {
+    "word": "Likör",
+    "forbidden": [
+      "Tatlı",
+      "Şişe",
+      "Kokteyl",
+      "Aroma",
+      "Alkol"
+    ]
+  },
+  {
+    "word": "Martini",
+    "forbidden": [
+      "James Bond",
+      "Zeytin",
+      "Kadeh",
+      "Çalkalanmış",
+      "Kokteyl"
+    ]
+  },
+  {
+    "word": "Mojito",
+    "forbidden": [
+      "Nane",
+      "Lime",
+      "Rom",
+      "Kokteyl",
+      "Buz"
+    ]
+  },
+  {
+    "word": "Margarita",
+    "forbidden": [
+      "Tekila",
+      "Tuz",
+      "Lime",
+      "Kokteyl",
+      "Kadeh"
+    ]
+  },
+  {
+    "word": "Bloody Mary",
+    "forbidden": [
+      "Domates",
+      "Votka",
+      "Kokteyl",
+      "Acı",
+      "Brunch"
+    ]
+  },
+  {
+    "word": "Long Island",
+    "forbidden": [
+      "Kokteyl",
+      "Sert",
+      "Çay rengi",
+      "Buz",
+      "Karışım"
+    ]
+  },
+  {
+    "word": "Jager",
+    "forbidden": [
+      "Shot",
+      "Soğuk",
+      "Şişe",
+      "Enerji",
+      "Gece"
+    ]
+  },
+  {
+    "word": "Absinthe",
+    "forbidden": [
+      "Yeşil peri",
+      "Sert",
+      "Anason",
+      "Şişe",
+      "Efsane"
+    ]
+  },
+  {
+    "word": "Shot",
+    "forbidden": [
+      "Tek dikiş",
+      "Küçük bardak",
+      "Gece",
+      "Alkol",
+      "Hızlı"
+    ]
+  },
+  {
+    "word": "Kadeh",
+    "forbidden": [
+      "İçki",
+      "Cam",
+      "Şarap",
+      "Tost",
+      "Bardak"
+    ]
+  },
+  {
+    "word": "Buz",
+    "forbidden": [
+      "Viski",
+      "Kadeh",
+      "Soğuk",
+      "Kokteyl",
+      "Küp"
+    ]
+  },
+  {
+    "word": "Meze",
+    "forbidden": [
+      "Rakı",
+      "Sofra",
+      "Peynir",
+      "Muhabbet",
+      "Tabak"
+    ]
+  },
+  {
+    "word": "Sarhoş",
+    "forbidden": [
+      "Alkol",
+      "Denge",
+      "Gece",
+      "Kafa",
+      "Konuşmak"
+    ]
+  },
+  {
+    "word": "Çakırkeyif",
+    "forbidden": [
+      "Hafif sarhoş",
+      "Neşeli",
+      "Alkol",
+      "Gece",
+      "Muhabbet"
+    ]
+  },
+  {
+    "word": "Akşamdan Kalma",
+    "forbidden": [
+      "Baş ağrısı",
+      "Sabah",
+      "Alkol",
+      "Su",
+      "Pişmanlık"
+    ]
+  },
+  {
+    "word": "Kusmak",
+    "forbidden": [
+      "Sarhoş",
+      "Mide",
+      "Tuvalet",
+      "Gece",
+      "Pişmanlık"
+    ]
+  },
+  {
+    "word": "Bar",
+    "forbidden": [
+      "İçki",
+      "Müzik",
+      "Tezgah",
+      "Barmen",
+      "Gece"
+    ]
+  },
+  {
+    "word": "Barmen",
+    "forbidden": [
+      "Bar",
+      "Kokteyl",
+      "Shaker",
+      "İçki",
+      "Tezgah"
+    ]
+  },
+  {
+    "word": "Shaker",
+    "forbidden": [
+      "Kokteyl",
+      "Barmen",
+      "Çalkalamak",
+      "Bar",
+      "Metal"
+    ]
+  },
+  {
+    "word": "Happy Hour",
+    "forbidden": [
+      "İndirim",
+      "Bar",
+      "İçki",
+      "Saat",
+      "Gece"
+    ]
+  },
+  {
+    "word": "Pub",
+    "forbidden": [
+      "Bira",
+      "Arkadaş",
+      "Maç",
+      "Masa",
+      "İngiliz"
+    ]
+  },
+  {
+    "word": "Meyhane",
+    "forbidden": [
+      "Rakı",
+      "Meze",
+      "Masa",
+      "Muhabbet",
+      "Şarkı"
+    ]
+  },
+  {
+    "word": "Tost Kaldırmak",
+    "forbidden": [
+      "Kadeh",
+      "Şerefe",
+      "Kutlama",
+      "İçki",
+      "Arkadaş"
+    ]
+  },
+  {
+    "word": "Şerefe",
+    "forbidden": [
+      "Kadeh",
+      "Tost",
+      "İçki",
+      "Kutlama",
+      "Rakı"
+    ]
+  },
+  {
+    "word": "Tek Atmak",
+    "forbidden": [
+      "Shot",
+      "İçki",
+      "Hızlı",
+      "Kadeh",
+      "Gece"
+    ]
+  },
+  {
+    "word": "Masa Donatmak",
+    "forbidden": [
+      "Meze",
+      "Rakı",
+      "Arkadaş",
+      "Sofra",
+      "Gece"
+    ]
+  },
+  {
+    "word": "Kulüp",
+    "forbidden": [
+      "Dans",
+      "DJ",
+      "Alkol",
+      "Işık",
+      "Gece"
+    ]
+  },
+  {
+    "word": "DJ",
+    "forbidden": [
+      "Müzik",
+      "Kulüp",
+      "Beat",
+      "Dans",
+      "Gece"
+    ]
+  },
+  {
+    "word": "Dans Pisti",
+    "forbidden": [
+      "Kulüp",
+      "Müzik",
+      "Işık",
+      "Dans",
+      "Kalabalık"
+    ]
+  },
+  {
+    "word": "After Party",
+    "forbidden": [
+      "Parti sonrası",
+      "Sabah",
+      "Kulüp",
+      "Alkol",
+      "Gece"
+    ]
+  },
+  {
+    "word": "Gece Hayatı",
+    "forbidden": [
+      "Bar",
+      "Kulüp",
+      "Alkol",
+      "Dans",
+      "Sabah"
+    ]
+  },
+  {
+    "word": "Ayık Kalmak",
+    "forbidden": [
+      "Alkol yok",
+      "Sürücü",
+      "Kontrol",
+      "Gece",
+      "Su"
+    ]
+  },
+  {
+    "word": "Uyuşturucu",
+    "forbidden": [
+      "Yasadışı",
+      "Bağımlılık",
+      "Risk",
+      "Madde",
+      "Tehlike"
+    ]
+  },
+  {
+    "word": "Esrar",
+    "forbidden": [
+      "Ot",
+      "Yeşil",
+      "Yasadışı",
+      "Duman",
+      "Madde"
+    ]
+  },
+  {
+    "word": "Kokain",
+    "forbidden": [
+      "Beyaz",
+      "Pudra",
+      "Yasadışı",
+      "Bağımlılık",
+      "Lüks"
+    ]
+  },
+  {
+    "word": "Eroin",
+    "forbidden": [
+      "Yasadışı",
+      "Bağımlılık",
+      "Risk",
+      "Madde",
+      "Tehlike"
+    ]
+  },
+  {
+    "word": "LSD",
+    "forbidden": [
+      "Asit",
+      "Halüsinasyon",
+      "Renk",
+      "Trip",
+      "Madde"
+    ]
+  },
+  {
+    "word": "MDMA",
+    "forbidden": [
+      "Extasy",
+      "Parti",
+      "Hap",
+      "Madde",
+      "Gece"
+    ]
+  },
+  {
+    "word": "Extasy",
+    "forbidden": [
+      "Hap",
+      "Parti",
+      "MDMA",
+      "Yasadışı",
+      "Gece"
+    ]
+  },
+  {
+    "word": "Metamfetamin",
+    "forbidden": [
+      "Yasadışı",
+      "Breaking Bad",
+      "Kristal",
+      "Bağımlılık",
+      "Risk"
+    ]
+  },
+  {
+    "word": "Bonzai",
+    "forbidden": [
+      "Sentetik",
+      "Risk",
+      "Yasadışı",
+      "Madde",
+      "Tehlike"
+    ]
+  },
+  {
+    "word": "Sihirli Mantar",
+    "forbidden": [
+      "Halüsinasyon",
+      "Mantar",
+      "Trip",
+      "Doğa",
+      "Madde"
+    ]
+  },
+  {
+    "word": "Ketamin",
+    "forbidden": [
+      "Madde",
+      "Yasadışı",
+      "Risk",
+      "Parti",
+      "Bilinç"
+    ]
+  },
+  {
+    "word": "GHB",
+    "forbidden": [
+      "Madde",
+      "Risk",
+      "Yasadışı",
+      "Parti",
+      "Tehlike"
+    ]
+  },
+  {
+    "word": "Hap",
+    "forbidden": [
+      "Tablet",
+      "Gece",
+      "Risk",
+      "Madde",
+      "Yasadışı"
+    ]
+  },
+  {
+    "word": "Çizgi",
+    "forbidden": [
+      "Kokain",
+      "Beyaz",
+      "Masa",
+      "Argo",
+      "Yasadışı"
+    ]
+  },
+  {
+    "word": "Ot",
+    "forbidden": [
+      "Esrar",
+      "Yeşil",
+      "Argo",
+      "Madde",
+      "Yasadışı"
+    ]
+  },
+  {
+    "word": "Duman",
+    "forbidden": [
+      "Sigara",
+      "Ot",
+      "Nargile",
+      "Bulut",
+      "Koku"
+    ]
+  },
+  {
+    "word": "Kafa Olmak",
+    "forbidden": [
+      "Sarhoş",
+      "Madde",
+      "Alkol",
+      "Argo",
+      "Gece"
+    ]
+  },
+  {
+    "word": "Kafası Güzel",
+    "forbidden": [
+      "Sarhoş",
+      "Madde",
+      "Gece",
+      "Argo",
+      "Gülmek"
+    ]
+  },
+  {
+    "word": "Trip",
+    "forbidden": [
+      "LSD",
+      "Kafa",
+      "Halüsinasyon",
+      "Madde",
+      "Psikoloji"
+    ]
+  },
+  {
+    "word": "Halüsinasyon",
+    "forbidden": [
+      "Görmek",
+      "Renk",
+      "LSD",
+      "Zihin",
+      "Trip"
+    ]
+  },
+  {
+    "word": "Bağımlılık",
+    "forbidden": [
+      "Alışkanlık",
+      "Risk",
+      "Madde",
+      "Tedavi",
+      "Zor"
+    ]
+  },
+  {
+    "word": "Tolerans",
+    "forbidden": [
+      "Bağımlılık",
+      "Etki",
+      "Vücut",
+      "Madde",
+      "Zaman"
+    ]
+  },
+  {
+    "word": "Rehabilitasyon",
+    "forbidden": [
+      "Tedavi",
+      "Bağımlılık",
+      "Klinik",
+      "Destek",
+      "Temiz"
+    ]
+  },
+  {
+    "word": "Ayıklık",
+    "forbidden": [
+      "Temiz",
+      "Alkol yok",
+      "Madde yok",
+      "Kontrol",
+      "Sağlık"
+    ]
+  },
+  {
+    "word": "Temiz Kalmak",
+    "forbidden": [
+      "Ayıklık",
+      "Bağımlılık",
+      "Tedavi",
+      "Sağlık",
+      "Kontrol"
+    ]
+  },
+  {
+    "word": "Nargile",
+    "forbidden": [
+      "Duman",
+      "Tütün",
+      "Köz",
+      "Marpuç",
+      "Kafe"
+    ]
+  },
+  {
+    "word": "Sigara",
+    "forbidden": [
+      "Duman",
+      "Nikotin",
+      "Paket",
+      "Çakmak",
+      "Kül"
+    ]
+  },
+  {
+    "word": "Puro",
+    "forbidden": [
+      "Duman",
+      "Lüks",
+      "Küba",
+      "Tütün",
+      "Kesici"
+    ]
+  },
+  {
+    "word": "Çakmak",
+    "forbidden": [
+      "Ateş",
+      "Sigara",
+      "Paket",
+      "Duman",
+      "Cep"
+    ]
+  },
+  {
+    "word": "Kül Tablası",
+    "forbidden": [
+      "Sigara",
+      "Kül",
+      "Duman",
+      "Masa",
+      "Paket"
+    ]
+  },
+  {
+    "word": "Enerji İçeceği",
+    "forbidden": [
+      "Kafein",
+      "Gece",
+      "Kutular",
+      "Parti",
+      "Uyanık"
+    ]
+  },
+  {
+    "word": "Kafein",
+    "forbidden": [
+      "Kahve",
+      "Enerji",
+      "Uyanık",
+      "Çarpıntı",
+      "Gece"
+    ]
+  },
+  {
+    "word": "Doping",
+    "forbidden": [
+      "Spor",
+      "Yasak",
+      "Performans",
+      "Test",
+      "Madde"
+    ]
+  },
+  {
+    "word": "Steroid",
+    "forbidden": [
+      "Kas",
+      "Spor",
+      "Doping",
+      "İğne",
+      "Performans"
+    ]
+  },
+  {
+    "word": "Yasa Dışı Madde",
+    "forbidden": [
+      "Risk",
+      "Bağımlılık",
+      "Polis",
+      "Tehlike",
+      "Uyuşturucu"
+    ]
+  },
+  {
+    "word": "Rocco Siffredi",
+    "forbidden": [
+      "Yetişkin film",
+      "İtalya",
+      "Efsane",
+      "Oyuncu",
+      "Ünlü"
+    ]
+  },
+  {
+    "word": "Mia Khalifa",
+    "forbidden": [
+      "Yetişkin film",
+      "Gözlük",
+      "Lübnan",
+      "İnternet",
+      "Ünlü"
+    ]
+  },
+  {
+    "word": "Johnny Sins",
+    "forbidden": [
+      "Kel",
+      "Doktor",
+      "Astronot",
+      "Yetişkin film",
+      "Meme"
+    ]
+  },
+  {
+    "word": "Sasha Grey",
+    "forbidden": [
+      "Yetişkin film",
+      "Ünlü",
+      "Oyuncu",
+      "Kitap",
+      "İnternet"
+    ]
+  },
+  {
+    "word": "Lana Rhoades",
+    "forbidden": [
+      "Yetişkin film",
+      "Ünlü",
+      "Podcast",
+      "Model",
+      "İnternet"
+    ]
+  },
+  {
+    "word": "Riley Reid",
+    "forbidden": [
+      "Yetişkin film",
+      "Ünlü",
+      "Oyuncu",
+      "İnternet",
+      "Model"
+    ]
+  },
+  {
+    "word": "Jenna Jameson",
+    "forbidden": [
+      "Yetişkin film",
+      "Eski yıldız",
+      "Ünlü",
+      "Amerika",
+      "Oyuncu"
+    ]
+  },
+  {
+    "word": "Kim Kardashian",
+    "forbidden": [
+      "Reality",
+      "Skandal",
+      "Ünlü",
+      "Kardashian",
+      "İnternet"
+    ]
+  },
+  {
+    "word": "Pamela Anderson",
+    "forbidden": [
+      "Baywatch",
+      "Kırmızı mayo",
+      "Ünlü",
+      "90'lar",
+      "Skandal"
+    ]
+  },
+  {
+    "word": "OnlyFans Fenomeni",
+    "forbidden": [
+      "Abone",
+      "İçerik",
+      "Para",
+      "İnternet",
+      "Fotoğraf"
+    ]
+  },
+  {
+    "word": "Sugar Daddy",
+    "forbidden": [
+      "Para",
+      "Yaşlı",
+      "Hediye",
+      "İlişki",
+      "Argo"
+    ]
+  },
+  {
+    "word": "Sugar Baby",
+    "forbidden": [
+      "Hediye",
+      "Para",
+      "İlişki",
+      "Argo",
+      "Lüks"
+    ]
+  },
+  {
+    "word": "MILF",
+    "forbidden": [
+      "Anne",
+      "Argo",
+      "Yetişkin",
+      "Kategori",
+      "Çekici"
+    ]
+  },
+  {
+    "word": "DILF",
+    "forbidden": [
+      "Baba",
+      "Argo",
+      "Yetişkin",
+      "Kategori",
+      "Çekici"
+    ]
+  },
+  {
+    "word": "Cougar",
+    "forbidden": [
+      "Olgun kadın",
+      "Genç erkek",
+      "Argo",
+      "Flört",
+      "Kategori"
+    ]
+  },
+  {
+    "word": "Daddy",
+    "forbidden": [
+      "Argo",
+      "Fantezi",
+      "Hitap",
+      "Yetişkin",
+      "Rol"
+    ]
+  },
+  {
+    "word": "Mommy",
+    "forbidden": [
+      "Argo",
+      "Fantezi",
+      "Hitap",
+      "Yetişkin",
+      "Rol"
+    ]
+  },
+  {
+    "word": "Simp",
+    "forbidden": [
+      "İlgi",
+      "Para",
+      "Mesaj",
+      "Aşırı hayran",
+      "Argo"
+    ]
+  },
+  {
+    "word": "Crush",
+    "forbidden": [
+      "Hoşlanmak",
+      "Flört",
+      "Okul",
+      "Mesaj",
+      "Gizli"
+    ]
+  },
+  {
+    "word": "Red Flag",
+    "forbidden": [
+      "Uyarı",
+      "İlişki",
+      "Toksik",
+      "Flört",
+      "İşaret"
+    ]
+  },
+  {
+    "word": "Green Flag",
+    "forbidden": [
+      "İyi işaret",
+      "İlişki",
+      "Güven",
+      "Flört",
+      "Partner"
+    ]
+  },
+  {
+    "word": "Toksik İlişki",
+    "forbidden": [
+      "Kavga",
+      "Kıskançlık",
+      "Manipülasyon",
+      "Ayrılık",
+      "Drama"
+    ]
+  },
+  {
+    "word": "Gaslighting",
+    "forbidden": [
+      "Manipülasyon",
+      "İnkar",
+      "Kafa karıştırmak",
+      "Toksik",
+      "İlişki"
+    ]
+  },
+  {
+    "word": "Ghosting",
+    "forbidden": [
+      "Mesaj yok",
+      "Kaybolmak",
+      "Flört",
+      "Telefon",
+      "Cevapsız"
+    ]
+  },
+  {
+    "word": "Breadcrumbing",
+    "forbidden": [
+      "Umut vermek",
+      "Mesaj",
+      "Flört",
+      "Az ilgi",
+      "Toksik"
+    ]
+  },
+  {
+    "word": "Situationship",
+    "forbidden": [
+      "Belirsiz",
+      "İlişki değil",
+      "Flört",
+      "Etiket yok",
+      "Mesaj"
+    ]
+  },
+  {
+    "word": "Fuckboy",
+    "forbidden": [
+      "Çapkın",
+      "Mesaj",
+      "Argo",
+      "Flört",
+      "Güvenilmez"
+    ]
+  },
+  {
+    "word": "Çapkın",
+    "forbidden": [
+      "Flört",
+      "Mesaj",
+      "Gece",
+      "İlgi",
+      "Aşk"
+    ]
+  },
+  {
+    "word": "Yürümek",
+    "forbidden": [
+      "Flört",
+      "Mesaj",
+      "İltifat",
+      "DM",
+      "Tanışmak"
+    ]
+  },
+  {
+    "word": "DM'den Yürümek",
+    "forbidden": [
+      "Instagram",
+      "Mesaj",
+      "Flört",
+      "Emoji",
+      "İstek"
+    ]
+  },
+  {
+    "word": "Seen Yemek",
+    "forbidden": [
+      "Mesaj",
+      "Cevap yok",
+      "Görüldü",
+      "Flört",
+      "Telefon"
+    ]
+  },
+  {
+    "word": "Mavi Tik",
+    "forbidden": [
+      "Görüldü",
+      "WhatsApp",
+      "Mesaj",
+      "Cevap yok",
+      "Flört"
+    ]
+  },
+  {
+    "word": "Kırmızı Oje",
+    "forbidden": [
+      "Tırnak",
+      "Çekici",
+      "Bakım",
+      "Gece",
+      "Flört"
+    ]
+  },
+  {
+    "word": "Dudak Dolgusu",
+    "forbidden": [
+      "Estetik",
+      "Dudak",
+      "Güzellik",
+      "İğne",
+      "Ünlü"
+    ]
+  },
+  {
+    "word": "Estetik",
+    "forbidden": [
+      "Burun",
+      "Dudak",
+      "Ameliyat",
+      "Güzellik",
+      "Ünlü"
+    ]
+  },
+  {
+    "word": "Botoks",
+    "forbidden": [
+      "Yüz",
+      "İğne",
+      "Kırışıklık",
+      "Estetik",
+      "Ünlü"
+    ]
+  },
+  {
+    "word": "Photoshop",
+    "forbidden": [
+      "Fotoğraf",
+      "Düzenleme",
+      "Filtre",
+      "İnternet",
+      "Güzellik"
+    ]
+  },
+  {
+    "word": "Filtre",
+    "forbidden": [
+      "Instagram",
+      "Fotoğraf",
+      "Yüz",
+      "Güzellik",
+      "Story"
+    ]
+  },
+  {
+    "word": "Ayna Selfie'si",
+    "forbidden": [
+      "Fotoğraf",
+      "Banyo",
+      "Telefon",
+      "Poz",
+      "Instagram"
+    ]
+  },
+  {
+    "word": "Gym Selfie'si",
+    "forbidden": [
+      "Kas",
+      "Ayna",
+      "Spor",
+      "Telefon",
+      "Poz"
+    ]
+  },
+  {
+    "word": "Kas",
+    "forbidden": [
+      "Spor",
+      "Vücut",
+      "Protein",
+      "Gym",
+      "Güç"
+    ]
+  },
+  {
+    "word": "Six Pack",
+    "forbidden": [
+      "Karın",
+      "Kas",
+      "Spor",
+      "Vücut",
+      "Fitness"
+    ]
+  },
+  {
+    "word": "Protein Tozu",
+    "forbidden": [
+      "Spor",
+      "Kas",
+      "Shaker",
+      "Gym",
+      "Ürün"
+    ]
+  },
+  {
+    "word": "Bikini",
+    "forbidden": [
+      "Plaj",
+      "Mayo",
+      "Yaz",
+      "Deniz",
+      "Fotoğraf"
+    ]
+  },
+  {
+    "word": "Mayo",
+    "forbidden": [
+      "Plaj",
+      "Deniz",
+      "Havuz",
+      "Yaz",
+      "Bikini"
+    ]
+  },
+  {
+    "word": "Havuz Partisi",
+    "forbidden": [
+      "Mayo",
+      "Alkol",
+      "DJ",
+      "Yaz",
+      "Dans"
+    ]
+  },
+  {
+    "word": "Plaj Partisi",
+    "forbidden": [
+      "Kum",
+      "Deniz",
+      "DJ",
+      "Alkol",
+      "Yaz"
+    ]
+  }
+]
